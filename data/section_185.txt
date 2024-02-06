@@ -1,0 +1,22 @@
+<h2 id="r">R</h2><p>Random <strong><em>item <a href="#page_16">16</a></em></strong>, <a href="#page_32">32</a><br/>
+Random item blueprint <strong><em><a href="#page_15">15</a></em></strong>, <a href="#page_64">64</a><br/>
+Random scenario <strong><em><a href="#page_15">15</a></em></strong>, <a href="#page_32">32</a>, <a href="#page_64">64</a><br/>
+Range <strong><em><a href="#page_21">21</a></em></strong>, <a href="#page_22">22</a>, <a href="#page_25">25</a>, <a href="#page_27">27</a>, <a href="#page_31">31</a>–<a href="#page_32">32</a>, <a href="#page_41">41</a>–<a href="#page_43">43</a>, <a href="#page_74">74</a>–<a href="#page_75">75</a><br/>
+Rebuild <a href="#page_52">52</a>, <a href="#page_61">61</a>–<a href="#page_62">62</a>, <strong><em><a href="#page_68">68</a></em></strong><br/>
+Recover <strong><em><a href="#page_33">33</a></em></strong>, <a href="#page_36">36</a>, <a href="#page_38">38</a><br/>
+Regenerate <strong><em><a href="#page_28">28</a></em></strong><br/>
+Relocate (tile) <strong><em><a href="#page_33">33</a></em></strong><br/>
+Repair <a href="#page_52">52</a>, <a href="#page_54">54</a>, <strong><em><a href="#page_61">61</a></em></strong><br/>
+Replace (tile) <strong><em><a href="#page_33">33</a></em></strong><br/>
+Resource <a href="#page_16">16</a>, <a href="#page_54">54</a>, <strong><em><a href="#page_56">56</a></em></strong>, <a href="#page_61">61</a>, <a href="#page_65">65</a>–<a href="#page_66">66</a>, <a href="#page_70">70</a><br/>
+Retaliate <a href="#page_26">26</a>, <strong><em><a href="#page_31">31</a></em></strong>, <a href="#page_45">45</a><br/>
+Retire (character) <a href="#page_55">55</a>, <a href="#page_57">57</a>–<a href="#page_58">58</a>, <a href="#page_62">62</a>–<a href="#page_63">63</a>, <strong><em><a href="#page_64">64</a></em></strong>, <a href="#page_65">65</a>, <a href="#page_69">69</a><br/>
+Reveal (room) <a href="#page_14">14</a>, <strong><em><a href="#page_44">44</a></em></strong><br/>
+Rewards <a href="#page_32">32</a>, <strong><em><a href="#page_48">48</a></em></strong>, <a href="#page_64">64</a>, <a href="#page_69">69</a><br/>
+Road (event) <a href="#page_6">6</a>, <a href="#page_8">8</a>, <strong><em><a href="#page_12">12</a></em></strong>, <a href="#page_47">47</a>, <a href="#page_69">69</a><br/>
+Rockroot <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/>
+Rolling (modifier) <strong><em><a href="#page_26">26</a></em></strong>, <a href="#page_27">27</a><br/>
+Room <a href="#page_8">8</a>, <a href="#page_10">10</a>–<a href="#page_11">11</a>, <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_24">24</a>, <a href="#page_44">44</a>, <a href="#page_70">70</a>–<a href="#page_71">71</a><br/>
+Round <a href="#page_7">7</a>, <a href="#page_10">10</a>, <strong><em><a href="#page_18">18</a></em></strong>, <a href="#page_19">19</a>–<a href="#page_20">20</a>, <a href="#page_23">23</a>, <a href="#page_26">26</a>, <a href="#page_29">29</a>–<a href="#page_31">31</a>, <a href="#page_38">38</a>, <a href="#page_40">40</a>, <a href="#page_43">43</a>–<a href="#page_44">44</a>, <a href="#page_46">46</a>–<a href="#page_47">47</a>, <a href="#page_76">76</a><br/>
+Round bonus <strong><em><a href="#page_30">30</a></em></strong>, <a href="#page_46">46</a><br/>
+Round track <strong><em><a href="#page_46">46</a></em></strong><br/></p>

@@ -1,0 +1,28 @@
+<h3 id="outpost-phase-p59">Outpost Phase <a href="#page_59">p.59</a></h3><ol>
+<li>Passage of Time <a href="#page_59">p.59</a></li>
+<li>Outpost Event <a href="#page_60">p.60</a>
+<ol>
+<li>Attack Events <a href="#page_60">p.60</a></li>
+<li>Defense Checks <a href="#page_61">p.61</a></li>
+<li>Damaged Buildings <a href="#page_61">p.61</a></li>
+<li>Wrecked Buildings <a href="#page_61">p.61</a></li>
+</ol>
+</li>
+<li>Building Operations <a href="#page_62">p.62</a></li>
+<li>Downtime <a href="#page_62">p.62</a>
+<ol>
+<li>Level Up <a href="#page_62">p.62</a>
+<ol>
+<li>Perks <a href="#page_63">p.63</a></li>
+</ol>
+</li>
+<li>Retire a Character <a href="#page_64">p.64</a></li>
+<li>Create a Character <a href="#page_65">p.65</a></li>
+<li>Craft Items <a href="#page_65">p.65</a></li>
+<li>Brew Potions <a href="#page_66">p.66</a></li>
+<li>Sell Items <a href="#page_67">p.67</a></li>
+<li>Purchase Items <a href="#page_67">p.67</a></li>
+</ol>
+</li>
+<li>Construction <a href="#page_68">p.68</a></li>
+</ol>

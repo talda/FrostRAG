@@ -1,0 +1,1 @@
+<h3 id="suffer-damage">Suffer Damage</h3><p>Some abilities cause figures to suffer damage without an attack being performed. This damage is not modified by anything except ward and brittle. Suffer damage is not a targeted ability.</p>

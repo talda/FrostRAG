@@ -1,0 +1,58 @@
+<h2 id="scenario-entries">Scenario Entries</h2><p>Each scenario entry in the scenario book is critical to setting up and playing that scenario. Most scenario entries contain the following information:</p><ol type="A">
+<li>The scenario’s name and number.</li>
+<li>The scenario’s grid coordinates on the map board (or “FR” if the scenario takes place within Frosthaven itself).</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Any requirements for playing the scenario, including necessary campaign stickers or special travel icons that require the corresponding building upgrade.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> The complexity of the scenario, on a scale of 1–3. Higher complexity scenarios will generally take longer and have more special rules.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> The geographical feature where the scenario is located (if any).</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> The designers and writers of the scenario (side scenarios only).</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> The goal of the scenario. When this is achieved, the scenario is completed, and the specified section in the section book should be read at the end of the current round for the conclusion and rewards.</p>
+</blockquote>
+</li>
+<li>An introduction to the scenario.</li>
+<li>Any special rules for the scenario.</li>
+<li>Any scenario effects applied to characters.</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Section links, which will describe when you should reference the section book for additional information (see <a href="#page_7">p.7</a>). Important elements such as additional room setups can be found in these sections. Section links are read immediately when the condition described is fulfilled, even if it interrupts an ability.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> The configuration of map tiles needed for the entire scenario, with each map tile labeled. Most of the time, this will be more than the initial room. Do not reference the setup for any additional rooms, which will be detailed in the section book, until instructed. However, the map tiles for the entire scenario can be placed at once.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> The composition of the loot deck (see <a href="#page_16">p.16</a>).</p>
+</blockquote>
+</li>
+<li>The scenario key, which shows the monsters and overlay tiles needed for the entire scenario, even if they are not needed initially</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_11">11</a></strong></p><hr/><p>Each scenario entry also displays a detailed layout of the initial room of the scenario. This often includes the following information:</p><ol type="A">
+<li><strong>Starting Hexes</strong>: The characters can each place their figure (miniature or standee) in any of these hexes at the start of the scenario. However, no hex can ever contain more than one figure.</li>
+<li><strong>Overlay Tiles</strong>: These are smaller hex tiles placed on top of the map tiles to create additional map features (see <a href="#page_13">p.13</a>).</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Loot Tokens</strong>: These are objects on the map that characters can interact with to gain rewards from the loot deck (see <a href="#page_32">p.32</a>).</p>
+</blockquote>
+</li>
+<li><strong>Monster Placements</strong>: These hexes show colored bars to indicate monster placements by rank. The top bar is for two characters, the middle bar is for three characters, and the bottom bar is for four characters. Black means no monster, white means a normal monster, and yellow means an elite monster. Place each monster standee in a base whose color matches its rank. All standees for a monster type are numbered and should be randomized upon placement.</li>
+<li><strong>Notable Hexes</strong>: These hexes, denoted with letters and numbers, are explained in the special rules or section links. If the icon is green, place the corresponding scenario aid token in the hex, but if the icon is gray, do not place the token</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_12">12</a></strong></p><hr/>

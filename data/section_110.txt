@@ -1,0 +1,9 @@
+<h2 id="town-guard-deck">Town Guard Deck</h2><p>At the start of the campaign, the town guard deck is a standard 20-card deck with the following composition:</p><ul>
+<li>six <img alt="0 Icon" class="fh-icon" src="icons/attack-modifiers/fh-plus-0-icon.png" title="0 Icon"/> cards</li>
+<li>five <img alt="Minus 10 Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-10-icon.png" title="Minus 10 Icon"/> cards</li>
+<li>five <img alt="Plus 10 Icon" class="fh-icon" src="icons/attack-modifiers/fh-plus-10-icon.png" title="Plus 10 Icon"/> cards</li>
+<li>one <img alt="Minus 20 Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-20-icon.png" title="Minus 20 Icon"/> cards</li>
+<li>one <img alt="Plus 20 Icon" class="fh-icon" src="icons/attack-modifiers/fh-plus-20-icon.png" title="Plus 20 Icon"/> cards</li>
+<li>one <img alt="W Icon" class="fh-icon" src="icons/attack-modifiers/fh-w-icon.png" title="W Icon"/> cards</li>
+<li>one <img alt="S Icon" class="fh-icon" src="icons/attack-modifiers/fh-s-icon.png" title="S Icon"/> cards</li>
+</ul><p>As the town guard gains perk marks and the party gains various other bonuses during the campaign, cards will be added to and removed from the town guard deck. Each card in the deck has a unique reference number.</p><p>Cards are drawn from the town guard deck when resolving attack events (see <a href="#page_60">p.60</a>), much like how attack modifier cards are drawn when resolving attacks.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_57">57</a></strong></p><hr/>

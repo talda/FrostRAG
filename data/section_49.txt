@@ -1,0 +1,1 @@
+<h3 id="monster-order">Monster Order</h3><p>During their position in the initiative order, the elites of a monster type take their turns in ascending standee number order (before any normal monsters of that type). Then, the normal monsters of that type take their turns in ascending standee number order (see <a href="#page_40">p.40</a>).</p>

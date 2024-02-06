@@ -1,0 +1,12 @@
+<h3 id="beginning-a-scenario-p8">Beginning a Scenario <a href="#page_8">p.8</a></h3><ol>
+<li>Scenario Entries <a href="#page_10">p.10</a>
+<ol>
+<li>Road Events <a href="#page_12">p.12</a></li>
+<li>Map Tiles and Walls <a href="#page_13">p.13</a></li>
+<li>Overlay Tiles <a href="#page_13">p.13</a></li>
+<li>Loot Deck <a href="#page_16">p.16</a></li>
+</ol>
+</li>
+<li>Scenario Level <a href="#page_16">p.16</a></li>
+<li>Battle Goals <a href="#page_17">p.17</a></li>
+</ol>

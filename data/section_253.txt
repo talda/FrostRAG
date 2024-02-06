@@ -1,0 +1,10 @@
+<h3 id="if-scenario-completed">If Scenario Completed…</h3><ul>
+<li>Gain resources from loot cards.</li>
+<li>Gain checkmarks for achieving battle goals.</li>
+<li>Gain perk marks for achieving masteries.</li>
+<li>Read the scenario conclusion.</li>
+<li>Gain all scenario rewards.</li>
+<li>Gain (4 – C) inspiration.</li>
+<li>Update the map.</li>
+<li>Return to Frosthaven for an Outpost Phase (or play a linked scenario immediately).</li>
+</ul>

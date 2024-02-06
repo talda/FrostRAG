@@ -1,0 +1,12 @@
+<h2 id="i">I</h2><p>Icy terrain <strong><em><a href="#page_14">14</a></em></strong>, <a href="#page_24">24</a>, <a href="#page_41">41</a><br/>
+Immobilize <a href="#page_24">24</a>, <strong><em><a href="#page_29">29</a></em></strong><br/>
+Immune <a href="#page_15">15</a>, <a href="#page_28">28</a>–<a href="#page_29">29</a>, <strong><em><a href="#page_39">39</a></em></strong>, <a href="#page_45">45</a>, <a href="#page_76">76</a><br/>
+Impair <strong><em><a href="#page_29">29</a></em></strong><br/>
+Inert (element) <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_46">46</a><br/>
+Infuse (element) <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_43">43</a>, <a href="#page_71">71</a><br/>
+Initiative <a href="#page_15">15</a>, <a href="#page_18">18</a>, <strong><em><a href="#page_19">19</a></em></strong>, <a href="#page_31">31</a>, <a href="#page_34">34</a>, <a href="#page_38">38</a>–<a href="#page_41">41</a>, <a href="#page_43">43</a>–<a href="#page_44">44</a>, <a href="#page_70">70</a>, <a href="#page_74">74</a><br/>
+Initiative order token <strong><em><a href="#page_4">4</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_19">19</a>, <a href="#page_39">39</a>, <a href="#page_44">44</a><br/>
+Inspiration <a href="#page_15">15</a>, <a href="#page_48">48</a>, <strong><em><a href="#page_54">54</a></em></strong>, <a href="#page_64">64</a><br/>
+Introduction (scenario) <a href="#page_8">8</a>, <strong><em><a href="#page_10">10</a></em></strong><br/>
+Invisible <strong><em><a href="#page_28">28</a></em></strong><br/>
+Item <a href="#page_8">8</a>, <a href="#page_15">15</a>–<a href="#page_16">16</a>, <a href="#page_32">32</a>, <strong><em><a href="#page_35">35</a>–<a href="#page_36">36</a></em></strong>, <a href="#page_48">48</a>, <a href="#page_58">58</a>, <a href="#page_63">63</a>–<a href="#page_67">67</a>, <a href="#page_69">69</a><br/></p>

@@ -1,0 +1,142 @@
+<h1 id="appendix-d-enhancement-costs">Appendix D: Enhancement Costs</h1><blockquote>
+<p><strong>Stop! Do not read this appendix until building 44 is built.</strong></p>
+</blockquote><p>Each type of enhancement has a base cost, which is determined by the following cost chart. The cost might then be modified based on which ability is being enhanced. If applicable, apply the following cost modifiers, one at a time, in order:</p><ol>
+<li>
+<p>If the ability targets multiple figures or tiles, double the cost. This applies to abilities that summon or affect multiple allies or tokens and to abilities that can target multiple figures or tiles. This does not apply to target, area-of-effect hex, or element enhancements.</p>
+</li>
+<li>
+<p>If the action has a lost icon, but no persistent icon, halve the cost.</p>
+</li>
+<li>
+<p>If the ability provides a persistent bonus, whether or not the action has a lost icon, triple the cost. This does not apply to summon stat enhancements.</p>
+</li>
+<li>
+<p>For each level of the ability card above level 1, add 25 gold to the cost.</p>
+</li>
+<li>
+<p>For each enhancement already on the action, add 75 gold to the cost.</p>
+</li>
+</ol><p>Some enhancements do not fall neatly into the categories on the cost chart. When determining their base cost, treat damage traps as “<img alt="Attack Icon" class="fh-icon" src="icons/general/fh-attack-bw-icon.png" title="Attack Icon"/> <strong>+1</strong>” enhancements (50 gold), treat healing traps as “<img alt="Heal Icon" class="fh-icon" src="icons/general/fh-heal-bw-icon.png" title="Heal Icon"/> <strong>+1</strong>” enhancements (30 gold), and treat the movement of tokens and tiles as “<img alt="Move Icon" class="fh-icon" src="icons/general/fh-move-bw-icon.png" title="Move Icon"/> <strong>+1</strong>” enhancements (30 gold).</p><div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Enhancement</th>
+<th style="text-align: center">Base Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><strong>Move +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Attack +1</strong></td>
+<td style="text-align: center">50 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Range +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Target +1</strong></td>
+<td style="text-align: center">75 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Shield +1</strong></td>
+<td style="text-align: center">80 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Retaliate +1</strong></td>
+<td style="text-align: center">60 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Pierce +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Heal +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Push +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Pull +1</strong></td>
+<td style="text-align: center">20 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Teleport +1</strong></td>
+<td style="text-align: center">50 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Summon HP +1</strong></td>
+<td style="text-align: center">40 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Summon Move +1</strong></td>
+<td style="text-align: center">60 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Summon Attack +1</strong></td>
+<td style="text-align: center">100 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Summon Range +1</strong></td>
+<td style="text-align: center">50 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Regenerate</strong></td>
+<td style="text-align: center">40 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Ward</strong></td>
+<td style="text-align: center">75 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Strengthen</strong></td>
+<td style="text-align: center">100 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Bless</strong></td>
+<td style="text-align: center">75 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Wound</strong></td>
+<td style="text-align: center">75 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Poison</strong></td>
+<td style="text-align: center">50 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Immobilize</strong></td>
+<td style="text-align: center">150 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Muddle</strong></td>
+<td style="text-align: center">40 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Curse</strong></td>
+<td style="text-align: center">150 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Element</strong></td>
+<td style="text-align: center">100 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Wild Element</strong></td>
+<td style="text-align: center">150 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Jump</strong></td>
+<td style="text-align: center">60 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Area-of-Effect Hex</strong></td>
+<td style="text-align: center">200 Gold divided by the number of existing hexes (rounded up)</td>
+</tr>
+</tbody>
+</table>
+</div><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_78">78</a></strong></p><hr/>

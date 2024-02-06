@@ -1,0 +1,9 @@
+<h2 id="timing-of-attack-effects-p26">Timing of Attack Effects (<a href="#page_26">p.26</a>)</h2><ul>
+<li><em>+X Attack</em> (<a href="#page_25">p.25</a>) – during damage resolution</li>
+<li><em>Pierce</em> (<a href="#page_27">p.27</a>) – during damage resolution</li>
+<li><em>+X Target</em> (<a href="#page_21">p.21</a>) – after the attack resolves</li>
+<li><em>Conditions</em> (<a href="#page_28">p.28</a>) – after the attack resolves</li>
+<li><em>Forced Movement</em> (<a href="#page_32">p.32</a>) – after the attack resolves</li>
+<li><em>Other Added Effects</em> (<a href="#page_26">p.26</a>) – after the attack resolves</li>
+<li><em>Elemental Infusions</em> (<a href="#page_23">p.23</a>) – at the end of the turn</li>
+</ul>

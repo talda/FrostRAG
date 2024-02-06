@@ -1,0 +1,7 @@
+<h2 id="end-of-round-p46">End of Round (<a href="#page_46">p.46</a>)</h2><ol>
+<li>Trigger any end-of-round effects.</li>
+<li>Shuffle all decks with revealed <img alt="Shuffle Icon" class="fh-icon" src="icons/general/fh-shuffle-icon.png" title="Shuffle Icon"/> icons.</li>
+<li>Remove all round bonuses from active areas.</li>
+<li>Perform short rests if desired.</li>
+<li>Move all infused elements to the left.</li>
+</ol>

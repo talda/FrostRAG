@@ -1,0 +1,1 @@
+<h2 id="monster-turns">Monster Turns</h2><p>On a monster’s turn, it performs abilities based on the ability card drawn for its monster set. These abilities are determined by a combination of its stat card and the drawn ability card. Monster abilities are automated, following specific guidelines, so that very few decisions about monster behavior need to be made by the party.</p>

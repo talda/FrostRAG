@@ -1,0 +1,19 @@
+<h2 id="1-initial-check">1. Initial Check</h2><ol>
+<li>
+<p>Check for Conditions and Attack Ability</p>
+<ul>
+<li>
+<p>Any monster with <img alt="Disarm Icon" class="fh-icon" src="icons/conditions/fh-disarm-color-icon.png" title="Disarm Icon"/> or without an attack ability finds a focus and moves as if for a single-target melee attack.</p>
+</li>
+<li>
+<p>Any monster with <img alt="Immobilize Icon" class="fh-icon" src="icons/conditions/fh-immobilize-color-icon.png" title="Immobilize Icon"/> ignores all move abilities.</p>
+</li>
+<li>
+<p>Any monster with <img alt="Stun Icon" class="fh-icon" src="icons/conditions/fh-stun-color-icon.png" title="Stun Icon"/> cannot find a focus, will not move, and ignores all abilities.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Check for Movement Paths Check for movement paths to attack hexes (i.e., hexes from which an attack can be performed).These hexes are shown with the <img alt="Empty Hex Icon" class="fh-icon" src="icons/general/fh-hex-empty-color-icon.png" title="Empty Hex Icon"/> icon in diagrams. If no path exists, the monster cannot find a focus and will not move or attack.</p>
+</li>
+</ol>

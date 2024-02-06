@@ -1,0 +1,13 @@
+<h3 id="monster-ability-cards">Monster Ability Cards</h3><p>Each monster set has a deck of <strong>eight monster ability cards</strong>. After the characters have selected and revealed their ability cards for the round, an ability card is drawn for each monster set with at least one figure currently on the map. This ability card determines when and how the monsters in that set will act during the round.</p><p>A monster ability card can have the following:</p><ol type="A">
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Card Name:</strong> A thematic name for the card.</p>
+</blockquote>
+</li>
+<li><strong>Initiative Value:</strong> This value determines when the monsters in this set act during the round.</li>
+<li><strong>List of Abilities:</strong> This list indicates which abilities the monsters in this set perform on their turns, if possible, and in what order.</li>
+<li><strong>Shuffle Icon:</strong> At the end of the round in which a card with the shuffle icon is drawn, the discard pile is shuffled back into the deck.</li>
+<li><strong>Set Name:</strong> The name of the monster set is listed on the card back.</li>
+</ol><p><strong>The monsters in a set only perform the abilities listed on the ability card drawn for the current round.</strong> For example, if their ability card does not list a move ability, they will not move. If their ability card does not list an attack ability, they will not attack.</p><p>Sometimes the rules in this section might not fully clear up ambiguity regarding how a monster should act. In such cases, the party gets to decide the ambiguous choices. This decision does not have to result in what is best for the monster.</p><blockquote>
+<p>Appendix B provides a concise, illustrated guide for how monsters take their turns (see <a href="#page_74">p.74</a>).</p>
+</blockquote>

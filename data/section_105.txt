@@ -1,0 +1,12 @@
+<h2 id="building-deck">Building Deck</h2><p>The building deck contains a card for every interactable building that currently exists in Frosthaven. The starting building deck consists of the Barracks (level 1), Craftsman (level 1), Alchemist (level 1), and Workshop (level 1). At the start of the campaign, apply any one-time effects indicated on these cards.</p><p>The cards in the building deck should always be arranged in sequential order based on their reference numbers. If a building has multiple levels, only the card corresponding to its current level should be in the deck. Each card has a normal side and a wrecked side. When the status of a building changes, its card is flipped accordingly. All building cards not in the building deck should remain separate or stored in their original envelopes.</p><p>A building card has the following:</p><ol type="A">
+<li><strong>Name and Level:</strong> The name and level of the building.</li>
+<li><strong>Reference Number:</strong> The reference number of the building.</li>
+<li><strong>Normal Building Effect:</strong> The normal effect of the building during the Building Operations step (see <a href="#page_62">p.62</a>).</li>
+<li><strong>Available Interactions:</strong> The interactions available at the building during the Downtime step (see <a href="#page_62">p.62</a>).</li>
+<li><strong>Upgrade Cost:</strong> The prosperity level and resources required to upgrade the building.</li>
+<li><strong>Repair Cost:</strong> The resources required to repair the building when it is damaged.</li>
+<li><strong>One-Time Effects:</strong> Effects that occur when the card is first added to the deck.</li>
+<li><strong>Wrecked Building Effect:</strong> The effect of the building during the Building Operations step when it is wrecked (see <a href="#page_62">p.62</a>).</li>
+<li><strong>Unavailable Interactions:</strong> The interactions unavailable at the building during the Downtime step when it is wrecked (see <a href="#page_62">p.62</a>).</li>
+<li><strong>Rebuild Cost:</strong> The resources required to rebuild the building when it is wrecked.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_53">53</a></strong></p><hr/>

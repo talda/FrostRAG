@@ -1,0 +1,7 @@
+<h2 id="end-of-round">End Of Round</h2><p>After all figures on the map have taken a turn (except figures that were summoned during the round), the End of Round step begins. Perform the following operations in order:</p><ol>
+<li>Trigger any end-of-round effects in the scenario rules or on items or character ability cards.</li>
+<li>If any drawn attack modifier card or monster ability card has a shuffle icon, shuffle the corresponding discard pile back into the deck.</li>
+<li>If any character ability card in a character’s active area has a round bonus, place it in their discard pile or lost pile, depending on whether the action has a lost icon.</li>
+<li>Any character who has at least two cards in theirdiscard pile may perform a short rest (see <a href="#page_38">p.38</a>).</li>
+<li>Move any infused elements one column to the left on the element board, from strong to waning or from waning to inert.</li>
+</ol>

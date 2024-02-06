@@ -1,0 +1,13 @@
+<h2 id="l">L</h2><p>L (equations) <strong><em><a href="#page_46">46</a></em></strong><br/>
+Level (character) <a href="#page_4">4</a>–<a href="#page_6">6</a>, <a href="#page_8">8</a>, <a href="#page_16">16</a>, <a href="#page_34">34</a>–<a href="#page_35">35</a>, <a href="#page_37">37</a>, <a href="#page_53">53</a>, <strong><em><a href="#page_62">62</a>–<a href="#page_63">63</a></em></strong>, <a href="#page_65">65</a>, <a href="#page_68">68</a>, <a href="#page_70">70</a>, <a href="#page_76">76</a><br/>
+Level (scenario) <a href="#page_6">6</a>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <strong><em><a href="#page_16">16</a></em></strong>, <a href="#page_39">39</a>, <a href="#page_46">46</a>–<a href="#page_47">47</a>, <a href="#page_69">69</a>, <a href="#page_76">76</a><br/>
+Level up <a href="#page_37">37</a>, <strong><em><a href="#page_62">62</a>–<a href="#page_63">63</a></em></strong>, <a href="#page_65">65</a>, <a href="#page_68">68</a><br/>
+Line-of-sight <strong><em><a href="#page_21">21</a></em></strong>, <a href="#page_22">22</a>, <a href="#page_41">41</a><br/>
+Linked (scenario) <strong><em><a href="#page_48">48</a></em></strong>, <a href="#page_51">51</a>, <a href="#page_59">59</a>, <a href="#page_70">70</a><br/>
+Linked (hexes) <strong><em><a href="#page_46">46</a></em></strong><br/>
+Locked (door) <strong><em><a href="#page_46">46</a></em></strong><br/>
+Long rest <a href="#page_18">18</a>–<a href="#page_19">19</a>, <a href="#page_29">29</a>, <a href="#page_34">34</a>, <a href="#page_36">36</a>, <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_70">70</a><br/>
+Loot (ability) <a href="#page_15">15</a>–<a href="#page_16">16</a>, <strong><em><a href="#page_32">32</a></em></strong>, <a href="#page_37">37</a>, <a href="#page_43">43</a>, <a href="#page_76">76</a><br/></p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_81">81</a></strong></p><hr/><p>Loot card <a href="#page_8">8</a>, <a href="#page_10">10</a>, <strong><em><a href="#page_16">16</a></em></strong>, <a href="#page_32">32</a>, <a href="#page_70">70</a><br/>
+Lost (card) <a href="#page_30">30</a>–<a href="#page_31">31</a>, <a href="#page_33">33</a>–<a href="#page_37">37</a>, <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_46">46</a>–<a href="#page_47">47</a><br/>
+Lost (scenario) <a href="#page_12">12</a>, <a href="#page_17">17</a>, <strong><em><a href="#page_47">47</a></em></strong>, <a href="#page_59">59</a><br/>
+Lumber <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/></p>

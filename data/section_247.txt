@@ -1,0 +1,8 @@
+<h2 id="targeted-abilities-p21">Targeted Abilities (<a href="#page_21">p.21</a>)</h2><ul>
+<li>Attack (<a href="#page_25">p.25</a>)</li>
+<li>Conditions (<a href="#page_28">p.28</a>)</li>
+<li>Heal (<a href="#page_29">p.29</a>)</li>
+<li>Forced Movement (<a href="#page_32">p.32</a>)</li>
+<li>Commanding Figures (<a href="#page_33">p.33</a>)</li>
+<li>Manipulating Tiles (<a href="#page_33">p.33</a>)</li>
+</ul>

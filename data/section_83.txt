@@ -1,0 +1,15 @@
+<h3 id="monster-stat-cards">Monster Stat Cards</h3><p>Each monster type has a double-sided <strong>monster stat card</strong>, which determines its base stats at every level. To set the level for a monster type, its stat card is inserted in a stat sleeve so that only the relevant stats are shown. Each stat sleeve has a six-section side and a 10-section side. The side to use for a monster type depends on whether that type has four to six standees or 10 standees.</p><p>A monster stat card can have the following:</p><ol type="A">
+<li><strong>Monster Name:</strong> The name of the monster type.</li>
+<li><strong>Monster Level:</strong> This level, which matches the scenario level, indicates how to insert the stat card into the stat sleeve.</li>
+<li><strong>Monster Rank:</strong> These subsections show stat blocks for normal monsters (left) and elite monsters (right) of this type.</li>
+<li><strong>Hit Point Value:</strong> This is the total amount of damage that a monster of this type can suffer before it dies.</li>
+<li><strong>Movement Value:</strong> This is the base amount of movement points that a monster of this type gains when performing a move ability.</li>
+<li><strong>Attack Value:</strong> This is the base amount of damage that a monster of this type deals when performing an attack ability.</li>
+<li><strong>Persistent Bonuses:</strong> These are active bonuses that a monster of this type has for the entire scenario.</li>
+<li><strong>Attack Effects:</strong> These are effects that apply to all attack abilities performed by a monster of this type.</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Condition Immunities:</strong> These are conditions that a monster of this type is prevented from gaining due to immunity.</p>
+</blockquote>
+</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_40">40</a></strong></p><hr/>

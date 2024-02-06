@@ -1,0 +1,24 @@
+<h3 id="level-up">Level Up</h3><p>If a character’s experience total is equal to or greater than the experience requirement of their next level, they must level up during the Downtime step. Leveling up has an experience requirement, as shown on the character sheet, but not an experience cost. A character’s experience total does not reset when they level up.</p><p>If a character’s level is lower than half the current prosperity level (rounded up), they may level up during the Downtime step without meeting the experience requirement, even multiple times, as long as their level does not exceed half the current prosperity level (rounded up). After they level up, set their experience total to match the experience requirement of their new level. This method of leveling up is optional, unlike leveling up through experience.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_63">63</a></strong></p><hr/><p>Leveling up can only be done during the Outpost Phase. Characters cannot level up during a scenario or even between scenarios if the party does not return to Frosthaven for an Outpost Phase (e.g., when the party attempts a linked scenario).</p><p>When a character levels up, they must do the following:</p><ul>
+<li>
+<p><strong>Add Ability Card:</strong> Add one new ability card to their pool. The card they choose must match their class and must be of a level equal to or lower than their new level. For example, when a character reaches level 2, they can add one of their two level 2 ability cards. Then, when they reach level 3, they can add one of their two level 3 ability cards or their other level 2 ability card. This does not increase their maximum hand size, it simply increases the pool of cards available to them at the start of a scenario.</p>
+</li>
+<li>
+<p><strong>Increase Hit Points:</strong> Increase their maximum hit point value. On the level track at the bottom of their character mat, the number printed in red below their new level indicates their new maximum hit point value.</p>
+</li>
+<li>
+<p><strong>Gain Perk Mark:</strong> Gain one new perk mark <img alt="Checked Perk Icon" class="fh-icon" src="icons/general/fh-checked-perk-icon.png" title="Checked Perk Icon"/>.The new perk mark is applied to the list on the right side of their character sheet by marking one corresponding box. Additional rules for gaining perks are outlined below.</p>
+</li>
+</ul><h4 id="perks">Perks</h4><p>Perks allow characters to fine-tune their attack modifier decks by adding and removing cards permanently. When a character gains a perk mark, they choose a perk from the perk list on the right side of their character sheet, mark the corresponding box, and resolve any change to their attack modifier deck. The effects of a perk are resolved as soon as the perk is gained, even when it is gained outside of the Downtime step.</p><p>The number of unlinked boxes shown next to a perk in the perk list indicates the maximum number of times that the perk can be gained, with each box requiring one perk mark. Some perks instead have multiple linked boxes, and all of these boxes must be filled with perk marks to gain the perk once.</p><p>The “ignore item <img alt="Minus 1 Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-1-bw-icon.png" title="Minus 1 Icon"/> effects” perk only applies to the added <img alt="Minus 1 Color Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-1-color-icon.png" title="Minus 1 Color Icon"/> attack modifier cards denoted in the lower left corner of some items. The “ignore scenario effects” perk only applies to effects labeled as scenario effects in the scenario book. If a perk provides the character with any other benefit unrelated to their attack modifier deck, they can keep the relevant perk reminder card in their active area as a reminder.</p><p>Perk marks can be gained in four ways:</p><ul>
+<li>
+<p><strong>Leveling Up:</strong> Each time a character levels up, they gain one perk mark.</p>
+</li>
+<li>
+<p><strong>Gaining Checkmarks:</strong> Each time a character completes a set of three checkmarks, they gain one perk mark.</p>
+</li>
+<li>
+<p><strong>Creating Characters:</strong> Each time a new character is created, they gain a number of perk marks equal to the number of characters previously retired by that player during the campaign.</p>
+</li>
+<li>
+<p><strong>Achieving Masteries:</strong> Each time a character achieves a new mastery, they gain one perk mark.</p>
+</li>
+</ul><p>Sometimes, a character will be instructed to lose checkmarks. However, perk marks cannot be lost, so checkmarks can only be lost back to the last complete set of three checkmarks. For example, if a character has eight checkmarks, it is possible for them to lose up to two checkmarks, but no more.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_64">64</a></strong></p><hr/>

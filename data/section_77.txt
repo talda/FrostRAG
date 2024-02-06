@@ -1,0 +1,1 @@
+<h3 id="end-of-turn-looting">End-of-Turn Looting</h3><p>Characters must loot any loot tokens or treasure tiles present in their hex <strong>at the end of their turn.</strong> No figures besides characters perform end-of-turn looting.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_38">38</a></strong></p><hr/>

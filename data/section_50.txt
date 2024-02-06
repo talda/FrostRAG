@@ -1,0 +1,1 @@
+<h3 id="character-summons">Character Summons</h3><p>Character summons take their turns during the summoning character’s position in the initiative order, but immediately before the character. Multiple summons from the same character take their turns in the order they were summoned (see <a href="#page_31">p.31</a>).</p>

@@ -1,0 +1,6 @@
+<h2 id="scenario-phase-p18">Scenario Phase (<a href="#page_18">p.18</a>)</h2><ol>
+<li>Card Selection</li>
+<li>Ordering of Initiative</li>
+<li>Character and Monster Turns</li>
+<li>End of Round</li>
+</ol>

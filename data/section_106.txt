@@ -1,0 +1,12 @@
+<h2 id="character-sheet">Character Sheet</h2><p>Each member of the party has a separate character sheet that tracks a variety of information related to the progression of their character. Each pad contains multiple sheets, but only one character of each class can exist at any given time.</p><p>A character sheet has the following:</p><ol type="A">
+<li><strong>Class:</strong> The icon and name of the character’s class.</li>
+<li><strong>Name:</strong> A space to write the name given to the character.</li>
+<li><strong>Level:</strong> A track to mark the character’s current level, which also shows the experience requirement to reach each level.</li>
+<li><strong>Experience:</strong> A space to record the character’s current experience total.</li>
+<li><strong>Gold:</strong> A space to record the character’s current gold total. Gold cannot be transferred between characters.</li>
+<li><strong>Resources:</strong> A space to record the character’s personal supply of resources.</li>
+<li><strong>Notes:</strong> A space for general notes like battle goals and personal quests.</li>
+<li><strong>Masteries:</strong> A list of two masteries, unique to the character’s class, that can be achieved to gain perk marks (see <a href="#page_48">p.48</a>).</li>
+<li><strong>Checkmarks:</strong> A track for up to 18 checkmarks. For every set of three checkmarks, the character gains a perk mark (see <a href="#page_63">p.63</a>).</li>
+<li><strong>Perks:</strong> A list of character perks, unique to the character’s class, that can be gained by spending perk marks (see <a href="#page_63">p.63</a>).</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_53">53</a></strong></p><hr/>

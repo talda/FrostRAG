@@ -1,0 +1,5 @@
+<h3 id="scenario-details">Scenario Details</h3><ul>
+<li>The recommended scenario level is half the average character level (rounded up).</li>
+<li>Characters can each bring into a scenario a number of small items equal to half their level (rounded up).</li>
+<li>The end of a scenario can only occur at the end of a round.</li>
+</ul><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_77">77</a></strong></p><hr/>

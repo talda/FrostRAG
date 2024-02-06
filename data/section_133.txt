@@ -1,0 +1,1 @@
+<h3 id="purchase-items">Purchase Items</h3><p>Items cannot be purchased freely until building 37 is built. Until that happens, the items in the available purchasable supply can only be purchased with starting gold upon the creation of a new character or when a game effect specifically allows a character to do so.</p>

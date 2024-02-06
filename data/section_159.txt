@@ -1,0 +1,5 @@
+<h3 id="bless-and-curse">Bless and Curse</h3><ul>
+<li>When there are two opposing sides for the monsters in a scenario, they use two different attack modifier decks (<img alt="Monster Icon" class="fh-icon" src="icons/general/fh-monster-icon.png" title="Monster Icon"/> and <img alt="Ally Icon" class="fh-icon" src="icons/general/fh-ally-icon.png" title="Ally Icon"/>) and thus are affected by bless and curse separately.</li>
+<li>Immunity to curse prevents a figure from adding a curse card to their deck, but does not prevent a drawn curse card from taking effect.</li>
+<li>Bless and curse cards are returned to the supply once resolved, instead of placed in the discard pile. They are removed from all decks at the end of each scenario.</li>
+</ul>

@@ -1,0 +1,17 @@
+<h1 id="campaign-overview">Campaign Overview</h1><p>The campaign represents the entire scope of the game, played across many Scenario Phases and Outpost Phases. The collective group of characters you play is referred to as “the party.” New characters will join the party and old characters will leave the party, but it is always the same party throughout the campaign.</p><p>Over the course of the campaign, you will adventure through a multitude of scenarios, encounter a variety of events, level up, purchase and craft gear, retire your characters, create new ones, and improve the outpost of Frosthaven. There is an eventual ending to the campaign narrative, but you are welcome to continue past that point, replaying scenarios and exploring further to unlock content you have not yet discovered.</p><p>Campaign information is tracked mainly by the following:</p><ul>
+<li>
+<p><strong>Map Board:</strong> This provides a visual representation of which scenarios have been unlocked and which buildings have been built in Frosthaven.</p>
+</li>
+<li>
+<p><strong>Scenario Flowchart:</strong> This provides a more detailed overview of unlocked scenarios.</p>
+</li>
+<li>
+<p><strong>Building Deck:</strong> This provides detailed information on the buildings in Frosthaven.</p>
+</li>
+<li>
+<p><strong>Character Sheets:</strong> These track each character’s progression and supply.</p>
+</li>
+<li>
+<p><strong>Campaign Sheet:</strong> This tracks all of the other campaign variables.</p>
+</li>
+</ul>

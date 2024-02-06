@@ -1,0 +1,3 @@
+<h3 id="map-tiles-and-walls">Map Tiles and Walls</h3><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Each map tile is considered to be full of empty hexes (no overlay tiles or figures). These traversable hexes are surrounded by walls consisting of border hexes separated by wall lines.</p>
+</blockquote><p>Wall lines cannot be crossed, and a grouping of hexes surrounded by walls is considered a <strong>room</strong>. A hex is considered adjacent to a wall if it shares a border with a wall line. A hex is not considered adjacent to a hex on the other side of an adjacent wall line</p>

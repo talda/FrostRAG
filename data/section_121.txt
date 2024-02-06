@@ -1,0 +1,711 @@
+<h2 id="3-building-operations">3. Building Operations</h2><p>After the Outpost Event step, resolve the effects of all buildings. Go through the building deck in sequential order, one card at a time. For each building, resolve any normal or wrecked effect, which appears at the top of its card next to the <img alt="Building Operation Icon" class="fh-icon" src="icons/general/fh-building-operation-bw-icon.png" title="Building Operation Icon"/> icon.</p><p>When the party gains or loses gold or resources due to these effects, they can be added to or taken from the Frosthaven supply or the characters’ personal supplies, in any combination. If a loss cannot be resolved fully, the party loses as much as possible, but there is no other penalty. However, some buildings have optional effects, with benefits that can only be gained if the associated cost is paid fully.</p><p>Because the Building Operations step occurs immediately after the Outpost Event step, any building that was wrecked during the outpost event will have its wrecked effect resolved once before the party even has an opportunity to rebuild it.</p><details>
+<summary>
+<h2 id="sticker_10" style="display: inline;">Sticker 10</h2>
+</summary>
+<h3 id="garden">Garden</h3>
+<p>Once the Garden has been built, the party may spend any one herb resource during the Building Operations step to affix a matching sticker to any plot. The Garden starts with only one plot, but more plots become available at higher levels. Each plot can only have one sticker at a time, but any sticker can be covered by another sticker later.</p>
+<p>The Garden will be harvested every two weeks (or every week at higher levels) when it is not wrecked. When the Garden is harvested, for each plot with a sticker, the party gains one matching herb resource. Do not remove the stickers.</p>
+<p>When the Garden is upgraded to level 2, make sure to keep its card in the same orientation within the building deck.</p>
+</details><h2 id="4-downtime">4. Downtime</h2><p>After the Building Operations step, characters may perform downtime activities in any order they would like. Many of these activities require characters to interact with a specific building, which they cannot do if the building is wrecked.</p><ul>
+<li><strong>Level Up</strong> <a href="#page_62">p.62</a></li>
+<li><strong>Retire a Character</strong> <a href="#page_64">p.64</a></li>
+<li><strong>Create a Character</strong> <a href="#page_65">p.65</a></li>
+<li><strong>Craft Items</strong> <a href="#page_65">p.65</a></li>
+<li><strong>Brew Potions</strong> <a href="#page_66">p.66</a></li>
+<li><strong>Sell Items</strong> <a href="#page_67">p.67</a></li>
+</ul><h2 id="sticker-11">Sticker 11</h2><h2 id="sticker-12">Sticker 12</h2><h3 id="level-up">Level Up</h3><p>If a character’s experience total is equal to or greater than the experience requirement of their next level, they must level up during the Downtime step. Leveling up has an experience requirement, as shown on the character sheet, but not an experience cost. A character’s experience total does not reset when they level up.</p><p>If a character’s level is lower than half the current prosperity level (rounded up), they may level up during the Downtime step without meeting the experience requirement, even multiple times, as long as their level does not exceed half the current prosperity level (rounded up). After they level up, set their experience total to match the experience requirement of their new level. This method of leveling up is optional, unlike leveling up through experience.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_63">63</a></strong></p><hr/><p>Leveling up can only be done during the Outpost Phase. Characters cannot level up during a scenario or even between scenarios if the party does not return to Frosthaven for an Outpost Phase (e.g., when the party attempts a linked scenario).</p><p>When a character levels up, they must do the following:</p><ul>
+<li>
+<p><strong>Add Ability Card:</strong> Add one new ability card to their pool. The card they choose must match their class and must be of a level equal to or lower than their new level. For example, when a character reaches level 2, they can add one of their two level 2 ability cards. Then, when they reach level 3, they can add one of their two level 3 ability cards or their other level 2 ability card. This does not increase their maximum hand size, it simply increases the pool of cards available to them at the start of a scenario.</p>
+</li>
+<li>
+<p><strong>Increase Hit Points:</strong> Increase their maximum hit point value. On the level track at the bottom of their character mat, the number printed in red below their new level indicates their new maximum hit point value.</p>
+</li>
+<li>
+<p><strong>Gain Perk Mark:</strong> Gain one new perk mark <img alt="Checked Perk Icon" class="fh-icon" src="icons/general/fh-checked-perk-icon.png" title="Checked Perk Icon"/>.The new perk mark is applied to the list on the right side of their character sheet by marking one corresponding box. Additional rules for gaining perks are outlined below.</p>
+</li>
+</ul><h4 id="perks">Perks</h4><p>Perks allow characters to fine-tune their attack modifier decks by adding and removing cards permanently. When a character gains a perk mark, they choose a perk from the perk list on the right side of their character sheet, mark the corresponding box, and resolve any change to their attack modifier deck. The effects of a perk are resolved as soon as the perk is gained, even when it is gained outside of the Downtime step.</p><p>The number of unlinked boxes shown next to a perk in the perk list indicates the maximum number of times that the perk can be gained, with each box requiring one perk mark. Some perks instead have multiple linked boxes, and all of these boxes must be filled with perk marks to gain the perk once.</p><p>The “ignore item <img alt="Minus 1 Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-1-bw-icon.png" title="Minus 1 Icon"/> effects” perk only applies to the added <img alt="Minus 1 Color Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-1-color-icon.png" title="Minus 1 Color Icon"/> attack modifier cards denoted in the lower left corner of some items. The “ignore scenario effects” perk only applies to effects labeled as scenario effects in the scenario book. If a perk provides the character with any other benefit unrelated to their attack modifier deck, they can keep the relevant perk reminder card in their active area as a reminder.</p><p>Perk marks can be gained in four ways:</p><ul>
+<li>
+<p><strong>Leveling Up:</strong> Each time a character levels up, they gain one perk mark.</p>
+</li>
+<li>
+<p><strong>Gaining Checkmarks:</strong> Each time a character completes a set of three checkmarks, they gain one perk mark.</p>
+</li>
+<li>
+<p><strong>Creating Characters:</strong> Each time a new character is created, they gain a number of perk marks equal to the number of characters previously retired by that player during the campaign.</p>
+</li>
+<li>
+<p><strong>Achieving Masteries:</strong> Each time a character achieves a new mastery, they gain one perk mark.</p>
+</li>
+</ul><p>Sometimes, a character will be instructed to lose checkmarks. However, perk marks cannot be lost, so checkmarks can only be lost back to the last complete set of three checkmarks. For example, if a character has eight checkmarks, it is possible for them to lose up to two checkmarks, but no more.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_64">64</a></strong></p><hr/><h3 id="retire-a-character">Retire a Character</h3><p>If a character has fulfilled the requirements of their personal quest, they must retire during the Downtime step, though they can perform all other downtime activities they would like to before doing so. Having achieved what they set out to do, they are no longer motivated to explore the monster-filled wilderness. Retired characters can no longer participate in the campaign with the rest of the party.</p><p>When a character retires, the completion of their personal quest gains the party 2 prosperity and unlocks the building envelope specified on the personal quest card. If a specified envelope is already unlocked, the alternate envelope is unlocked instead. If both envelopes are already unlocked, the party instead gains a random scenario (or 1 inspiration if that deck is depleted) and a random item blueprint (or 1 inspiration if that deck is depleted).</p><p>The retiring character may spend 15 inspiration once to draw two additional personal quests and choose one to complete immediately, without fulfilling its requirements, and shuffle the other back into the deck. This gains the party 2 more prosperity and unlocks another building envelope. The effects of completing two personal quests upon retirement are resolved simultaneously, so that they do not influence each other.</p><p>A personal quest card has the following:</p><ol type="A">
+<li><strong>Title:</strong> A thematic title for the quest.</li>
+<li><strong>Description:</strong> A short description of the quest.</li>
+<li><strong>Requirements:</strong> The specific requirements for completing the quest.</li>
+<li><strong>Rewards:</strong> The building envelope unlocked by completing the quest.</li>
+</ol><h4 id="after-retirement">After Retirement</h4><p>For each class, the first time a character of that class retires during the campaign, flip their character mat over and find the section number found near the bottom on the back side. After the retiring character has resolved the completion of their personal quest, read the indicated section from the section book.</p><p>As characters retire, record them in the retirement table on the campaign sheet, noting the character name, player name, and the other indicated information. When a new character is created, they gain one perk mark for each character previously retired by that player. If a single player is playing solo with multiple characters (see <a href="#page_69">p.69</a>), count each character’s lineage separately for this purpose.</p><p>After a character retires, their personal quest is removed from the game, as well as any additional personal quest they completed upon retirement. Their character materials are put back in the corresponding tuck boxes. Their items are returned to the available supply, their resources are moved to the Frosthaven supply, and their gold is lost.</p><p>Retirement can only be done during the Downtime step. Characters cannot retire during a scenario or even between scenarios if the party does not return to Frosthaven for an Outpost Phase (e.g., when the party attempts a linked scenario).</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_65">65</a></strong></p><hr/><h3 id="create-a-character">Create a Character</h3><p>After a player retires their previous character, or if they simply wish to try something new, they can create a new character during the Downtime step.</p><p>If their previous character has not yet been retired, the player can either set the character aside to play again later or abandon the character. When set aside, their personal quest, items, gold, and resources are all kept. When abandoned, their personal quest is shuffled back into the deck, their items are returned to the available supply, their resources are moved to the Frosthaven supply, and their gold is lost.</p><p>When creating a character, a player may choose any class without an active character. This includes classes that have already been played during the campaign, as long as all previous characters of the chosen class have been retired or abandoned (not merely set aside). As the campaign progresses, new classes will be unlocked.</p><h4 id="initial-benefits">Initial Benefits</h4><p>The new character draws two personal quests, choosing one to keep and shuffling the other back into the deck. It is possible for the personal quest deck to get depleted. When this happens, any new characters created during the campaign do not receive personal quests and therefore cannot ever be retired. Players can still set aside or abandon such characters whenever they wish, however.</p><p>The new character starts with (10 × P + 20) gold, where “P” is the current prosperity level. This starting gold must be spent immediately on items in the available purchasable supply. Any unspent remainder is lost.</p><p>The new character gains a number of perk marks equal to the number of characters previously retired by that player during the campaign.</p><h4 id="prosperity-leveling">Prosperity Leveling</h4><p>Since a new character always starts at level 1, they may immediately level up without meeting the experience requirement, even multiple times, as long as their level does not exceed half the current prosperity level (rounded up). After they level up, set their experience total to match the experience requirement of their new level.</p><h3 id="craft-items">Craft Items</h3><p>Non-potion items can be crafted by interacting with the Craftsman building. Characters craft an item by spending the required resources or items. When paying crafting costs, material resources cannot be taken from the Frosthaven supply, but herb resources can. The crafting character gains one copy of the crafted item.</p><p>At the start of the campaign, only items 001–010 are available to be crafted. As the Craftsman gets upgraded and as the party discovers new item blueprints, more items will be added to the available craftable supply. Any item in the available craftable supply can be crafted.</p><p>When an item is required to craft another item, if all copies of the required item are owned by other members of the party, the crafting character may spend the gold, resources, or items listed as the required item’s cost in place of spending the item itself.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_66">66</a></strong></p><hr/><h3 id="brew-potions">Brew Potions</h3><p>Potion items can be brewed by interacting with the Alchemist building. Characters brew a potion by spending any two herb resources, taken from the Frosthaven supply or their personal supply, in any combination. Refer to the combination of those two herbs on the alchemy chart to see which potion is brewed. The brewing character gains one copy of the brewed potion, which they may keep or immediately give to another member of the party.</p><p>At the start of the campaign, all windows on the alchemy chart are closed, so the potion formulas are unknown. The first time that a new combination is brewed during the campaign, open and tear off the corresponding window of the alchemy chart to reveal the potion. Once the potion has been revealed, the action cannot be undone. After the brewing character gains one copy of the brewed potion, move all remaining copies to the available craftable supply.</p><h4 id="alchemist-level-2">Alchemist: Level 2</h4><p>Once the Alchemist has been upgraded to level 2, brewed potions can be distilled. Characters distill a potion by returning it from their pool of items to the available craftable supply. The distilling character gains any one of the herb resources required to brew the potion. If the same potion has been revealed in multiple windows of the alchemy chart, the distilling character can choose one herb resource from any of those potion formulas. Potions that have not yet been revealed on the alchemy chart cannot be distilled.</p><h4 id="alchemist-level-3">Alchemist: Level 3</h4><p>Once the Alchemist has been upgraded to level 3, more powerful potions can be brewed by spending any three herb resources. These three-herb combinations each have their own window on the alchemy chart. All three-herb combinations brewed with two or more of the same herb resource create the same potion, which cannot be distilled.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_67">67</a></strong></p><hr/><h3 id="sell-items">Sell Items</h3><p>Items from a character’s pool can be sold during the Downtime step. When a character gains another copy of an item they already own, they must sell it immediately. When a character sells a purchasable item, they gain gold equal to half its gold cost (rounded down). When a character sells a craftable item, they gain 2 gold for each resource or item required to craft it. Return items to the corresponding available supply when sold.</p><h3 id="purchase-items">Purchase Items</h3><p>Items cannot be purchased freely until building 37 is built. Until that happens, the items in the available purchasable supply can only be purchased with starting gold upon the creation of a new character or when a game effect specifically allows a character to do so.</p><h2 id="sticker-13-cover-purchase-items-text-above">Sticker 13 (Cover “Purchase Items” Text Above)</h2><h2 id="sticker-14">Sticker 14</h2><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_68">68</a></strong></p><hr/><h2 id="5-construction">5. Construction</h2><p>After the Downtime step, the party may build, upgrade, and rebuild buildings. <strong>They may build or upgrade one building by default, and they may lose 2 morale to build or upgrade a second building.</strong> Buildings cannot be upgraded while wrecked. The party may also rebuild any number of wrecked buildings, but not until after any builds and upgrades.</p><p>Building and upgrading always has a prosperity requirement <img alt="Prosperity Icon" class="fh-icon" src="icons/general/fh-building-prosperity-bw-icon.png" title="Prosperity Icon"/>. The build or upgrade can only be performed if the current prosperity level meets or exceeds the prosperity requirement of that build or upgrade, which is shown next to the build cost (on the map board) or upgrade cost (on the building card).</p><p>When a build or upgrade causes the prosperity level to increase, any character whose level is lower than half the new prosperity level (rounded up) may immediately level up without meeting the experience requirement, even multiple times, as long as their level does not exceed half the new prosperity level (rounded up). After they level up, set their experience total to match the experience requirement of their new level.</p><details>
+<summary>
+<h2 id="sticker_15" style="display: inline;">Sticker 15</h2>
+</summary>
+<h3 id="carpenter">Carpenter</h3>
+<p>Once the Carpenter has been built, the cost to build, upgrade, or rebuild any building is reduced by any one material resource. Once the Carpenter has been upgraded to level 2, the party only loses 1 morale (not 2) if they wish to build or upgrade a second building during the Construction step. If the Carpenter is wrecked, these bonuses do not apply.</p>
+</details><h3 id="build">Build</h3><p><img alt="Build Icon" src="icons/general/fh-build-icon.png" title="Build Icon" width="42"/>  To build an unlocked building, the party must pay its build cost, which is shown on the building’s “L0” sticker (or printed directly on the map board itself in some cases) with resources from the Frosthaven supply.</p><p>When this cost is paid, cover it with the matching level 1 sticker and insert the matching level 1 card into the building deck in sequential order.</p><p>The party then gains the prosperity bonus and applies any other one-time effects indicated on the building card. During the next Outpost Phase, the building’s normal effect will resolve and its interactions will be available (unless it gets wrecked).</p><h3 id="upgrade">Upgrade</h3><p><img alt="Building Upgrade Icon" src="icons/general/fh-building-upgrade-bw-icon.png" title="Building Upgrade Icon" width="42"/>  To upgrade an existing building, the party must pay its upgrade cost, which is shown on the normal side of the current building card, with resources from the Frosthaven supply.</p><p>When this cost is paid, cover the old sticker with the one for the next level and replace the old card in the building deck with the one for the next level.</p><p>The party then gains the prosperity bonus and applies any other one-time effects indicated on the new building card.</p><h3 id="rebuild">Rebuild</h3><p><img alt="Rebuild Building Icon" src="icons/general/fh-building-wrecked-bw-icon.png" title="Rebuild Building Icon" width="42"/>  To rebuild a wrecked building, the party must pay the rebuild cost, which is shown on the wrecked side of the building card, with resources from the Frosthaven supply.</p><p>When this cost is paid, flip the building card back over to its normal side within the building deck.</p><p>During the next Outpost Phase, the building’s normal effect will resolve and its interactions will be available again (unless it gets wrecked).</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_69">69</a></strong></p><hr/><h1 id="game-variants">Game Variants</h1><h3 id="casual-mode">Casual Mode</h3><p>In casual mode, the party can play any unlocked scenario, regardless of its requirements. When a scenario is played in casual mode, all campaign effects are ignored. No event is resolved, time does not pass, and the party does not gain any experience, loot, treasures, checkmarks, personal quest progress, rewards, unlockables, etc. The outcome of the scenario has no impact on the campaign. However, completed scenarios can be replayed as part of the campaign (i.e., not in casual mode) as long as the party still meets their requirements.</p><h3 id="crossover-classes">Crossover Classes</h3><p>Any unlocked class from another <em>Gloomhaven</em> game can be chosen when creating a new character in <em>Frosthaven</em>.Conversely, any unlocked class from <em>Frosthaven</em> can be chosen when creating a new character in another <em>Gloomhaven</em> game. Classes may keep all of their previous enhancements, but doing so might cause imbalance. New character sheets for these crossover classes, which include traits and other useful additions, are available at <a href="https://cephalofair.com/frosthaven">cephalofair.com/frosthaven</a>.</p><h3 id="temporary-enhancements">Temporary Enhancements</h3><p>With this variant, enhancement stickers are removed when a character retires. This can be facilitated by affixing the stickers to card sleeves, instead of directly to the ability cards, or by applying reusable stickers (which are sold separately). Temporary enhancements have a reduced cost: First, calculate the normal enhancement cost, including any discounts. Next, if the action has at least one previous enhancement, reduce the cost by 20 gold. Finally, reduce the cost by 20 percent (rounded up).</p><h3 id="reduced-randomness">Reduced Randomness</h3><p>With this variant, parties who want less randomness can reduce the range of outcomes caused by attack modifier cards. Treat all <img alt="Miss Icon" class="fh-icon" src="icons/attack-modifiers/fh-miss-icon.png" title="Miss Icon"/> and <img alt="Curse Icon" class="fh-icon" src="icons/conditions/fh-curse-color-icon.png" title="Curse Icon"/> cards as <img alt="-2 Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-2-color-icon.png" title="-2 Icon"/> cards instead, and treat all <img alt="2X Icon" class="fh-icon" src="icons/attack-modifiers/fh-2x-icon.png" title="2X Icon"/> and <img alt="Bless icon" class="fh-icon" src="icons/conditions/fh-bless-color-icon.png" title="Bless icon"/> cards as <img alt="+2 Icon" class="fh-icon" src="icons/attack-modifiers/fh-plus-2-color-icon.png" title="+2 Icon"/> cards instead. Even though these cards no longer have the same modifiers, the effect of the shuffle icon still applies. Any item effects or other game effects that refer to <img alt="Miss Icon" class="fh-icon" src="icons/attack-modifiers/fh-miss-icon.png" title="Miss Icon"/> or <img alt="2X Icon" class="fh-icon" src="icons/attack-modifiers/fh-2x-icon.png" title="2X Icon"/> cards are unaffected.</p><h3 id="solo-mode">Solo Mode</h3><p>A single player can play solo by controlling two or more characters. Because playing solo reduces uncertainty and makes coordination easier, increase the difficulty by calculating the scenario level differently for solo mode. Take the average level of all characters in the scenario, then add 1 before dividing by 2 and rounding up. For example, on recommended difficulty with three level 4 characters, the scenario level would be ((4 + 4 + 4) ÷ 3 ÷ 2) = 2, but in solo mode it would be ((((4 + 4 + 4) ÷ 3) + 1) ÷ 2) = 3.</p><h3 id="open-information">Open Information</h3><p>With this variant, parties who want fewer restrictions can share exactly which cards they have in hand and discuss specific details about their plans during card selection, which is normally disallowed by the limits on communication. This is not the recommended way to play the game, but some parties may prefer this play style. Because playing with open information reduces uncertainty and makes coordination easier, increase the difficulty by calculating the scenario level as you would for solo mode.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_70">70</a></strong></p><hr/><h3 id="permanent-death">Permanent Death</h3><p>With this variant, the specter of death looms large for parties who want higher stakes. When a character drops to zero hit points, they die instead of becoming exhausted. Characters can still become exhausted if unable to play two cards or perform a long rest, but they survive and can still participate in future scenarios, even if the current scenario is lost.</p><p>When a character dies, they are removed from the campaign at the end of the current scenario. Their personal quest is shuffled back into the deck. Their character materials are put back in the corresponding tuck boxes. Their items are returned to the available supply, their resources are moved to the Frosthaven supply, and their gold is lost. The player whose character died must create a new character during the Downtime step of the next Outpost Phase (or, if the next scenario is force-linked, immediately before the scenario begins).</p><p>When a character becomes exhausted, all normal exhaustion effects still occur, except their figure now remains on the map and can still be targeted by monster attacks and other abilities. Exhausted characters still cannot act in any way, and they are considered to have initiative 99 for the purpose of focusing.</p><h3 id="character-respeccing">Character Respeccing</h3><p>With this variant, parties who want more flexible characters can pay to change their builds. During the Downtime step of the Outpost Phase, any character may spend gold equal to 10 times their current level in order to respec. This allows them to reset all of their previous ability card choices. When a character respecs, they return all ability cards from their pool that are not level 1 or level X, then make a new choice at each level, following the normal rules for leveling up, until they reach their current level.</p><h3 id="random-dungeons">Random Dungeons</h3><p>With this variant, the party can attempt a random dungeon instead of an official scenario, either as part of the ongoing campaign or as a one-off session in casual mode. In either case, no road event is resolved beforehand.</p><p>Each random dungeon has three randomly generated rooms, and the party must clear the monsters from all three rooms in order to complete it. These rooms are revealed one at a time, with each new room only revealed when a character opens the door. Generate each room by drawing a random room card and a random setup card.</p><p>Build the loot deck with 24 cards: 12 money cards, two cards of each material resource, and one card of each herb resource.</p><h4 id="random-room-card">Random Room Card</h4><p>A random room card contains the following:</p><ol type="A">
+<li><strong>Noun Title:</strong> A noun title. When combined with the adjective title from the random setup card, this creates the full title of the room.</li>
+<li><strong>Map Tiles:</strong> The map tiles for the room. Any required overlay tiles will be shown, as well as 12 map designations for the placement of various features shown on the random setup card. If the overlay tiles of a specific type run out by the second or third room, use any comparable overlay tiles instead.</li>
+<li><strong>Entrance and Exit Locations:</strong> The locations of the entrances and exits to the room. These always correspond to the closest border hex of the map tile with a puzzle connection. In the first room, each character starts on any empty hex within two hexes of the entrance. If the first room has two entrances, the party must choose only one.</li>
+<li><strong>Entrance and Exit Types:</strong> The types of the entrances and exits to the room. These are labeled “A” or “B.” When a room has two exits, the party must choose only one. When a room has two entrances, the party must use the entrance that matches their chosen exit from the previous room. If the back of the next room card does not show a matching entrance, discard until a card with a matching entrance appears.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_71">71</a></strong></p><hr/><ol start="5" type="A">
+<li><strong>Penalties:</strong> The penalties for revealing the room. For recommended difficulty, apply no penalty for the first room, the minor penalty for the second room, and the major penalty for the third room. The party can scale the difficulty as they wish by adjusting the number and severity of these penalties. If the penalty of the first room refers to the character who opened the door, the party can decide who it applies to.</li>
+</ol><h4 id="random-setup-card">Random Setup Card</h4><p>A random setup card contains the following:</p><ol type="A">
+<li><strong>Adjective Title:</strong> An adjective title. When combined with the noun title from the random room card, this creates the full title of the room.</li>
+<li><strong>Setup Features:</strong> A list of monsters, tiles, and tokens in the room. Place these features in their indicated hexes in the room by referencing the 12 map designations shown on the random room card. As in the normal setup for a scenario, the placement and rank of monsters is based on the number of characters in the party.</li>
+<li><strong>Elemental Infusion:</strong> When this room is revealed, infuse any depicted element at the end of the current turn.</li>
+<li><strong>Treasure Contents:</strong> The contents of any treasure tiles in the room. Specific loot that is important to the campaign will never appear in a random dungeon.</li>
+<li><strong>Trap Types:</strong> The types of any traps in the room.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_72">72</a></strong></p><hr/><h1 id="appendix-a-component-inventory">Appendix A: Component Inventory</h1><ul>
+<li><strong>1</strong> map board</li>
+<li><strong>1</strong> rulebook</li>
+<li><strong>1</strong> scenario book</li>
+<li><strong>1</strong> section book</li>
+<li><strong>1</strong> setup guide</li>
+<li><strong>1</strong> alchemy chart</li>
+<li><strong>1</strong> pad of campaign sheets</li>
+<li><strong>38</strong> map tiles</li>
+<li><strong>6</strong> sticker sheets</li>
+<li><strong>1</strong> sealed puzzle book</li>
+<li><strong>5</strong> scenario flowcharts</li>
+<li><strong>225</strong> overlay tiles</li>
+<li><strong>327</strong> monster standees</li>
+<li><strong>17</strong> sealed envelopes</li>
+<li><strong>1</strong> element board with <strong>1</strong> round marker and <strong>6</strong> element tokens</li>
+<li><strong>18</strong> small tuck boxes containing character miniatures</li>
+</ul><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Hidden Content?</strong> Envelope contents are not included in this inventory. For a complete list of these contents, visit <a href="https://cephalofair.com/frosthaven">cephalofair.com/frosthaven</a></p>
+</blockquote><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_73">73</a></strong></p><hr/><blockquote>
+<p><strong>17 Large Tuck Boxes (6 Unsealed, 11 Sealed)</strong>
+<strong>17</strong> Character mats
+<strong>503</strong> character ability cards
+<strong>18</strong> character standees
+<strong>85</strong> character tokens
+<strong>30</strong> special character tokens
+<strong>45</strong> character summon standees
+<strong>303</strong> character attack modifier cards
+<strong>51</strong> perk reminder cards
+<strong>17</strong> character initiative order tokens
+<strong>17</strong> pads of character sheets</p>
+</blockquote><p><strong>4</strong> reference cards
+<strong>29</strong> building cards
+<strong>10</strong> personal quest cards
+<strong>24</strong> random room cards
+<strong>24</strong> random setup cards
+<strong>247</strong> event cards
+<strong>379</strong> item cards
+<strong>25</strong> random item cards
+<strong>15</strong> random item blueprint cards
+<strong>60</strong> battle goal cards
+<strong>59</strong> loot cards
+<strong>7</strong> random scenario cards
+<strong>45</strong> challenge cards
+<strong>344</strong> monster ability cards
+<strong>55</strong> town guard cards
+<strong>165</strong> attack modifier cards
+<strong>13</strong> divider cards
+<strong>32</strong> boss stat cards
+<strong>48</strong> monster stat cards
+<strong>6</strong> monster stat sleeves
+<strong>4</strong> character dials
+<strong>49</strong> monster initiative order tokens
+<strong>25</strong> scenario aid tokens
+<strong>30+</strong> plastic bases
+<strong>1</strong> token tray with lid
+<strong>1</strong> tile tray with lid
+<strong>2</strong> card trays
+<strong>60+</strong> damage tokens
+<strong>20+</strong> loot tokens
+<strong>100+</strong> condition tokens</p><blockquote>
+<p><strong>Missing parts?</strong>
+If you discover that you are missing any parts from your game, you can request replacements at <a href="https://cephalofair.com/contact">cephalofair.com/contact</a>.</p>
+</blockquote><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_74">74</a></strong></p><hr/><h1 id="appendix-b-monster-turn-guide">Appendix B: Monster Turn Guide</h1><h2 id="1-initial-check">1. Initial Check</h2><ol>
+<li>
+<p>Check for Conditions and Attack Ability</p>
+<ul>
+<li>
+<p>Any monster with <img alt="Disarm Icon" class="fh-icon" src="icons/conditions/fh-disarm-color-icon.png" title="Disarm Icon"/> or without an attack ability finds a focus and moves as if for a single-target melee attack.</p>
+</li>
+<li>
+<p>Any monster with <img alt="Immobilize Icon" class="fh-icon" src="icons/conditions/fh-immobilize-color-icon.png" title="Immobilize Icon"/> ignores all move abilities.</p>
+</li>
+<li>
+<p>Any monster with <img alt="Stun Icon" class="fh-icon" src="icons/conditions/fh-stun-color-icon.png" title="Stun Icon"/> cannot find a focus, will not move, and ignores all abilities.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Check for Movement Paths Check for movement paths to attack hexes (i.e., hexes from which an attack can be performed).These hexes are shown with the <img alt="Empty Hex Icon" class="fh-icon" src="icons/general/fh-hex-empty-color-icon.png" title="Empty Hex Icon"/> icon in diagrams. If no path exists, the monster cannot find a focus and will not move or attack.</p>
+</li>
+</ol><h2 id="2-find-focus">2. Find Focus</h2><p>The monster finds an attack hex and focuses on an enemy with the following priority list:</p><ol>
+<li>A hex with a movement path that triggers fewer negative hexes.</li>
+<li>A hex with a movement path that requires fewer movement points.</li>
+<li>An enemy closer by range.</li>
+<li>An enemy earlier in the initiative order, following the normal rules for breaking tiesfor initiative (see <a href="#page_19">p.19</a>).</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_75">75</a></strong></p><hr/><h2 id="3-perform-monster-abilities">3. Perform Monster Abilities</h2><p>The monster performs all of its abilities from top to bottom (move, attack, and other abilities). For move abilities, observe the following rules:</p><ol type="A">
+<li>The monster must end its movement with a shorter path to its attack hex than it had before or else it will not move.</li>
+<li>The monster chooses a movement path that triggers the fewest negative hexes.</li>
+<li>The monster moves to an attack hex from which it can attack its focus. If it can target multiple enemies, it instead moves to a hex from which it can attack its focus and the most other enemies.</li>
+<li>The monster moves to a hex from which it can attack the most possible targets (including its focus) with the fewest possible disadvantaged attacks.</li>
+<li>If the monster could move to multiple hexes that maximize the previous priorities, it moves to the hex that requires the fewest movement points.</li>
+<li>In cases where monster movement is still ambiguous, the party decides.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_76">76</a></strong></p><hr/><h1 id="appendix-c-important-reminders">Appendix C: Important Reminders</h1><h3 id="attacks-and-damage">Attacks and Damage</h3><ul>
+<li>A separate attack modifier card is drawn for each target of an attack ability.</li>
+<li>A shield bonus only reduces damage from attacks, not from other sources, but the bonus applies to all incoming attacks while active.</li>
+<li>Even if an attack deals no damage (e.g., when a <img alt="Miss Icon" class="fh-icon" src="icons/attack-modifiers/fh-miss-icon.png" title="Miss Icon"/> card is drawn), all added effects of the attack are still applied.</li>
+<li>A character can negate all damage from one source by losing one card from their hand or two cards from their discard pile.</li>
+</ul><h3 id="bless-and-curse">Bless and Curse</h3><ul>
+<li>When there are two opposing sides for the monsters in a scenario, they use two different attack modifier decks (<img alt="Monster Icon" class="fh-icon" src="icons/general/fh-monster-icon.png" title="Monster Icon"/> and <img alt="Ally Icon" class="fh-icon" src="icons/general/fh-ally-icon.png" title="Ally Icon"/>) and thus are affected by bless and curse separately.</li>
+<li>Immunity to curse prevents a figure from adding a curse card to their deck, but does not prevent a drawn curse card from taking effect.</li>
+<li>Bless and curse cards are returned to the supply once resolved, instead of placed in the discard pile. They are removed from all decks at the end of each scenario.</li>
+</ul><h3 id="monsters">Monsters</h3><ul>
+<li>A monster ability card is drawn each round for each set of monsters on the map. All monsters of a single set will use the same ability card.</li>
+<li>A monster only performs the abilities listed on its ability card for the round.</li>
+<li>A monster does not apply any active bonuses from its ability card until its turn.</li>
+<li>If a monster cannot find a focus, it will not move.</li>
+<li>If a monster will not be performing an attack on its turn, or has disarm, it finds a focus as if for a single-target melee attack.</li>
+</ul><h3 id="characters">Characters</h3><ul>
+<li>Characters initially use 20-card starting decks of attack modifier cards, labeled <img alt="Player 1 Icon" class="fh-icon" src="icons/general/fh-player-1-icon.png" title="Player 1 Icon"/>, <img alt="Player 2 Icon" class="fh-icon" src="icons/general/fh-player-2-icon.png" title="Player 2 Icon"/>, <img alt="Player 3 Icon" class="fh-icon" src="icons/general/fh-player-3-icon.png" title="Player 3 Icon"/>, <img alt="Player 4 Icon" class="fh-icon" src="icons/general/fh-player-4-icon.png" title="Player 4 Icon"/>. Advanced attack modifier cards are only added by gaining perks.</li>
+<li>A character cannot perform two top actions or two bottom actions. For the basic actions, “<img alt="Attack Icon" class="fh-icon" src="icons/general/fh-attack-bw-icon.png" title="Attack Icon"/> <strong>2</strong>” is always a top action, and “<img alt="Move Icon" class="fh-icon" src="icons/general/fh-move-bw-icon.png" title="Move Icon"/> <strong>2</strong>” is always a bottom action.</li>
+<li>Exhaustion does not reduce the number of characters in the scenario, for variables like monster hit points or scenario effects.</li>
+</ul><h3 id="summons">Summons</h3><ul>
+<li>Summons must be placed in empty hexes adjacent to the summoner. If there is no adjacent hex available, the figure is not summoned.</li>
+<li>Summons are not directly controlled by their summoner. Most summons instead obey automated monster rules.</li>
+</ul><h3 id="loot-and-elements">Loot and Elements</h3><ul>
+<li>All monsters, except scenario allies, drop a loot token when they die.</li>
+<li>All characters loot the hex they occupy at the end of their turn, not the end of each movement. Monsters and summons do not perform end-of-turn looting.</li>
+<li>Since infusions don’t occur until the end of the turn, any consumed element must be already strong or waning at the start of the turn, prior to any infusions.</li>
+</ul><h3 id="scenario-details">Scenario Details</h3><ul>
+<li>The recommended scenario level is half the average character level (rounded up).</li>
+<li>Characters can each bring into a scenario a number of small items equal to half their level (rounded up).</li>
+<li>The end of a scenario can only occur at the end of a round.</li>
+</ul><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_77">77</a></strong></p><hr/><h1 id="appendix-d-enhancement-costs">Appendix D: Enhancement Costs</h1><blockquote>
+<p><strong>Stop! Do not read this appendix until building 44 is built.</strong></p>
+</blockquote><p>Each type of enhancement has a base cost, which is determined by the following cost chart. The cost might then be modified based on which ability is being enhanced. If applicable, apply the following cost modifiers, one at a time, in order:</p><ol>
+<li>
+<p>If the ability targets multiple figures or tiles, double the cost. This applies to abilities that summon or affect multiple allies or tokens and to abilities that can target multiple figures or tiles. This does not apply to target, area-of-effect hex, or element enhancements.</p>
+</li>
+<li>
+<p>If the action has a lost icon, but no persistent icon, halve the cost.</p>
+</li>
+<li>
+<p>If the ability provides a persistent bonus, whether or not the action has a lost icon, triple the cost. This does not apply to summon stat enhancements.</p>
+</li>
+<li>
+<p>For each level of the ability card above level 1, add 25 gold to the cost.</p>
+</li>
+<li>
+<p>For each enhancement already on the action, add 75 gold to the cost.</p>
+</li>
+</ol><p>Some enhancements do not fall neatly into the categories on the cost chart. When determining their base cost, treat damage traps as “<img alt="Attack Icon" class="fh-icon" src="icons/general/fh-attack-bw-icon.png" title="Attack Icon"/> <strong>+1</strong>” enhancements (50 gold), treat healing traps as “<img alt="Heal Icon" class="fh-icon" src="icons/general/fh-heal-bw-icon.png" title="Heal Icon"/> <strong>+1</strong>” enhancements (30 gold), and treat the movement of tokens and tiles as “<img alt="Move Icon" class="fh-icon" src="icons/general/fh-move-bw-icon.png" title="Move Icon"/> <strong>+1</strong>” enhancements (30 gold).</p><div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Enhancement</th>
+<th style="text-align: center">Base Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center"><strong>Move +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Attack +1</strong></td>
+<td style="text-align: center">50 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Range +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Target +1</strong></td>
+<td style="text-align: center">75 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Shield +1</strong></td>
+<td style="text-align: center">80 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Retaliate +1</strong></td>
+<td style="text-align: center">60 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Pierce +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Heal +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Push +1</strong></td>
+<td style="text-align: center">30 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Pull +1</strong></td>
+<td style="text-align: center">20 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Teleport +1</strong></td>
+<td style="text-align: center">50 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Summon HP +1</strong></td>
+<td style="text-align: center">40 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Summon Move +1</strong></td>
+<td style="text-align: center">60 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Summon Attack +1</strong></td>
+<td style="text-align: center">100 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Summon Range +1</strong></td>
+<td style="text-align: center">50 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Regenerate</strong></td>
+<td style="text-align: center">40 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Ward</strong></td>
+<td style="text-align: center">75 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Strengthen</strong></td>
+<td style="text-align: center">100 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Bless</strong></td>
+<td style="text-align: center">75 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Wound</strong></td>
+<td style="text-align: center">75 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Poison</strong></td>
+<td style="text-align: center">50 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Immobilize</strong></td>
+<td style="text-align: center">150 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Muddle</strong></td>
+<td style="text-align: center">40 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Curse</strong></td>
+<td style="text-align: center">150 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Element</strong></td>
+<td style="text-align: center">100 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Wild Element</strong></td>
+<td style="text-align: center">150 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Jump</strong></td>
+<td style="text-align: center">60 Gold</td>
+</tr>
+<tr>
+<td style="text-align: center"><strong>Area-of-Effect Hex</strong></td>
+<td style="text-align: center">200 Gold divided by the number of existing hexes (rounded up)</td>
+</tr>
+</tbody>
+</table>
+</div><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_78">78</a></strong></p><hr/><h1 id="appendix-e-treasure-index">Appendix E: Treasure Index</h1><p><em>Skipped due to spoilers</em></p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_79">79</a></strong></p><hr/><h1 id="appendix-f-favors">Appendix F: Favors</h1><p><em>Skipped due to spoilers</em></p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_80">80</a></strong></p><hr/><h1 id="appendix-g-index">Appendix G: Index</h1><h2 id="a">A</h2><p>Ability <a href="#page_10">10</a>, <a href="#page_14">14</a>, <strong><em><a href="#page_20">20</a></em></strong>, <a href="#page_21">21</a>–<a href="#page_43">43</a>, <a href="#page_45">45</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Ability card (character) <a href="#page_5">5</a>, <a href="#page_8">8</a>, <a href="#page_18">18</a>–<a href="#page_20">20</a>, <a href="#page_30">30</a>, <strong><em><a href="#page_34">34</a></em></strong>, <a href="#page_46">46</a>, <a href="#page_63">63</a>, <a href="#page_70">70</a>, <a href="#page_76">76</a><br/>
+Ability card (monster) <a href="#page_8">8</a>, <a href="#page_19">19</a>–<a href="#page_20">20</a>, <a href="#page_39">39</a>, <strong><em><a href="#page_40">40</a></em></strong>, <a href="#page_41">41</a>–<a href="#page_44">44</a>, <a href="#page_46">46</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Action <strong><em><a href="#page_20">20</a></em></strong>, <a href="#page_23">23</a>, <a href="#page_25">25</a>, <a href="#page_30">30</a>, <a href="#page_34">34</a>, <a href="#page_37">37</a>–<a href="#page_38">38</a>, <a href="#page_46">46</a>, <a href="#page_76">76</a><br/>
+Active area <strong><em><a href="#page_30">30</a></em></strong>, <a href="#page_31">31</a>, <a href="#page_34">34</a>, <a href="#page_37">37</a>–<a href="#page_38">38</a>, <a href="#page_46">46</a>, <a href="#page_63">63</a><br/>
+Active bonus <strong><em><a href="#page_30">30</a>–<a href="#page_31">31</a></em></strong>, <a href="#page_38">38</a><br/>
+Added effect <strong><em><a href="#page_22">22</a></em></strong>, <a href="#page_23">23</a>–<a href="#page_24">24</a>, <a href="#page_26">26</a>–<a href="#page_28">28</a>, <a href="#page_32">32</a><br/>
+Adjacent <a href="#page_13">13</a>–<a href="#page_14">14</a>, <strong><em><a href="#page_21">21</a></em></strong>, <a href="#page_25">25</a>, <a href="#page_27">27</a>, <a href="#page_31">31</a>, <a href="#page_42">42</a>–<a href="#page_43">43</a>, <a href="#page_46">46</a>, <a href="#page_76">76</a><br/>
+Advantage <strong><em><a href="#page_27">27</a></em></strong>, <a href="#page_28">28</a>, <a href="#page_61">61</a><br/>
+Alchemist <a href="#page_52">52</a>, <strong><em><a href="#page_66">66</a></em></strong><br/>
+Alchemy chart <strong><em><a href="#page_66">66</a></em></strong><br/>
+Area of effect <strong><em><a href="#page_22">22</a></em></strong><br/>
+Arrowvine <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/>
+Attack (ability) <a href="#page_21">21</a>, <strong><em><a href="#page_25">25</a></em></strong>, <a href="#page_26">26</a>–<a href="#page_29">29</a>, <a href="#page_33">33</a>–<a href="#page_34">34</a>, <a href="#page_36">36</a>, <a href="#page_39">39</a>–<a href="#page_42">42</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Attack (event) <a href="#page_54">54</a>, <strong><em><a href="#page_60">60</a></em></strong>, <a href="#page_61">61</a><br/>
+Attack modifier card <a href="#page_5">5</a>, <a href="#page_8">8</a>, <a href="#page_20">20</a>, <a href="#page_22">22</a>, <strong><em><a href="#page_25">25</a>–<a href="#page_26">26</a></em></strong>, <a href="#page_27">27</a>–<a href="#page_29">29</a>, <a href="#page_31">31</a>, <a href="#page_33">33</a>, <a href="#page_35">35</a>–<a href="#page_36">36</a>, <a href="#page_46">46</a>–<a href="#page_47">47</a>, <a href="#page_63">63</a>, <a href="#page_69">69</a>, <a href="#page_76">76</a><br/>
+Axenut <a href="#page_16">16</a>, <a href="#page_56">56</a><br/></p><h2 id="b">B</h2><p>Bane <strong><em><a href="#page_29">29</a></em></strong>, <a href="#page_45">45</a><br/>
+Barracks <a href="#page_52">52</a>, <a href="#page_54">54</a>, <strong><em><a href="#page_61">61</a></em></strong><br/>
+Basic action <strong><em><a href="#page_34">34</a></em></strong>, <a href="#page_76">76</a><br/>
+Battle goal <a href="#page_8">8</a>, <strong><em><a href="#page_17">17</a></em></strong>, <a href="#page_47">47</a>–<a href="#page_48">48</a><br/>
+Bless <a href="#page_8">8</a>, <a href="#page_26">26</a>, <strong><em><a href="#page_28">28</a></em></strong>, <a href="#page_47">47</a>, <a href="#page_69">69</a>, <a href="#page_76">76</a><br/>
+Blueprint <a href="#page_15">15</a>, <a href="#page_32">32</a>, <a href="#page_48">48</a>, <strong><em><a href="#page_58">58</a></em></strong>, <a href="#page_64">64</a><br/>
+Body (item) <strong><em><a href="#page_35">35</a></em></strong><br/>
+Boss <strong><em><a href="#page_45">45</a></em></strong><br/>
+Boss special <strong><em><a href="#page_45">45</a></em></strong><br/>
+Brittle <a href="#page_25">25</a>, <a href="#page_28">28</a>, <strong><em><a href="#page_29">29</a></em></strong>, <a href="#page_32">32</a>, <a href="#page_38">38</a><br/>
+Build <a href="#page_50">50</a>, <a href="#page_52">52</a>, <a href="#page_54">54</a>, <a href="#page_57">57</a>, <strong><em><a href="#page_68">68</a></em></strong><br/>
+Building <a href="#page_50">50</a>, <strong><em><a href="#page_52">52</a></em></strong>, <a href="#page_54">54</a>, <a href="#page_57">57</a>–<a href="#page_58">58</a>, <a href="#page_60">60</a>–<a href="#page_62">62</a>, <a href="#page_64">64</a>–<a href="#page_68">68</a><br/>
+Building card <strong><em><a href="#page_52">52</a></em></strong>, <a href="#page_61">61</a>–<a href="#page_62">62</a>, <a href="#page_68">68</a><br/>
+Building operations <a href="#page_52">52</a>, <a href="#page_59">59</a>, <a href="#page_61">61</a>, <strong><em><a href="#page_62">62</a></em></strong><br/></p><h2 id="c">C</h2><p>C (equations) <a href="#page_45">45</a>, <strong><em><a href="#page_46">46</a></em></strong><br/>
+Calendar <a href="#page_12">12</a>, <a href="#page_54">54</a>–<a href="#page_55">55</a>, <strong><em><a href="#page_59">59</a></em></strong><br/>
+Campaign <a href="#page_3">3</a>, <a href="#page_7">7</a>, <a href="#page_12">12</a>, <a href="#page_48">48</a>–<a href="#page_49">49</a>, <strong><em><a href="#page_50">50</a></em></strong>, <a href="#page_51">51</a>–<a href="#page_52">52</a>, <a href="#page_54">54</a>–<a href="#page_58">58</a>, <a href="#page_64">64</a>–<a href="#page_66">66</a>, <a href="#page_69">69</a>–<a href="#page_71">71</a><br/>
+Campaign sheet <a href="#page_12">12</a>, <a href="#page_48">48</a>, <a href="#page_50">50</a>, <strong><em><a href="#page_54">54</a>–<a href="#page_55">55</a></em></strong>, <a href="#page_59">59</a>, <a href="#page_61">61</a>, <a href="#page_64">64</a><br/>
+Card selection <strong><em><a href="#page_18">18</a></em></strong>, <a href="#page_38">38</a>, <a href="#page_69">69</a><br/>
+Character <a href="#page_3">3</a>, <strong><em><a href="#page_4">4</a>–<a href="#page_6">6</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_12">12</a>, <a href="#page_14">14</a>, <a href="#page_17">17</a>–<a href="#page_20">20</a>, <a href="#page_22">22</a>, <a href="#page_26">26</a>–<a href="#page_38">38</a>, <a href="#page_46">46</a>–<a href="#page_48">48</a>, <a href="#page_53">53</a>, <a href="#page_56">56</a>–<a href="#page_58">58</a>, <a href="#page_62">62</a>–<a href="#page_71">71</a>, <a href="#page_76">76</a><br/>
+Character dial <strong><em><a href="#page_5">5</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_29">29</a>, <a href="#page_37">37</a>–<a href="#page_38">38</a>, <a href="#page_47">47</a><br/>
+Character mat <strong><em><a href="#page_4">4</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_12">12</a>, <a href="#page_28">28</a>, <a href="#page_34">34</a>–<a href="#page_35">35</a>, <a href="#page_63">63</a>–<a href="#page_64">64</a><br/>
+Character sheet <a href="#page_4">4</a>, <a href="#page_47">47</a>–<a href="#page_48">48</a>, <strong><em><a href="#page_53">53</a></em></strong>, <a href="#page_62">62</a>–<a href="#page_63">63</a>, <a href="#page_65">65</a><br/>
+Character token <strong><em><a href="#page_4">4</a></em></strong>, <a href="#page_30">30</a>, <a href="#page_36">36</a>–<a href="#page_37">37</a><br/>
+Checkmark <a href="#page_17">17</a>, <a href="#page_48">48</a>, <strong><em><a href="#page_53">53</a></em></strong>, <a href="#page_55">55</a>, <a href="#page_63">63</a><br/>
+Class (character) <strong><em><a href="#page_3">3</a></em></strong>, <a href="#page_4">4</a>–<a href="#page_6">6</a>, <a href="#page_26">26</a>, <a href="#page_53">53</a>, <a href="#page_57">57</a>, <a href="#page_63">63</a>–<a href="#page_65">65</a>, <a href="#page_69">69</a><br/>
+Commanding figures <strong><em><a href="#page_33">33</a></em></strong><br/>
+Completed (scenario) <a href="#page_3">3</a>, <a href="#page_7">7</a>–<a href="#page_8">8</a>, <a href="#page_10">10</a>, <a href="#page_17">17</a>, <a href="#page_47">47</a>, <strong><em><a href="#page_48">48</a></em></strong>, <a href="#page_50">50</a>, <a href="#page_69">69</a> <br/>
+Complexity <a href="#page_3">3</a>, <strong><em><a href="#page_10">10</a></em></strong><br/>
+Conclusion (scenario) <a href="#page_10">10</a>, <strong><em><a href="#page_48">48</a></em></strong><br/>
+Condition <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_21">21</a>, <a href="#page_26">26</a>, <strong><em><a href="#page_28">28</a>–<a href="#page_29">29</a></em></strong>, <a href="#page_33">33</a>, <a href="#page_38">38</a>–<a href="#page_39">39</a>, <a href="#page_43">43</a>, <a href="#page_45">45</a>, <a href="#page_47">47</a>, <a href="#page_76">76</a><br/>
+Construction <a href="#page_59">59</a>, <strong><em><a href="#page_68">68</a></em></strong><br/>
+Consume (element) <a href="#page_22">22</a>, <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_43">43</a>, <a href="#page_76">76</a><br/>
+Control <a href="#page_32">32</a>, <strong><em><a href="#page_33">33</a></em></strong><br/>
+Corpsecap <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/>
+Corridor <a href="#page_13">13</a>, <strong><em><a href="#page_14">14</a></em></strong><br/>
+Craftsman <a href="#page_52">52</a>, <a href="#page_58">58</a>, <strong><em><a href="#page_65">65</a></em></strong><br/>
+Create (character) <a href="#page_4">4</a>–<a href="#page_6">6</a>, <a href="#page_57">57</a>, <a href="#page_62">62</a>–<a href="#page_64">64</a>, <strong><em><a href="#page_65">65</a></em></strong>, <a href="#page_69">69</a>, <a href="#page_70">70</a><br/>
+Create (tile) <strong><em><a href="#page_33">33</a></em></strong><br/>
+Curse <a href="#page_26">26</a>, <a href="#page_28">28</a>, <strong><em><a href="#page_29">29</a></em></strong>, <a href="#page_76">76</a><br/></p><h2 id="d">D</h2><p>Damage <a href="#page_14">14</a>–<a href="#page_16">16</a>, <a href="#page_25">25</a>–<a href="#page_26">26</a>, <a href="#page_28">28</a>–<a href="#page_29">29</a>, <a href="#page_31">31</a>–<a href="#page_32">32</a>, <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_39">39</a>, <strong><em><a href="#page_45">45</a></em></strong>, <a href="#page_76">76</a><br/>
+Damaged (building) <a href="#page_52">52</a>, <a href="#page_60">60</a>, <strong><em><a href="#page_61">61</a></em></strong><br/>
+Dead <a href="#page_39">39</a>, <strong><em><a href="#page_45">45</a></em></strong>, <a href="#page_70">70</a>, <a href="#page_76">76</a><br/>
+Defense <a href="#page_54">54</a>, <a href="#page_60">60</a>, <strong><em><a href="#page_61">61</a></em></strong><br/>
+Destroy (tile) <strong><em><a href="#page_33">33</a></em></strong><br/>
+Difficult terrain <strong><em><a href="#page_14">14</a></em></strong>, <a href="#page_24">24</a>, <a href="#page_32">32</a>, <a href="#page_41">41</a><br/>
+Difficulty <strong><em><a href="#page_16">16</a></em></strong>, <a href="#page_69">69</a>, <a href="#page_71">71</a><br/>
+Disadvantage <strong><em><a href="#page_27">27</a></em></strong>, <a href="#page_29">29</a>, <a href="#page_42">42</a>, <a href="#page_61">61</a>, <a href="#page_75">75</a><br/>
+Disarm <strong><em><a href="#page_29">29</a></em></strong>, <a href="#page_41">41</a>, <a href="#page_76">76</a><br/>
+Discard <a href="#page_8">8</a>, <a href="#page_18">18</a>, <a href="#page_25">25</a>–<a href="#page_26">26</a>, <a href="#page_29">29</a>–<a href="#page_31">31</a>, <a href="#page_33">33</a>, <strong><em><a href="#page_34">34</a></em></strong>, <a href="#page_38">38</a>, <a href="#page_40">40</a>, <a href="#page_46">46</a>–<a href="#page_47">47</a>, <a href="#page_76">76</a><br/>
+Distill <strong><em><a href="#page_66">66</a></em></strong><br/>
+Door <strong><em><a href="#page_14">14</a></em></strong>, <a href="#page_24">24</a>, <a href="#page_70">70</a>–<a href="#page_71">71</a><br/>
+Downtime <a href="#page_52">52</a>, <a href="#page_58">58</a>–<a href="#page_59">59</a>, <strong><em><a href="#page_62">62</a></em></strong>, <a href="#page_63">63</a>–<a href="#page_67">67</a>, <a href="#page_70">70</a><br/></p><h2 id="e">E</h2><p>Element <a href="#page_22">22</a>, <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_26">26</a>, <a href="#page_37">37</a>, <a href="#page_43">43</a>, <a href="#page_46">46</a>, <a href="#page_71">71</a>, <a href="#page_76">76</a><br/>
+Elite (monster) <a href="#page_11">11</a>, <a href="#page_19">19</a>, <strong><em><a href="#page_39">39</a></em></strong>, <a href="#page_40">40</a>, <a href="#page_42">42</a>, <a href="#page_44">44</a>, <a href="#page_46">46</a><br/>
+Empty (hex) <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_14">14</a>, <a href="#page_31">31</a>, <a href="#page_43">43</a>–<a href="#page_44">44</a>, <a href="#page_46">46</a>, <a href="#page_70">70</a>, <a href="#page_76">76</a><br/>
+End of round <a href="#page_18">18</a>, <a href="#page_38">38</a>, <strong><em><a href="#page_46">46</a></em></strong><br/>
+End-of-turn looting <strong><em><a href="#page_37">37</a></em></strong>, <a href="#page_43">43</a><br/>
+Enemy <strong><em><a href="#page_21">21</a></em></strong>, <a href="#page_22">22</a>, <a href="#page_24">24</a>–<a href="#page_25">25</a>, <a href="#page_27">27</a>–<a href="#page_28">28</a>, <a href="#page_33">33</a>, <a href="#page_41">41</a>–<a href="#page_44">44</a>, <a href="#page_74">74</a>–<a href="#page_75">75</a><br/>
+Envelope <a href="#page_50">50</a>, <strong><em><a href="#page_57">57</a></em></strong>, <a href="#page_64">64</a><br/>
+Escape <strong><em><a href="#page_46">46</a></em></strong><br/>
+Event <a href="#page_8">8</a>, <strong><em><a href="#page_12">12</a></em></strong>, <a href="#page_47">47</a>, <a href="#page_54">54</a>, <a href="#page_60">60</a>, <a href="#page_61">61</a>–<a href="#page_62">62</a>, <a href="#page_69">69</a>–<a href="#page_70">70</a><br/>
+Exhaust <a href="#page_28">28</a>, <a href="#page_31">31</a>–<a href="#page_32">32</a>, <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_42">42</a>, <a href="#page_48">48</a>, <a href="#page_70">70</a>, <a href="#page_76">76</a><br/>
+Experience <a href="#page_5">5</a>, <a href="#page_8">8</a>, <a href="#page_16">16</a>, <a href="#page_30">30</a>, <strong><em><a href="#page_37">37</a></em></strong>, <a href="#page_47">47</a>–<a href="#page_48">48</a>, <a href="#page_53">53</a>, <a href="#page_62">62</a>, <a href="#page_65">65</a>, <a href="#page_68">68</a>–<a href="#page_69">69</a><br/></p><h2 id="f">F</h2><p>Featureless (hex) <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_33">33</a><br/>
+Feet (item) <strong><em><a href="#page_35">35</a></em></strong><br/>
+Figure <strong><em><a href="#page_7">7</a></em></strong>, <a href="#page_11">11</a>, <a href="#page_13">13</a>–<a href="#page_15">15</a>, <a href="#page_19">19</a>–<a href="#page_26">26</a>, <a href="#page_28">28</a>–<a href="#page_33">33</a>, <a href="#page_37">37</a>–<a href="#page_38">38</a>, <a href="#page_40">40</a>, <a href="#page_44">44</a>–<a href="#page_46">46</a>, <a href="#page_70">70</a>, <a href="#page_76">76</a><br/>
+Flamefruit <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/>
+Flip (item) <strong><em><a href="#page_36">36</a></em></strong><br/>
+Flying <a href="#page_14">14</a>–<a href="#page_15">15</a>, <strong><em><a href="#page_24">24</a></em></strong>, <a href="#page_32">32</a><br/>
+Focus <a href="#page_31">31</a>, <strong><em><a href="#page_41">41</a></em></strong>, <a href="#page_42">42</a>–<a href="#page_43">43</a>, <a href="#page_46">46</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Force-linked (scenario) <strong><em><a href="#page_48">48</a></em></strong>, <a href="#page_59">59</a>, <a href="#page_70">70</a><br/>
+Forced movement <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_21">21</a>, <a href="#page_26">26</a>, <strong><em><a href="#page_32">32</a></em></strong>, <a href="#page_33">33</a>, <a href="#page_45">45</a><br/>
+Frosthaven supply <strong><em><a href="#page_54">54</a></em></strong>, <a href="#page_56">56</a>, <a href="#page_61">61</a>–<a href="#page_62">62</a>, <a href="#page_64">64</a>–<a href="#page_66">66</a>, <a href="#page_68">68</a>, <a href="#page_70">70</a><br/></p><h2 id="g">G</h2><p>Geographical feature <strong><em><a href="#page_10">10</a></em></strong>, <a href="#page_51">51</a><br/>
+Gloomhaven <a href="#page_6">6</a>, <a href="#page_49">49</a>, <a href="#page_58">58</a>, <a href="#page_69">69</a><br/>
+Goal (scenario) <strong><em><a href="#page_10">10</a></em></strong>, <a href="#page_15">15</a>, <a href="#page_44">44</a>, <a href="#page_47">47</a>–<a href="#page_48">48</a><br/>
+Gold <a href="#page_4">4</a>, <a href="#page_6">6</a>, <a href="#page_12">12</a>, <strong><em><a href="#page_16">16</a></em></strong>, <a href="#page_35">35</a>–<a href="#page_36">36</a>, <a href="#page_47">47</a>–<a href="#page_48">48</a>, <a href="#page_53">53</a>, <a href="#page_58">58</a>, <a href="#page_62">62</a>, <a href="#page_64">64</a>–<a href="#page_65">65</a>, <a href="#page_67">67</a>, <a href="#page_70">70</a><br/>
+Grant (ability) <strong><em><a href="#page_33">33</a></em></strong><br/></p><h2 id="h">H</h2><p>H (equations) <strong><em><a href="#page_46">46</a></em></strong><br/>
+Hand (item) <strong><em><a href="#page_35">35</a></em></strong><br/>
+Hand (of cards) <a href="#page_5">5</a>, <a href="#page_8">8</a>, <a href="#page_18">18</a>, <a href="#page_30">30</a>, <a href="#page_33">33</a>, <strong><em><a href="#page_34">34</a></em></strong>, <a href="#page_38">38</a>, <a href="#page_63">63</a>, <a href="#page_76">76</a><br/>
+Hand size <strong><em><a href="#page_4">4</a></em></strong>, <a href="#page_5">5</a>, <a href="#page_8">8</a>, <a href="#page_63">63</a><br/>
+Hazardous terrain <strong><em><a href="#page_14">14</a></em></strong>, <a href="#page_16">16</a>, <a href="#page_24">24</a>, <a href="#page_33">33</a>, <a href="#page_41">41</a><br/>
+Head (item) <strong><em><a href="#page_35">35</a></em></strong><br/>
+Heal (ability) <a href="#page_21">21</a>, <a href="#page_26">26</a>, <a href="#page_28">28</a>, <strong><em><a href="#page_29">29</a></em></strong>, <a href="#page_38">38</a>, <a href="#page_43">43</a><br/>
+Herb resource <a href="#page_16">16</a>, <a href="#page_54">54</a>, <strong><em><a href="#page_56">56</a></em></strong>, <a href="#page_65">65</a>–<a href="#page_66">66</a>, <a href="#page_70">70</a><br/>
+Hex <a href="#page_11">11</a>, <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_21">21</a>–<a href="#page_22">22</a>, <a href="#page_24">24</a>, <a href="#page_28">28</a>, <a href="#page_31">31</a>–<a href="#page_33">33</a>, <a href="#page_37">37</a>, <a href="#page_41">41</a>–<a href="#page_46">46</a>, <a href="#page_70">70</a>–<a href="#page_71">71</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Hide <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/>
+Hit point <a href="#page_4">4</a>–<a href="#page_5">5</a>, <a href="#page_8">8</a>, <a href="#page_15">15</a>, <a href="#page_29">29</a>, <a href="#page_31">31</a>, <strong><em><a href="#page_38">38</a>–<a href="#page_39">39</a></em></strong>, <a href="#page_43">43</a>, <a href="#page_45">45</a>–<a href="#page_47">47</a>, <a href="#page_63">63</a><br/></p><h2 id="i">I</h2><p>Icy terrain <strong><em><a href="#page_14">14</a></em></strong>, <a href="#page_24">24</a>, <a href="#page_41">41</a><br/>
+Immobilize <a href="#page_24">24</a>, <strong><em><a href="#page_29">29</a></em></strong><br/>
+Immune <a href="#page_15">15</a>, <a href="#page_28">28</a>–<a href="#page_29">29</a>, <strong><em><a href="#page_39">39</a></em></strong>, <a href="#page_45">45</a>, <a href="#page_76">76</a><br/>
+Impair <strong><em><a href="#page_29">29</a></em></strong><br/>
+Inert (element) <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_46">46</a><br/>
+Infuse (element) <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_43">43</a>, <a href="#page_71">71</a><br/>
+Initiative <a href="#page_15">15</a>, <a href="#page_18">18</a>, <strong><em><a href="#page_19">19</a></em></strong>, <a href="#page_31">31</a>, <a href="#page_34">34</a>, <a href="#page_38">38</a>–<a href="#page_41">41</a>, <a href="#page_43">43</a>–<a href="#page_44">44</a>, <a href="#page_70">70</a>, <a href="#page_74">74</a><br/>
+Initiative order token <strong><em><a href="#page_4">4</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_19">19</a>, <a href="#page_39">39</a>, <a href="#page_44">44</a><br/>
+Inspiration <a href="#page_15">15</a>, <a href="#page_48">48</a>, <strong><em><a href="#page_54">54</a></em></strong>, <a href="#page_64">64</a><br/>
+Introduction (scenario) <a href="#page_8">8</a>, <strong><em><a href="#page_10">10</a></em></strong><br/>
+Invisible <strong><em><a href="#page_28">28</a></em></strong><br/>
+Item <a href="#page_8">8</a>, <a href="#page_15">15</a>–<a href="#page_16">16</a>, <a href="#page_32">32</a>, <strong><em><a href="#page_35">35</a>–<a href="#page_36">36</a></em></strong>, <a href="#page_48">48</a>, <a href="#page_58">58</a>, <a href="#page_63">63</a>–<a href="#page_67">67</a>, <a href="#page_69">69</a><br/></p><h2 id="j">J</h2><p>Jump <a href="#page_14">14</a>–<a href="#page_15">15</a>, <strong><em><a href="#page_24">24</a></em></strong><br/></p><h2 id="k">K</h2><p>Kill credit <strong><em><a href="#page_45">45</a></em></strong><br/></p><h2 id="l">L</h2><p>L (equations) <strong><em><a href="#page_46">46</a></em></strong><br/>
+Level (character) <a href="#page_4">4</a>–<a href="#page_6">6</a>, <a href="#page_8">8</a>, <a href="#page_16">16</a>, <a href="#page_34">34</a>–<a href="#page_35">35</a>, <a href="#page_37">37</a>, <a href="#page_53">53</a>, <strong><em><a href="#page_62">62</a>–<a href="#page_63">63</a></em></strong>, <a href="#page_65">65</a>, <a href="#page_68">68</a>, <a href="#page_70">70</a>, <a href="#page_76">76</a><br/>
+Level (scenario) <a href="#page_6">6</a>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <strong><em><a href="#page_16">16</a></em></strong>, <a href="#page_39">39</a>, <a href="#page_46">46</a>–<a href="#page_47">47</a>, <a href="#page_69">69</a>, <a href="#page_76">76</a><br/>
+Level up <a href="#page_37">37</a>, <strong><em><a href="#page_62">62</a>–<a href="#page_63">63</a></em></strong>, <a href="#page_65">65</a>, <a href="#page_68">68</a><br/>
+Line-of-sight <strong><em><a href="#page_21">21</a></em></strong>, <a href="#page_22">22</a>, <a href="#page_41">41</a><br/>
+Linked (scenario) <strong><em><a href="#page_48">48</a></em></strong>, <a href="#page_51">51</a>, <a href="#page_59">59</a>, <a href="#page_70">70</a><br/>
+Linked (hexes) <strong><em><a href="#page_46">46</a></em></strong><br/>
+Locked (door) <strong><em><a href="#page_46">46</a></em></strong><br/>
+Long rest <a href="#page_18">18</a>–<a href="#page_19">19</a>, <a href="#page_29">29</a>, <a href="#page_34">34</a>, <a href="#page_36">36</a>, <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_70">70</a><br/>
+Loot (ability) <a href="#page_15">15</a>–<a href="#page_16">16</a>, <strong><em><a href="#page_32">32</a></em></strong>, <a href="#page_37">37</a>, <a href="#page_43">43</a>, <a href="#page_76">76</a><br/></p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_81">81</a></strong></p><hr/><p>Loot card <a href="#page_8">8</a>, <a href="#page_10">10</a>, <strong><em><a href="#page_16">16</a></em></strong>, <a href="#page_32">32</a>, <a href="#page_70">70</a><br/>
+Lost (card) <a href="#page_30">30</a>–<a href="#page_31">31</a>, <a href="#page_33">33</a>–<a href="#page_37">37</a>, <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_46">46</a>–<a href="#page_47">47</a><br/>
+Lost (scenario) <a href="#page_12">12</a>, <a href="#page_17">17</a>, <strong><em><a href="#page_47">47</a></em></strong>, <a href="#page_59">59</a><br/>
+Lumber <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/></p><h2 id="m">M</h2><p>Mandatory <strong><em><a href="#page_37">37</a></em></strong>, <a href="#page_38">38</a><br/>
+Manipulating tiles <a href="#page_21">21</a>, <strong><em><a href="#page_33">33</a></em></strong><br/>
+Map (scenario) <strong><em><a href="#page_8">8</a></em></strong><br/>
+Map board <a href="#page_10">10</a>, <a href="#page_48">48</a>–<a href="#page_49">49</a>, <strong><em><a href="#page_50">50</a></em></strong>, <a href="#page_51">51</a>, <a href="#page_57">57</a>, <a href="#page_68">68</a><br/>
+Map tile <a href="#page_8">8</a>, <a href="#page_10">10</a>, <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_33">33</a>, <a href="#page_70">70</a><br/>
+Mastery <strong><em><a href="#page_48">48</a></em></strong>, <a href="#page_53">53</a>, <a href="#page_63">63</a><br/>
+Material resource <a href="#page_16">16</a>, <a href="#page_54">54</a>, <strong><em><a href="#page_56">56</a></em></strong>, <a href="#page_61">61</a>, <a href="#page_65">65</a>, <a href="#page_70">70</a><br/>
+Melee <a href="#page_22">22</a>, <strong><em><a href="#page_25">25</a></em></strong>, <a href="#page_41">41</a>–<a href="#page_42">42</a>, <a href="#page_74">74</a>, <a href="#page_76">76</a><br/>
+Metal <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/>
+Mixed (element) <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_43">43</a><br/>
+Money <strong><em><a href="#page_16">16</a></em></strong>, <a href="#page_32">32</a>, <a href="#page_70">70</a><br/>
+Monster <a href="#page_5">5</a>, <a href="#page_7">7</a>–<a href="#page_8">8</a>, <a href="#page_11">11</a>, <a href="#page_16">16</a>, <a href="#page_19">19</a>–<a href="#page_20">20</a>, <a href="#page_26">26</a>–<a href="#page_29">29</a>, <a href="#page_31">31</a>–<a href="#page_32">32</a>, <strong><em><a href="#page_39">39</a></em></strong>, <a href="#page_40">40</a>–<a href="#page_46">46</a>, <a href="#page_70">70</a>–<a href="#page_71">71</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Monster movement <a href="#page_39">39</a>–<a href="#page_41">41</a>, <strong><em><a href="#page_42">42</a></em></strong>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Monster stat card <strong><em><a href="#page_39">39</a></em></strong>, <a href="#page_46">46</a><br/>
+Monster turn <strong><em><a href="#page_39">39</a></em></strong>, <a href="#page_40">40</a>–<a href="#page_45">45</a>, <a href="#page_74">74</a>–<a href="#page_75">75</a><br/>
+Morale <strong><em><a href="#page_54">54</a></em></strong>, <a href="#page_61">61</a>, <a href="#page_68">68</a><br/>
+Move (ability) <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_20">20</a>–<a href="#page_21">21</a>, <strong><em><a href="#page_24">24</a></em></strong>, <a href="#page_26">26</a>, <a href="#page_28">28</a>–<a href="#page_29">29</a>, <a href="#page_31">31</a>–<a href="#page_34">34</a>, <a href="#page_39">39</a>–<a href="#page_42">42</a>, <a href="#page_45">45</a>–<a href="#page_46">46</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Move (tile) <strong><em><a href="#page_33">33</a></em></strong><br/>
+Movement point <a href="#page_14">14</a>, <strong><em><a href="#page_24">24</a></em></strong>, <a href="#page_39">39</a>, <a href="#page_42">42</a><br/>
+Muddle <strong><em><a href="#page_29">29</a></em></strong><br/></p><h2 id="n">N</h2><p>Named monster <strong><em><a href="#page_44">44</a></em></strong>, <a href="#page_46">46</a><br/>
+Negate (damage) <a href="#page_25">25</a>, <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_76">76</a><br/>
+Negative hex <strong><em><a href="#page_41">41</a></em></strong>, <a href="#page_45">45</a>, <a href="#page_74">74</a>–<a href="#page_75">75</a><br/>
+Normal (monster) <a href="#page_11">11</a>, <a href="#page_19">19</a>, <strong><em><a href="#page_39">39</a></em></strong>, <a href="#page_40">40</a><br/></p><h2 id="o">O</h2><p>Objective <a href="#page_14">14</a>, <strong><em><a href="#page_15">15</a></em></strong><br/>
+Obstacle <a href="#page_14">14</a>, <strong><em><a href="#page_15">15</a></em></strong>, <a href="#page_21">21</a>, <a href="#page_24">24</a>, <a href="#page_33">33</a><br/>
+Occupied (hex) <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_24">24</a>, <a href="#page_33">33</a><br/>
+Ordering of initiative <a href="#page_18">18</a>, <strong><em><a href="#page_19">19</a></em></strong>, <a href="#page_44">44</a><br/>
+Outpost (event) <a href="#page_54">54</a>, <a href="#page_59">59</a>, <strong><em><a href="#page_60">60</a></em></strong>, <a href="#page_61">61</a>–<a href="#page_62">62</a>, <a href="#page_69">69</a><br/>
+Outpost phase <a href="#page_35">35</a>, <a href="#page_47">47</a>–<a href="#page_48">48</a>, <strong><em><a href="#page_59">59</a></em></strong>, <a href="#page_60">60</a>–<a href="#page_68">68</a>, <a href="#page_70">70</a><br/>
+Overlay tile <a href="#page_8">8</a>, <a href="#page_10">10</a>–<a href="#page_11">11</a>, <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_24">24</a>, <a href="#page_33">33</a>, <a href="#page_44">44</a>, <a href="#page_70">70</a><br/></p><h2 id="p">P</h2><p>Party <a href="#page_3">3</a>, <a href="#page_6">6</a>, <a href="#page_12">12</a>, <a href="#page_16">16</a>, <a href="#page_46">46</a>–<a href="#page_48">48</a>, <strong><em><a href="#page_50">50</a></em></strong>, <a href="#page_54">54</a>, <a href="#page_56">56</a>, <a href="#page_59">59</a>–<a href="#page_65">65</a>, <a href="#page_68">68</a>–<a href="#page_69">69</a><br/>
+Passage of time <a href="#page_54">54</a>, <strong><em><a href="#page_59">59</a></em></strong><br/>
+Perk <a href="#page_53">53</a>, <strong><em><a href="#page_63">63</a></em></strong><br/>
+Perk mark <a href="#page_17">17</a>, <a href="#page_48">48</a>, <a href="#page_53">53</a>, <a href="#page_55">55</a>–<a href="#page_56">56</a>, <strong><em><a href="#page_63">63</a></em></strong>, <a href="#page_64">64</a>–<a href="#page_65">65</a><br/>
+Persistent bonus <strong><em><a href="#page_30">30</a></em></strong>, <a href="#page_31">31</a>, <a href="#page_33">33</a>, <strong><em><a href="#page_39">39</a></em></strong><br/>
+Personal quest <a href="#page_5">5</a>, <a href="#page_54">54</a>, <a href="#page_57">57</a>, <strong><em><a href="#page_64">64</a></em></strong>, <a href="#page_65">65</a>, <a href="#page_69">69</a>–<a href="#page_70">70</a><br/>
+Personal supply <strong><em><a href="#page_53">53</a></em></strong>, <a href="#page_54">54</a>, <a href="#page_56">56</a>, <a href="#page_61">61</a>–<a href="#page_62">62</a>, <a href="#page_65">65</a>–<a href="#page_66">66</a><br/>
+Pierce <a href="#page_26">26</a>, <strong><em><a href="#page_27">27</a></em></strong><br/>
+Poison <strong><em><a href="#page_29">29</a></em></strong><br/>
+Pool (of cards) <a href="#page_8">8</a>, <a href="#page_15">15</a>, <a href="#page_32">32</a>, <a href="#page_48">48</a>, <a href="#page_58">58</a>, <strong><em><a href="#page_63">63</a></em></strong>, <a href="#page_66">66</a>–<a href="#page_67">67</a>, <a href="#page_70">70</a><br/>
+Potion <a href="#page_58">58</a>, <strong><em><a href="#page_66">66</a></em></strong><br/>
+Pressure plate <strong><em><a href="#page_14">14</a></em></strong><br/>
+Prosperity <a href="#page_50">50</a>, <a href="#page_52">52</a>, <strong><em><a href="#page_54">54</a></em></strong>, <a href="#page_62">62</a>, <a href="#page_64">64</a>–<a href="#page_65">65</a>, <a href="#page_68">68</a><br/>
+Pull <strong><em><a href="#page_32">32</a></em></strong><br/>
+Purchase (item) <a href="#page_6">6</a>, <a href="#page_65">65</a>, <strong><em><a href="#page_67">67</a></em></strong><br/>
+Push <strong><em><a href="#page_32">32</a></em></strong><br/></p><h2 id="r">R</h2><p>Random <strong><em>item <a href="#page_16">16</a></em></strong>, <a href="#page_32">32</a><br/>
+Random item blueprint <strong><em><a href="#page_15">15</a></em></strong>, <a href="#page_64">64</a><br/>
+Random scenario <strong><em><a href="#page_15">15</a></em></strong>, <a href="#page_32">32</a>, <a href="#page_64">64</a><br/>
+Range <strong><em><a href="#page_21">21</a></em></strong>, <a href="#page_22">22</a>, <a href="#page_25">25</a>, <a href="#page_27">27</a>, <a href="#page_31">31</a>–<a href="#page_32">32</a>, <a href="#page_41">41</a>–<a href="#page_43">43</a>, <a href="#page_74">74</a>–<a href="#page_75">75</a><br/>
+Rebuild <a href="#page_52">52</a>, <a href="#page_61">61</a>–<a href="#page_62">62</a>, <strong><em><a href="#page_68">68</a></em></strong><br/>
+Recover <strong><em><a href="#page_33">33</a></em></strong>, <a href="#page_36">36</a>, <a href="#page_38">38</a><br/>
+Regenerate <strong><em><a href="#page_28">28</a></em></strong><br/>
+Relocate (tile) <strong><em><a href="#page_33">33</a></em></strong><br/>
+Repair <a href="#page_52">52</a>, <a href="#page_54">54</a>, <strong><em><a href="#page_61">61</a></em></strong><br/>
+Replace (tile) <strong><em><a href="#page_33">33</a></em></strong><br/>
+Resource <a href="#page_16">16</a>, <a href="#page_54">54</a>, <strong><em><a href="#page_56">56</a></em></strong>, <a href="#page_61">61</a>, <a href="#page_65">65</a>–<a href="#page_66">66</a>, <a href="#page_70">70</a><br/>
+Retaliate <a href="#page_26">26</a>, <strong><em><a href="#page_31">31</a></em></strong>, <a href="#page_45">45</a><br/>
+Retire (character) <a href="#page_55">55</a>, <a href="#page_57">57</a>–<a href="#page_58">58</a>, <a href="#page_62">62</a>–<a href="#page_63">63</a>, <strong><em><a href="#page_64">64</a></em></strong>, <a href="#page_65">65</a>, <a href="#page_69">69</a><br/>
+Reveal (room) <a href="#page_14">14</a>, <strong><em><a href="#page_44">44</a></em></strong><br/>
+Rewards <a href="#page_32">32</a>, <strong><em><a href="#page_48">48</a></em></strong>, <a href="#page_64">64</a>, <a href="#page_69">69</a><br/>
+Road (event) <a href="#page_6">6</a>, <a href="#page_8">8</a>, <strong><em><a href="#page_12">12</a></em></strong>, <a href="#page_47">47</a>, <a href="#page_69">69</a><br/>
+Rockroot <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/>
+Rolling (modifier) <strong><em><a href="#page_26">26</a></em></strong>, <a href="#page_27">27</a><br/>
+Room <a href="#page_8">8</a>, <a href="#page_10">10</a>–<a href="#page_11">11</a>, <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_24">24</a>, <a href="#page_44">44</a>, <a href="#page_70">70</a>–<a href="#page_71">71</a><br/>
+Round <a href="#page_7">7</a>, <a href="#page_10">10</a>, <strong><em><a href="#page_18">18</a></em></strong>, <a href="#page_19">19</a>–<a href="#page_20">20</a>, <a href="#page_23">23</a>, <a href="#page_26">26</a>, <a href="#page_29">29</a>–<a href="#page_31">31</a>, <a href="#page_38">38</a>, <a href="#page_40">40</a>, <a href="#page_43">43</a>–<a href="#page_44">44</a>, <a href="#page_46">46</a>–<a href="#page_47">47</a>, <a href="#page_76">76</a><br/>
+Round bonus <strong><em><a href="#page_30">30</a></em></strong>, <a href="#page_46">46</a><br/>
+Round track <strong><em><a href="#page_46">46</a></em></strong><br/></p><h2 id="s">S</h2><p>Scenario <a href="#page_3">3</a>–<a href="#page_6">6</a>, <strong><em><a href="#page_7">7</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_10">10</a>–<a href="#page_19">19</a>, <a href="#page_25">25</a>, <a href="#page_30">30</a>, <a href="#page_32">32</a>, <a href="#page_35">35</a>–<a href="#page_39">39</a>, <a href="#page_44">44</a>–<a href="#page_51">51</a>, <a href="#page_54">54</a>, <a href="#page_59">59</a>, <a href="#page_63">63</a>, <a href="#page_69">69</a>–<a href="#page_71">71</a>, <a href="#page_76">76</a><br/>
+Scenario aid token <a href="#page_11">11</a>, <strong><em><a href="#page_46">46</a></em></strong><br/>
+Scenario ally <a href="#page_5">5</a>, <a href="#page_8">8</a>, <a href="#page_25">25</a>–<a href="#page_26">26</a>, <a href="#page_29">29</a>, <strong><em><a href="#page_46">46</a></em></strong><br/>
+Scenario book <strong><em><a href="#page_7">7</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_10">10</a>–<a href="#page_11">11</a>, <a href="#page_13">13</a>, <a href="#page_15">15</a>–<a href="#page_16">16</a>, <a href="#page_49">49</a>, <a href="#page_63">63</a><br/>
+Scenario effects <a href="#page_7">7</a>–<a href="#page_8">8</a>, <strong><em><a href="#page_10">10</a></em></strong>, <a href="#page_63">63</a>, <a href="#page_76">76</a><br/>
+Scenario flowchart <a href="#page_48">48</a>–<a href="#page_50">50</a>, <strong><em><a href="#page_51">51</a></em></strong><br/>
+Scenario goal <a href="#page_8">8</a>, <strong><em><a href="#page_10">10</a></em></strong><br/>
+Scenario key <a href="#page_8">8</a>, <strong><em><a href="#page_10">10</a></em></strong>, <a href="#page_13">13</a>–<a href="#page_14">14</a><br/>
+Section book <strong><em><a href="#page_7">7</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_15">15</a>, <a href="#page_44">44</a>, <a href="#page_46">46</a>, <a href="#page_48">48</a>, <a href="#page_54">54</a>, <a href="#page_59">59</a>, <a href="#page_64">64</a><br/>
+Self <strong><em><a href="#page_21">21</a></em></strong>, <a href="#page_28">28</a>, <a href="#page_38">38</a><br/>
+Sell (item) <a href="#page_32">32</a>, <a href="#page_58">58</a>, <a href="#page_62">62</a>, <strong><em><a href="#page_67">67</a></em></strong><br/>
+Set (monster) <strong><em><a href="#page_19">19</a></em></strong>, <a href="#page_39">39</a>–<a href="#page_40">40</a>, <a href="#page_43">43</a>–<a href="#page_44">44</a>, <a href="#page_76">76</a><br/>
+Shield <a href="#page_25">25</a>, <a href="#page_27">27</a>, <strong><em><a href="#page_31">31</a></em></strong>, <a href="#page_76">76</a><br/>
+Short rest <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_46">46</a><br/>
+Shuffle <a href="#page_5">5</a>, <a href="#page_8">8</a>, <a href="#page_26">26</a>, <a href="#page_28">28</a>–<a href="#page_29">29</a>, <a href="#page_40">40</a>, <a href="#page_46">46</a>, <a href="#page_57">57</a>, <a href="#page_64">64</a>, <a href="#page_69">69</a><br/>
+Small (item) <strong><em><a href="#page_35">35</a></em></strong>, <a href="#page_76">76</a><br/>
+Snowthistle <a href="#page_16">16</a>, <strong><em><a href="#page_56">56</a></em></strong><br/>
+Soldier <strong><em><a href="#page_54">54</a></em></strong>, <a href="#page_61">61</a><br/>
+Spawn <a href="#page_18">18</a>, <strong><em><a href="#page_44">44</a></em></strong>, <a href="#page_46">46</a><br/>
+Special rules <a href="#page_8">8</a>, <strong><em><a href="#page_10">10</a></em></strong>, <a href="#page_11">11</a>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_19">19</a>, <a href="#page_46">46</a><br/>
+Spring (trap) <a href="#page_14">14</a>, <strong><em><a href="#page_33">33</a></em></strong><br/>
+Standee <strong><em><a href="#page_4">4</a></em></strong>, <a href="#page_8">8</a>, <a href="#page_11">11</a>, <a href="#page_19">19</a>, <a href="#page_28">28</a>, <a href="#page_31">31</a>, <a href="#page_39">39</a>, <a href="#page_40">40</a>, <a href="#page_43">43</a>–<a href="#page_46">46</a><br/>
+Starting hex <strong><em><a href="#page_11">11</a></em></strong><br/>
+Sticker (building) <strong><em><a href="#page_50">50</a></em></strong>, <a href="#page_57">57</a>, <a href="#page_68">68</a><br/>
+Sticker (campaign) <a href="#page_10">10</a>, <a href="#page_12">12</a>, <strong><em><a href="#page_54">54</a></em></strong><br/>
+Sticker (scenario) <a href="#page_48">48</a>–<a href="#page_49">49</a>, <strong><em><a href="#page_50">50</a></em></strong>, <a href="#page_51">51</a><br/>
+Strengthen <strong><em><a href="#page_28">28</a></em></strong><br/>
+Strong (element) <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_46">46</a>, <a href="#page_76">76</a><br/>
+Stun <a href="#page_24">24</a>, <a href="#page_28">28</a>, <strong><em><a href="#page_29">29</a></em></strong><br/>
+Suffer (damage) <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_25">25</a>, <a href="#page_28">28</a>–<a href="#page_29">29</a>, <strong><em><a href="#page_32">32</a></em></strong>, <a href="#page_38">38</a>–<a href="#page_39">39</a>, <a href="#page_45">45</a><br/>
+Summer <a href="#page_12">12</a>, <strong><em><a href="#page_54">54</a></em></strong>, <a href="#page_59">59</a>–<a href="#page_60">60</a><br/>
+Summon (ability) <a href="#page_4">4</a>, <strong><em><a href="#page_31">31</a></em></strong>, <a href="#page_43">43</a>, <a href="#page_58">58</a>, <a href="#page_76">76</a><br/>
+Summon (figure) <a href="#page_4">4</a>, <a href="#page_19">19</a>, <strong><em><a href="#page_31">31</a></em></strong>, <a href="#page_33">33</a>, <a href="#page_38">38</a>, <a href="#page_43">43</a>, <a href="#page_45">45</a>–<a href="#page_46">46</a>, <a href="#page_58">58</a>, <a href="#page_76">76</a><br/></p><h2 id="t">T</h2><p>Target <strong><em><a href="#page_21">21</a></em></strong>, <a href="#page_22">22</a>, <a href="#page_25">25</a>–<a href="#page_26">26</a>, <a href="#page_28">28</a>–<a href="#page_29">29</a>, <a href="#page_32">32</a>, <a href="#page_41">41</a>–<a href="#page_42">42</a>, <a href="#page_60">60</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Target priority <strong><em><a href="#page_60">60</a></em></strong><br/>
+Teleport <a href="#page_14">14</a>, <strong><em><a href="#page_24">24</a></em></strong>, <a href="#page_32">32</a><br/>
+Token <a href="#page_4">4</a>, <a href="#page_8">8</a>, <a href="#page_11">11</a>, <a href="#page_13">13</a>–<a href="#page_15">15</a>, <a href="#page_19">19</a>, <a href="#page_23">23</a>, <a href="#page_26">26</a>, <a href="#page_28">28</a>–<a href="#page_30">30</a>, <a href="#page_32">32</a>, <a href="#page_36">36</a>–<a href="#page_37">37</a>, <a href="#page_43">43</a>–<a href="#page_46">46</a>, <a href="#page_58">58</a>, <a href="#page_71">71</a>, <a href="#page_76">76</a><br/>
+Token tray <strong><em><a href="#page_8">8</a></em></strong><br/>
+Town guard <a href="#page_55">55</a>, <strong><em><a href="#page_56">56</a></em></strong>, <a href="#page_61">61</a><br/>
+Trait <a href="#page_4">4</a>, <strong><em><a href="#page_12">12</a></em></strong>, <a href="#page_69">69</a><br/>
+Trap <strong><em><a href="#page_14">14</a></em></strong>, <a href="#page_16">16</a>, <a href="#page_24">24</a>, <a href="#page_28">28</a>, <a href="#page_33">33</a>, <a href="#page_41">41</a>, <a href="#page_71">71</a>, <a href="#page_74">74</a>–<a href="#page_75">75</a><br/>
+Treasure <strong><em><a href="#page_15">15</a></em></strong>, <a href="#page_32">32</a>, <a href="#page_37">37</a>, <a href="#page_43">43</a>, <a href="#page_47">47</a>–<a href="#page_48">48</a>, <a href="#page_69">69</a>, <a href="#page_71">71</a><br/>
+Tuck box <strong><em><a href="#page_4">4</a>–<a href="#page_5">5</a></em></strong>, <a href="#page_31">31</a>, <a href="#page_35">35</a>, <a href="#page_57">57</a>, <a href="#page_64">64</a>, <a href="#page_70">70</a><br/>
+Turn <a href="#page_4">4</a>, <a href="#page_7">7</a>, <a href="#page_15">15</a>, <a href="#page_18">18</a>–<a href="#page_19">19</a>, <strong><em><a href="#page_20">20</a></em></strong>, <a href="#page_23">23</a>, <a href="#page_28">28</a>–<a href="#page_31">31</a>, <a href="#page_34">34</a>, <a href="#page_37">37</a>–<a href="#page_43">43</a>, <a href="#page_46">46</a>, <a href="#page_71">71</a>, <a href="#page_74">74</a>–<a href="#page_76">76</a><br/>
+Type (monster) <a href="#page_11">11</a>, <strong><em><a href="#page_19">19</a></em></strong>, <a href="#page_39">39</a>–<a href="#page_40">40</a>, <a href="#page_43">43</a>–<a href="#page_44">44</a>, <a href="#page_46">46</a><br/></p><h2 id="u">U</h2><p>Upgrade <a href="#page_50">50</a>, <a href="#page_52">52</a>, <a href="#page_54">54</a>, <a href="#page_58">58</a>, <a href="#page_66">66</a>, <strong><em><a href="#page_68">68</a></em></strong><br/>
+Use slot <a href="#page_26">26</a>, <strong><em><a href="#page_30">30</a></em></strong>, <a href="#page_36">36</a>–<a href="#page_37">37</a><br/></p><h2 id="w">W</h2><p>Wall <strong><em><a href="#page_13">13</a></em></strong>, <a href="#page_14">14</a>–<a href="#page_15">15</a>, <a href="#page_21">21</a>–<a href="#page_22">22</a>, <a href="#page_24">24</a>, <a href="#page_46">46</a><br/>
+Waning (element) <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_46">46</a>, <a href="#page_76">76</a><br/>
+Ward <a href="#page_25">25</a>, <strong><em><a href="#page_28">28</a></em></strong>, <a href="#page_32">32</a>, <a href="#page_38">38</a><br/>
+Wild (element) <strong><em><a href="#page_23">23</a></em></strong>, <a href="#page_43">43</a><br/>
+Winter <a href="#page_12">12</a>, <strong><em><a href="#page_54">54</a></em></strong>, <a href="#page_59">59</a>–<a href="#page_60">60</a><br/>
+Wound <a href="#page_28">28</a>, <strong><em><a href="#page_29">29</a></em></strong>, <a href="#page_45">45</a><br/>
+Wrecked (building) <a href="#page_52">52</a>, <a href="#page_60">60</a>, <strong><em><a href="#page_61">61</a></em></strong>, <a href="#page_62">62</a>, <a href="#page_68">68</a><br/></p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_82">82</a></strong></p><hr/><h1 id="credits">Credits</h1><h2 id="design-and-development">Design and Development</h2><h3 id="lead-game-designer">Lead Game Designer</h3><p>Isaac Childres</p><h3 id="event-system-building-system-campaign-battle-goal-and-challenge-designers-and-developers">Event System, Building System, Campaign, Battle Goal, and Challenge Designers and Developers</h3><p>Alexander JL Theoharis, Joe Homes, Zachary Cohn</p><h3 id="building-puzzles-and-trials-designer">Building Puzzles and Trials Designer</h3><p>Alexander JL Theoharis</p><h3 id="-and--designer-and-developer-and--developer"><img alt="Geminate Icon" src="icons/characters/fh-geminate-bw-icon.png" title="Geminate Icon" width="24"/> and <img alt="" src="icons/characters/fh-infuser-bw-icon.png" title="" width="24"/> Designer and Developer and <img alt="" src="icons/characters/fh-metal-mosaic-bw-icon.png" title="" width="24"/> Developer</h3><p>Marcel Cwertetschka-Mattasits</p><h3 id="perk-designers-and-class-monster-item-scenario-battle-goaland-challenge-developers">Perk Designers and Class, Monster, Item, Scenario, Battle Goal,and Challenge Developers</h3><p>Drew Penn, Dennis Vögele</p><h3 id="enhancement-system-developer">Enhancement System Developer</h3><p>Justin Dowell</p><h2 id="production">Production</h2><h3 id="executive-producer-and-production-lead">Executive Producer and Production Lead</h3><p>Price Johnson</p><h2 id="illustration">Illustration</h2><h3 id="cover-character-monster-item-and-loot-artist">Cover, Character, Monster, Item, and Loot Artist</h3><p>Alexandr Elichev</p><h3 id="world-map-and-sticker-artist">World Map and Sticker Artist</h3><p>Francesca Baerald</p><h3 id="map-tile-and-overlay-tile-artist">Map Tile and Overlay Tile Artist</h3><p>David Demaret</p><h3 id="puzzle-random-scenario-ability-background-and-pet-artist">Puzzle, Random Scenario, Ability Background, and Pet Artist</h3><p>Yanis Cardin</p><h2 id="graphic-design">Graphic Design</h2><h3 id="lead-graphic-designer">Lead Graphic Designer</h3><p>Josh McDowell</p><h3 id="rulebook-layout-artist">Rulebook Layout Artist</h3><p>Jason D. Kingsley</p><h3 id="scenario-and-section-book-graphic-designers">Scenario and Section Book Graphic Designers</h3><p>Lauren Coghlan, Daly Design Inc. (Aaron Estepa and Jennifer Zarate)</p><h3 id="box-and-setup-guide-graphic-designers">Box and Setup Guide Graphic Designers</h3><p>Cat Bock and David Bock</p><h3 id="additional-graphic-designers">Additional Graphic Designers</h3><p>Margaux Cannon, Katie McDowell</p><h2 id="editing">Editing</h2><h3 id="mechanical-text-editors">Mechanical Text Editors</h3><p>Drew Penn, Mathew G. Somers, Dennis Vögele</p><h3 id="creative-text-editor">Creative Text Editor</h3><p>Hayley Birch</p><h3 id="rulebook-editor">Rulebook Editor</h3><p>Dustin Schwartz</p><h3 id="cultural-and-sensitivity-consultant">Cultural and Sensitivity Consultant</h3><p>James Mendez Hodes</p><h2 id="3d-modeling">3D Modeling</h2><h3 id="miniature-sculptors">Miniature Sculptors</h3><p>Andrew Cothill, Chad Hoverter, Chris Lewis, Tom Mason</p><h3 id="tray-designer">Tray Designer</h3><p>Matt Healey</p><h2 id="writing">Writing</h2><h3 id="narrative-writer">Narrative Writer</h3><p>Isaac Childres</p><h3 id="narrative-developer">Narrative Developer</h3><p>Joe Homes</p><h3 id="main-scenario-164-writer">Main Scenario (1–64) Writer</h3><p>Andy Nellis</p><h3 id="section-book-and-event-writers">Section Book and Event Writers</h3><p>Alexander JL Theoharis, Joe Homes, Zachary Cohn</p><h3 id="additional-scenario-writers">Additional Scenario Writers</h3><p>Ella Ampongan, Efka Bladukas, Drew Burmahl, Shannon Campbell, Isaac Childres, Isabella Cwertetschka-Mattasits, Dusty Everman, Christopher Handley, Scott Hathaway, Tom Heath, Joe Homes, Rachel Jackson, Noralie Lubbers, Crystal Mazur, Conrad Oakes, Travis Oates, Marcus Ross, Robb Rouse, Ryan Schoon, Tyler Sigman, Lisa Smedman, Mathew G. Somers, Alexander JL Theoharis, Dennis Vögele, Christian Wakeman, Mike West, Calvin Wong Tze Loon</p><h3 id="additional-section-book-writers">Additional Section Book Writers</h3><p>Shannon Campbell, Isaac Childres, Andy Nellis</p><h3 id="additional-event-writers">Additional Event Writers</h3><p>Zachary Andrews, Darren Caulley, Isaac Childres, Pete Howes, Jussi-Pekka Jokinen, Jordi de Jonghe, Rob Ouwersloot, Chris Read, Osvaldas Rubavičius, Jacob Walla</p><h3 id="poem-writer">Poem Writer</h3><p>Lucas Hunter</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_83">83</a></strong></p><hr/><h2 id="scenario-design">Scenario Design</h2><h3 id="main-scenario-164-designer">Main Scenario (1–64) Designer</h3><p>Isaac Childres</p><h3 id="additional-scenario-designers">Additional Scenario Designers</h3><p>Julie Ahern, Ella Ampongan, Efka Bladukas, Drew Burmahl, Vlaada Chvátil, Zachary Cohn, Marcel Cwertetschka-Mattasits, Jens Drögemüller, Dusty Everman, Paul Grogan, Petri Häkkinen, Richard Ham, Ryan Haswell, Scott Hathaway, Tom Heath, Frank Heeren, Joe Homes, Rachel Jackson, Justin D. Jacobson, Jeremy Kaemmer, Chris Kirkman, Conrad Oakes, Travis Oates, Dan Patriss, Marcus Ross, Robb Rouse, Adam Sadler, Brady Sadler, Ryan Schoon, Tyler Sigman, Lisa Smedman, Mathew G. Somers, Alexander JL Theoharis, Antti Tiihonen, Dávid Turczi, Nikki Valens, Dennis Vögele, Christian Wakeman, Mike West, Calvin Wong Tze Loon</p><h2 id="playtesting">Playtesting</h2><h3 id="playtesting-coordinators">Playtesting Coordinators</h3><p>Justin Dowell, Wilting Moon</p><h3 id="digital-playtesting-facilitator">Digital Playtesting Facilitator</h3><p>Marcel Cwertetschka-Mattasits</p><h3 id="lead-playtesters">Lead Playtesters</h3><p>Clinton Bradford, Brandon Butcher, Zachary Cohn, John Cole, Marcel Cwertetschka-Mattasits, Justin Dowell, Tyvan Grossi, Félix-Antoine Guérard, Joe Homes, Kaili Jiang, Brian Lewis, Alice Livingston, Charles McCloud, Wilting Moon, Conrad Oakes, Kalim Oldziey, Drew Penn, Quentin Savattez, Alexander JL Theoharis, Dennis Vögele, Rob Watkins, Steven Wilkins, William Wilson</p><h2 id="crowdfunding">Crowdfunding</h2><h3 id="campaign-video-creator">Campaign Video Creator</h3><p>Josh McDowell</p><h3 id="campaign-layout-artist">Campaign Layout Artist</h3><p>Jason D. Kingsley</p><h3 id="community-support">Community Support</h3><p>Chris Kessler</p><h3 id="marketing-support">Marketing Support</h3><p>Jon Ritter-Roderick</p><h2 id="special-thanks">Special Thanks</h2><p>Kristyn Childres; Marcie, Clarke, and Liam Johnson; Katie, Finn, Ada, and Cora McDowell; Gabrielle Kingsley; Aaron Hoyt and Angie Y.; the marvelous Kickstarter backers who made all of this possible; the creators of Satire’s Extended Battle Goals: Zachary Cohn, Forest Gibson, Justin Hammond, Joe Homes, Alexander JL Theoharis, and Rob Whitehead</p><h2 id="additional-playtesting">Additional Playtesting</h2><p>Ryon Ando, Steve Baker, Kendra Baratta, Joe Barbarie, Chris Binns, Jon Birt, Arthur Bouz, Alden Bradford, Patrick Breton, Dan Burras, Cady Butcher, Jonathan Butcher, Kyle Cano, Ken Case, Jack Chen, Treavon Clark, Robert Cohoon, Cassandra Conrad, Drake Conrad, Kristi Corfield, Ryan Crocker, Isabella Cwertetschka-Mattasits, Ben Dearden, Bronwen Hale Dearden, Kirk Dearden, Austin Dowell, Ryan Dowell, Christopher Egan, Katherine Egan, Jason Eickmann, Kurt Engstrom, Tamo Fey, Mike Fieweger, Stephan Forden, Adrian Francies, Jacob Fuller, Leif Gantvoort, Falko von Gersdorff, Weiyee Goh, Dominik Goldnagl, Andy González, Haley Grant, Tyler Grant, Broc Grigsby, Vincent Guérard, Jeanna Guerrero, Chris Gulde, Willa Hale, Ross Hamann, Jason Han, Steve Holeczy, Adam Howland, Alex Katros, Ryan Katz, Aneta Krzywosz, Kyson Lamoreau, Settemio Lawless, Daniel Lee, Erin Lee, Vann Lee, Lea Leopoldo, Stephanie Livingston, Cliff Long, Doug Mann, Victoria Mao, William McVey, Peter Mette, Colton Neiger, Jordan Neiger, Kevin Neiger, Cassie Oates, Travis Oates, Moira O’Hay, Scott Olaveson, Jelena Paripovic, Tanis Perez, Sirin Petch, Simon Piel, Chris Pinhal, Jeff Piroozshad, Vic Polites, Mark Rickard, Roger Ritchie, Theresa Ritchie, Scott Rothstein, Mike Ruiz, Ben Russell, Mathew Rutan, Marcos Sastre V, Joshua Schlagetter, Liam Schlueter, Michael Schmelz, Nicole Schmidt, Marco Alexander Schwarz, Brendon Scott, Cynthia Scott, Daniel Shi, Kristina Sidwa, Jacob Skidmore, Alysia M. Smith, Kaylynne Smith, Trevor R. Smith, Mike Sousa, Adam Stilts, Maximilian Strittmatter, Catherine Sturgis, Guillaume Trémé, Jack Wagner, Rachel Wilkins, Ryan Wolf, Joshua Workman, Ashton Wu, Winston Wu, Rory Yocom-Hurley, Andrew Young, Callum Young</p><h2 id="dedication">Dedication</h2><p>To Joseph Childres — the most creative person I’ve ever known.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_84">84</a></strong></p><hr/><h1 id="quick-reference">Quick Reference</h1><h2 id="beginning-a-scenario-p8-1">Beginning A Scenario (<a href="#page_8">p.8</a>)</h2><ul>
+<li>Select a scenario.</li>
+<li>Resolve a road event if necessary.</li>
+<li>Set up the map tiles for the scenario.</li>
+<li>Retrieve all monsters for the scenario and shuffle their ability decks.</li>
+<li>Retrieve all overlay tiles for the scenario.</li>
+<li>Set up the first room of the scenario.</li>
+<li>Shuffle all attack modifier decks.</li>
+<li>Read the scenario entry.</li>
+<li>Deal and select battle goals.</li>
+<li>Place the token tray nearby.</li>
+<li>Build the loot deck.</li>
+<li>Select which items to bring.</li>
+<li>Select which ability cards to bring.</li>
+<li>Set <img alt="Heal Icon" class="fh-icon" src="icons/general/fh-heal-bw-icon.png" title="Heal Icon"/> dials to maximum and <img alt="Experience Icon" class="fh-icon" src="icons/general/fh-xp-bw-icon.png" title="Experience Icon"/> dials to zero.</li>
+<li>Apply any event and scenario effects.</li>
+</ul><h2 id="scenario-phase-p18">Scenario Phase (<a href="#page_18">p.18</a>)</h2><ol>
+<li>Card Selection</li>
+<li>Ordering of Initiative</li>
+<li>Character and Monster Turns</li>
+<li>End of Round</li>
+</ol><h2 id="outpost-phase-p59-1">Outpost Phase (<a href="#page_59">p.59</a>)</h2><ol>
+<li>Passage of Time</li>
+<li>Outpost Event</li>
+<li>Building Operations</li>
+<li>Downtime</li>
+<li>Construction</li>
+</ol><h2 id="targeted-abilities-p21">Targeted Abilities (<a href="#page_21">p.21</a>)</h2><ul>
+<li>Attack (<a href="#page_25">p.25</a>)</li>
+<li>Conditions (<a href="#page_28">p.28</a>)</li>
+<li>Heal (<a href="#page_29">p.29</a>)</li>
+<li>Forced Movement (<a href="#page_32">p.32</a>)</li>
+<li>Commanding Figures (<a href="#page_33">p.33</a>)</li>
+<li>Manipulating Tiles (<a href="#page_33">p.33</a>)</li>
+</ul><h2 id="attack-modification-order-p25">Attack Modification Order (<a href="#page_25">p.25</a>)</h2><ol>
+<li>Apply all attack bonuses and penalties.</li>
+<li>Draw and apply an attack modifier card.</li>
+<li>Apply the target’s shield bonus.</li>
+<li>Apply the effects of <img alt="Ward Icon" class="fh-icon" src="icons/conditions/fh-ward-color-icon.png" title="Ward Icon"/> and <img alt="Brittle Icon" class="fh-icon" src="icons/conditions/fh-brittle-color-icon.png" title="Brittle Icon"/></li>
+</ol><h2 id="end-of-round-p46">End of Round (<a href="#page_46">p.46</a>)</h2><ol>
+<li>Trigger any end-of-round effects.</li>
+<li>Shuffle all decks with revealed <img alt="Shuffle Icon" class="fh-icon" src="icons/general/fh-shuffle-icon.png" title="Shuffle Icon"/> icons.</li>
+<li>Remove all round bonuses from active areas.</li>
+<li>Perform short rests if desired.</li>
+<li>Move all infused elements to the left.</li>
+</ol><h2 id="ending-a-scenario-p47-1">Ending a Scenario (<a href="#page_47">p.47</a>)</h2><h3 id="whether-scenario-lost-or-completed">Whether Scenario Lost or Completed…</h3><ul>
+<li>Recover all discarded and lost items and ability cards.</li>
+<li>Reset <img alt="Heal Icon" class="fh-icon" src="icons/general/fh-heal-bw-icon.png" title="Heal Icon"/> dials to maximum.</li>
+<li>Remove all conditions.</li>
+<li>Remove all <img alt="Bless icon" class="fh-icon" src="icons/conditions/fh-bless-color-icon.png" title="Bless icon"/>/<img alt="Curse Icon" class="fh-icon" src="icons/conditions/fh-curse-color-icon.png" title="Curse Icon"/>/<img alt="Minus 1 Color Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-1-color-icon.png" title="Minus 1 Color Icon"/> cards from attack modifier decks.</li>
+<li>Gain experience from <img alt="Experience Icon" class="fh-icon" src="icons/general/fh-xp-bw-icon.png" title="Experience Icon"/> dials.</li>
+<li>Gain gold from loot cards.</li>
+</ul><h3 id="if-scenario-lost-choose-one">If Scenario Lost, Choose One:</h3><ul>
+<li>Return to Frosthaven for an Outpost Phase. Gain resources from loot cards.</li>
+<li>Replay the scenario immediately. Do not gain resources from loot cards.</li>
+</ul><h3 id="if-scenario-completed">If Scenario Completed…</h3><ul>
+<li>Gain resources from loot cards.</li>
+<li>Gain checkmarks for achieving battle goals.</li>
+<li>Gain perk marks for achieving masteries.</li>
+<li>Read the scenario conclusion.</li>
+<li>Gain all scenario rewards.</li>
+<li>Gain (4 – C) inspiration.</li>
+<li>Update the map.</li>
+<li>Return to Frosthaven for an Outpost Phase (or play a linked scenario immediately).</li>
+</ul><h2 id="timing-of-attack-effects-p26">Timing of Attack Effects (<a href="#page_26">p.26</a>)</h2><ul>
+<li><em>+X Attack</em> (<a href="#page_25">p.25</a>) – during damage resolution</li>
+<li><em>Pierce</em> (<a href="#page_27">p.27</a>) – during damage resolution</li>
+<li><em>+X Target</em> (<a href="#page_21">p.21</a>) – after the attack resolves</li>
+<li><em>Conditions</em> (<a href="#page_28">p.28</a>) – after the attack resolves</li>
+<li><em>Forced Movement</em> (<a href="#page_32">p.32</a>) – after the attack resolves</li>
+<li><em>Other Added Effects</em> (<a href="#page_26">p.26</a>) – after the attack resolves</li>
+<li><em>Elemental Infusions</em> (<a href="#page_23">p.23</a>) – at the end of the turn</li>
+</ul><h2 id="scenario-level-p16">Scenario Level (<a href="#page_16">p.16</a>)</h2><div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Scenario Level</th>
+<th style="text-align: center">0</th>
+<th style="text-align: center">1</th>
+<th style="text-align: center">2</th>
+<th style="text-align: center">3</th>
+<th style="text-align: center">4</th>
+<th style="text-align: center">5</th>
+<th style="text-align: center">6</th>
+<th style="text-align: center">7</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center">Monster Level</td>
+<td style="text-align: center">0</td>
+<td style="text-align: center">1</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">7</td>
+</tr>
+<tr>
+<td style="text-align: center">Gold Conversion</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+</tr>
+<tr>
+<td style="text-align: center">Trap Damage</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">7</td>
+<td style="text-align: center">8</td>
+<td style="text-align: center">9</td>
+</tr>
+<tr>
+<td style="text-align: center">Hazardous Terrain</td>
+<td style="text-align: center">1</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+</tr>
+<tr>
+<td style="text-align: center">Bonus Experience</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">8</td>
+<td style="text-align: center">10</td>
+<td style="text-align: center">12</td>
+<td style="text-align: center">14</td>
+<td style="text-align: center">16</td>
+<td style="text-align: center">18</td>
+</tr>
+</tbody>
+</table>
+</div><ul>
+<li>Recommended Scenario Level:
+  Average Character Level ÷ 2 (rounded up).</li>
+</ul>

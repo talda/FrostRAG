@@ -1,0 +1,23 @@
+<h2 id="sticker-8">Sticker 8</h2><ol start="5">
+<li><strong>Scenario Conclusion:</strong> Read the conclusion of the scenario, which is found in the section indicated by the specific goal for the scenario.</li>
+<li><strong>Scenario Rewards:</strong> Gain any scenario rewards listed after the conclusion. However, the rewards from each scenario can only be gained once per campaign, so skip this step if replaying a completed scenario. These rewards can include scenario unlocks, experience, gold, checkmarks, items, and more. If the party is required to lose something, they cannot lose more than they have. If an item is gained, find one copy of that item in the unavailable supply and add it to any character’s pool of items. If an item blueprint is gained, find all copies of that item in the unavailable supply and add them to the available supply.
+    <blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> When a scenario is unlocked, retrieve its sticker from the corresponding window of the scenario flowchart and affix it to the map board at the specified coordinates, matching up the artwork.</p>
+</blockquote>
+<p>Scenario numbers shown in circles within the story text of the conclusion are references to help clarify the story text.</p>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Inspiration:</strong> Gain inspiration equal to 4 minus the number of characters (see <a href="#page_54">p.54</a>). Inspiration is tallied on the campaign sheet.</p>
+</blockquote>
+</li>
+<li><strong>Updated Map:</strong> Mark the scenario as completed on the map board.
+    <blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Completed scenarios can still be replayed during the same campaign.</p>
+</blockquote>
+<p>However, the scenario rewards and any numbered treasures can only be gained once.</p>
+</li>
+</ol><p>Even if a character is exhausted, as long as the scenario was completed, they may still achieve their battle goal and masteries, gain scenario rewards, and keep all of the experience, gold, and loot they gained during the scenario.</p><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> After completing a scenario, the party normally returns to Frosthaven for an Outpost Phase (see <a href="#page_59">p.59</a>).</p>
+<p>If another scenario is linked <img alt="Linked Scenario Icon" class="fh-icon" src="icons/general/fh-linked-bw-icon.png" title="Linked Scenario Icon"/> to the completed scenario, they may skip the Outpost Phase and play it. If another scenario is force-linked <img alt="Force-Linked Scenario Icon" class="fh-icon" src="icons/general/fh-linked-forced-color-icon.png" title="Force-Linked Scenario Icon"/> to the completed scenario, they must skip the Outpost Phase and play it. If this was not the first time the scenario was completed during the same campaign, all scenario links are ignored and the party must return to Frosthaven for an Outpost Phase.</p>
+</blockquote><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_49">49</a></strong></p><hr/>

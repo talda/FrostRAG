@@ -1,0 +1,80 @@
+<h2 id="scenario-level">Scenario Level</h2><p>As characters grow in power, the scenario level will also increase to ensure the game is always challenging.</p><p>Monster base stats, trap and hazardous terrain damage, the amount of gold received from coins on loot cards, and the amount of bonus experience for completing a scenario are all dependent on the level of the scenario being played. Refer to the chart for specific values at each level.</p><p>At recommended difficulty, the scenario level is equal to the average level of the characters <strong>divided by 2</strong> (rounded up). For example, if all characters are level 2, the average level (2) divided by 2 (1) means the scenario is still level 1. Only once a character reaches level 3 would the scenario level potentially increase.</p><p>This calculation determines the recommended difficulty, but at the start of any scenario, the scenario level can be set to any number from 0–7. Decreasing the scenario level might be helpful if your party is struggling, while increasing the scenario level can help the game remain challenging as your party grows stronger.</p><div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Scenario Level</th>
+<th style="text-align: center">0</th>
+<th style="text-align: center">1</th>
+<th style="text-align: center">2</th>
+<th style="text-align: center">3</th>
+<th style="text-align: center">4</th>
+<th style="text-align: center">5</th>
+<th style="text-align: center">6</th>
+<th style="text-align: center">7</th>
+<th style="text-align: center"> </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center">Monster Level</td>
+<td style="text-align: center">0</td>
+<td style="text-align: center">1</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">7</td>
+<td style="text-align: center"> </td>
+</tr>
+<tr>
+<td style="text-align: center">Gold Conversion</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center"> </td>
+</tr>
+<tr>
+<td style="text-align: center">Trap Damage</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">7</td>
+<td style="text-align: center">8</td>
+<td style="text-align: center">9</td>
+<td style="text-align: center"> </td>
+</tr>
+<tr>
+<td style="text-align: center">Hazardous Terrain</td>
+<td style="text-align: center">1</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center"><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/></td>
+</tr>
+<tr>
+<td style="text-align: center">Bonus Experience</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">8</td>
+<td style="text-align: center">10</td>
+<td style="text-align: center">12</td>
+<td style="text-align: center">14</td>
+<td style="text-align: center">16</td>
+<td style="text-align: center">18</td>
+<td style="text-align: center"> </td>
+</tr>
+</tbody>
+</table>
+</div><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_17">17</a></strong></p><hr/>

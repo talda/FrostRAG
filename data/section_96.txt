@@ -1,0 +1,25 @@
+<h2 id="common-scenario-rules">Common Scenario Rules</h2><ul>
+<li><strong>Allies:</strong> Certain figures are allies of the party. Each ally is represented either by a monster standee, in which case their stats are defined by their monster stat card, or by a numbered scenario aid token, in which case their stats are defined by the scenario rules. When multiple numbered tokens are used to represent allies, randomize them to determine their acting order. Like summons, allies are not controlled by any character, obeying automated monster rules instead.
+    <blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> When allies attack, they use the ally attack modifier deck.</p>
+</blockquote>
+</li>
+<li>
+<p><strong>Equations:</strong> Certain variables, such as hit point values for objectives or named monsters, are determined by equations. These equations can depend on scenario level (L), number of characters (C), or maximum hit point value of an elite monster of the relevant type (H). For example, if a named Polar Bear has (C × H) hit points, then its maximum hit point value is equal to the number of characters multiplied by the maximum hit point value of an elite Polar Bear.</p>
+</li>
+<li>
+<p><strong>Escaping:</strong> Certain scenarios require the party to escape. In these scenarios, certain hexes on the map are designated as escape hexes. If a character ends their turn in an escape hex, they may escape. Their figure is then removed from the map, along with their summons and tokens. Escaped characters can no longer participate in the scenario in any way.</p>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Linked Hexes:</strong> Certain hexes on the map are linked to each other. Linked hexes are considered adjacent for the purpose of movement. There is no line-of-sight between linked hexes, but figures can find focus through linked hexes.</p>
+</blockquote>
+</li>
+<li>
+<p><strong>Locked Doors:</strong> Certain doors are locked at the start of the scenario. Locked doors cannot be opened normally. They act as walls until the specified conditions which unlock them have been met. Once unlocked, they can be opened normally.</p>
+</li>
+<li>
+<p><strong>Round Track:</strong> If a scenario has effects that occur at specific times, the rounds can be tracked via the round track at the top of the element board. Advance the round marker one space at the end of each round.</p>
+</li>
+<li><strong>Scenario Aid Tokens:</strong> These numbered or lettered tokens represent allies or loot or even act as reminders for special rules, such as where enemies spawn or when to read a section. These tokens do not affect the empty status of a hex, unless they are representing a figure.</li>
+</ul><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_47">47</a></strong></p><hr/>

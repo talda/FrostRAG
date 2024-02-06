@@ -1,0 +1,44 @@
+<h3 id="items">Items</h3><p>Item cards offer a wide variety of bonuses and extra abilities that can be used in addition to a character’s normal two actions per round. Item cards are acquired by looting them during the Scenario Phase and by purchasing or crafting them during the Outpost Phase.</p><p>An item card has the following:</p><ol type="A">
+<li><strong>Item Name:</strong> The name of the item.</li>
+<li><strong>Item Cost:</strong> The gold cost if it is a purchasable item (see <a href="#page_67">p.67</a>)
+    <blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> or the crafting cost if it is a craftable item (see <a href="#page_65">p.65</a>).</p>
+</blockquote>
+</li>
+<li><strong>Item Usage:</strong> What happens to the item after it has been used (see <a href="#page_36">p.36</a>). Some items are only spent, while others are lost instead. Some items can even be used multiple times first.</li>
+<li><strong>Item Effect:</strong> When the item can be used and what bonus or ability the character gains.</li>
+<li><strong>Item Type:</strong> Each item counts as one of six types: <img alt="Head Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-head-bw-icon.png" title="Head Item Icon"/>, <img alt="Body Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-body-bw-icon.png" title="Body Item Icon"/>, <img alt="Legs Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-legs-bw-icon.png" title="Legs Item Icon"/>, <img alt="Single Hand Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-single-hand-bw-icon.png" title="Single Hand Item Icon"/>, <img alt="Dual Hand Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-dual-hand-bw-icon.png" title="Dual Hand Item Icon"/>, or <img alt="Small Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-item-bw-icon.png" title="Small Item Icon"/>. These types determine which items a character can bring into a scenario.</li>
+<li><strong>Negative Modifiers:</strong> Some items, when brought into a scenario, add a number of <img alt="-1 Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-1-bw-icon.png" title="-1 Icon"/> cards to the character’s attack modifier deck. For these items, the number of cards to add is shown here.</li>
+<li><strong>Quantity:</strong> A count that indicates how many copies of the item exist in the game and which number this copy is within the count.</li>
+<li><strong>Index Number:</strong> A unique number that identifies the item. When an item is referenced, using the index icon <img alt="Item Index Icon" class="fh-icon" src="icons/general/fh-item-card-bw-icon.png" title="Item Index Icon"/>, it can be found by its card back. This prevents the party from inadvertently seeing items they have not discovered yet.</li>
+</ol><h4 id="item-limits">Item Limits</h4><p>All items a character brings into a scenario are placed below their character mat and can be used as specified by the items themselves.</p><p>A character can use any item as long as it is in their possession; however, characters can only bring a limited number of items into a scenario. Each character can bring one <img alt="Head Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-head-bw-icon.png" title="Head Item Icon"/> item, one <img alt="Body Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-body-bw-icon.png" title="Body Item Icon"/> item, one <img alt="Legs Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-legs-bw-icon.png" title="Legs Item Icon"/> item, up to two <img alt="Single Hand Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-single-hand-bw-icon.png" title="Single Hand Item Icon"/> items -or* one <img alt="Dual Hand Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-dual-hand-bw-icon.png" title="Dual Hand Item Icon"/> item, and a number of <img alt="Small Item Icon" class="fh-icon" src="icons/general/fh-equip-slot-item-bw-icon.png" title="Small Item Icon"/> items up to half their level (rounded up).</p><p>A character can own more items than they bring into a scenario, but they cannot own more than one copy of any single item. All items that a character owns are kept in their tuck box. Different characters cannot own the same copy of the same item. <strong>Items cannot be transferred or traded between characters.</strong></p><h5 id="item-types">Item Types</h5><div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th style="text-align: center"><img alt="Head Item Icon" src="icons/general/fh-equip-slot-head-bw-icon.png" title="Head Item Icon" width="42"/></th>
+<th style="text-align: center"><img alt="Body Item Icon" src="icons/general/fh-equip-slot-body-bw-icon.png" title="Body Item Icon" width="42"/></th>
+<th style="text-align: center"><img alt="Legs Item Icon" src="icons/general/fh-equip-slot-legs-bw-icon.png" title="Legs Item Icon" width="42"/></th>
+<th style="text-align: center"><img alt="Single Hand Item Icon" src="icons/general/fh-equip-slot-single-hand-bw-icon.png" title="Single Hand Item Icon" width="42"/></th>
+<th style="text-align: center"><img alt="Dual Hand Item Icon" src="icons/general/fh-equip-slot-dual-hand-bw-icon.png" title="Dual Hand Item Icon" width="42"/></th>
+<th style="text-align: center"><img alt="Small Item Icon" src="icons/general/fh-equip-slot-item-bw-icon.png" title="Small Item Icon" width="42"/></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center">Head</td>
+<td style="text-align: center">Body</td>
+<td style="text-align: center">Feet</td>
+<td style="text-align: center">One Hand</td>
+<td style="text-align: center">Two Hands</td>
+<td style="text-align: center">Small</td>
+</tr>
+</tbody>
+</table>
+</div><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_36">36</a></strong></p><hr/><h4 id="item-usage">Item Usage</h4><p><img alt="Spent Icon" src="icons/general/fh-tap-card-color-icon.png" title="Spent Icon" width="42"/> <strong>Spent Icon:</strong> The spent icon means the item is spent after use. This is indicated by rotating the card sideways. Spent items can be recovered the next time the character performs a long rest (see <a href="#page_38">p.38</a>).</p><p><img alt="Lost Icon" src="icons/general/fh-lost-black-card-color-icon.png" title="Lost Icon" width="42"/> <strong>Lost Icon:</strong> The lost icon means the item is lost after use. This is indicated by flipping the card face down. Lost items cannot be used again for the rest of the scenario (unless recovered). If an item has the <img alt="Unrecoverable Icon" class="fh-icon" src="icons/general/fh-non-return-card-color-icon.png" title="Unrecoverable Icon"/> icon, it cannot be recovered by any means until the end of the scenario.</p><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <img alt="Flip Icon" src="icons/general/fh-flip-back-to-front-generic-color-icon.png" title="Flip Icon" width="42"/> <strong>Flip Icon:</strong> The flip icon means the item is flipped after use, revealing a different use on the other side of the card. When the other side is used, the item is then flipped over back to its front side to be used again. The specific timing of when to flip the card is detailed in its text. Characters should always start the scenario with these items on the side with the gold cost or crafting cost.</p>
+</blockquote><p>Some items do not have any of these icons. This means the item applies a passive effect. There is no limit on how many times an item with a passive effect can be used.</p><p>Some items can be used multiple times before they are spent, lost, or flipped. This is indicated by a series of use slots on the item. Use a character token to track these uses.</p><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> When an item with multiple uses is recovered, even before it has been fully spent, reset the character token to the first use slot.</p>
+</blockquote><p>Some recover abilities can recover spent or lost items, just like discarded or lost ability cards. All items are returned to their original state between scenarios. No item can ever be permanently lost.</p><p>Items with use slots and passive effects must be used if the item’s requirements are met. All other uses of items are optional. The following extra restrictions apply to item use:</p><ul>
+<li>If an item affects an attack (e.g., adds a bonus, an effect, advantage, or disadvantage), it must be used before an attack modifier is drawn.</li>
+<li>If an item provides an ability, it cannot be used during another ability.</li>
+</ul>

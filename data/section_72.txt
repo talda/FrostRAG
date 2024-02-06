@@ -1,0 +1,8 @@
+<h3 id="character-ability-cards">Character Ability Cards</h3><p>Character ability cards, which are all unique, determine which actions a character can perform.</p><p>A character ability card has the following:</p><ol type="A">
+<li><strong>Card Name:</strong> The name of the card.</li>
+<li><strong>Initiative Value:</strong> This value determines when the character acts during the round (see <a href="#page_19">p.19</a>).</li>
+<li><strong>Level:</strong> The level of the card. Level X cards are considered level 1 for all purposes.</li>
+<li><strong>Actions:</strong> Each card has a top action and a bottom action. The abilities of an action are performed from top to bottom, with each ability separated by an ability line. After the action is performed, the card is placed in the character’s active area, discard pile, or lost pile, depending on the card’s icons. A character may choose not to perform an action, in which case the card is discarded with no effect.</li>
+<li><strong>Basic Action</strong> Icons: An ability card can always be used for a basic “<img alt="Attack Icon" class="fh-icon" src="icons/general/fh-attack-bw-icon.png" title="Attack Icon"/> <strong>2</strong>” top action or “<img alt="Move Icon" class="fh-icon" src="icons/general/fh-move-bw-icon.png" title="Move Icon"/> <strong>2</strong>” bottom action. If a card is used this way, the card is discarded and no other icons or abilities on the card are activated.</li>
+<li><strong>Enhancement Marks:</strong> Squares, circles, diamonds, and hexes next to some abilities. Their purpose will be revealed later in the campaign.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_35">35</a></strong></p><hr/>

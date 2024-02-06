@@ -1,0 +1,5 @@
+<h3 id="loot-and-elements">Loot and Elements</h3><ul>
+<li>All monsters, except scenario allies, drop a loot token when they die.</li>
+<li>All characters loot the hex they occupy at the end of their turn, not the end of each movement. Monsters and summons do not perform end-of-turn looting.</li>
+<li>Since infusions don’t occur until the end of the turn, any consumed element must be already strong or waning at the start of the turn, prior to any infusions.</li>
+</ul>

@@ -1,0 +1,21 @@
+<h2 id="resources">Resources</h2><p>Resources can be in a character’s personal supply or in the Frosthaven supply. When the party gains or loses collective resources, they can be added to or taken from any supply. When the party loses collective resources, if there is not enough in all of the supplies put together, they lose what they have and the remainder is ignored.</p><p>There are three <strong>material</strong> resources:</p><table>
+<tr>
+<td><img alt="Lumber Icon" class="fh-icon" src="icons/loot/fh-lumber-bw-icon.png" title="Lumber Icon"/></td><td> Lumber</td>
+</tr>
+<tr>
+<td><img alt="Metal Icon" class="fh-icon" src="icons/loot/fh-metal-bw-icon.png" title="Metal Icon"/></td><td>Metal</td>
+</tr>
+<tr>
+<td><img alt="Hide Icon" class="fh-icon" src="icons/loot/fh-hide-bw-icon.png" title="Hide Icon"/></td><td>Hide</td>
+</tr>
+</table><p>A character can use the material resources in their personal supply to craft items. All characters can use the material resources in the Frosthaven supply to pay various costs for buildings, but not to craft items.</p><p>There are six <strong>herb</strong> resources:</p><table>
+<tr>
+<td><img alt="Arrowvine Icon" class="fh-icon" src="icons/loot/fh-arrowvine-bw-icon.png" title="Arrowvine Icon"/> Arrowvine</td><td><img alt="Flamefruit Icon" class="fh-icon" src="icons/loot/fh-flamefruit-bw-icon.png" title="Flamefruit Icon"/> Flamefruit</td>
+</tr>
+<tr>
+<td><img alt="Axenut Icon" class="fh-icon" src="icons/loot/fh-axenut-bw-icon.png" title="Axenut Icon"/> Axenut</td><td><img alt="Rockroot Icon" class="fh-icon" src="icons/loot/fh-rockroot-bw-icon.png" title="Rockroot Icon"/> Rockroot</td>
+</tr>
+<tr>
+<td><img alt="Corpsecap Icon" class="fh-icon" src="icons/loot/fh-corpsecap-bw-icon.png" title="Corpsecap Icon"/> Corpsecap</td><td><img alt="Snowthistle Icon" class="fh-icon" src="icons/loot/fh-snowthistle-bw-icon.png" title="Snowthistle Icon"/> Snowthistle</td>
+</tr>
+</table><p>A character can use the herb resources in their personal supply to craft items and brew potions. All characters can use the herb resources in the Frosthaven supply to craft items and brew potions.</p>

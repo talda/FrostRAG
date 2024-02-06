@@ -1,0 +1,8 @@
+<h2 id="4-downtime">4. Downtime</h2><p>After the Building Operations step, characters may perform downtime activities in any order they would like. Many of these activities require characters to interact with a specific building, which they cannot do if the building is wrecked.</p><ul>
+<li><strong>Level Up</strong> <a href="#page_62">p.62</a></li>
+<li><strong>Retire a Character</strong> <a href="#page_64">p.64</a></li>
+<li><strong>Create a Character</strong> <a href="#page_65">p.65</a></li>
+<li><strong>Craft Items</strong> <a href="#page_65">p.65</a></li>
+<li><strong>Brew Potions</strong> <a href="#page_66">p.66</a></li>
+<li><strong>Sell Items</strong> <a href="#page_67">p.67</a></li>
+</ul>

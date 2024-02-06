@@ -1,0 +1,8 @@
+<h3 id="whether-scenario-lost-or-completed">Whether Scenario Lost or Completed…</h3><ul>
+<li>Recover all discarded and lost items and ability cards.</li>
+<li>Reset <img alt="Heal Icon" class="fh-icon" src="icons/general/fh-heal-bw-icon.png" title="Heal Icon"/> dials to maximum.</li>
+<li>Remove all conditions.</li>
+<li>Remove all <img alt="Bless icon" class="fh-icon" src="icons/conditions/fh-bless-color-icon.png" title="Bless icon"/>/<img alt="Curse Icon" class="fh-icon" src="icons/conditions/fh-curse-color-icon.png" title="Curse Icon"/>/<img alt="Minus 1 Color Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-1-color-icon.png" title="Minus 1 Color Icon"/> cards from attack modifier decks.</li>
+<li>Gain experience from <img alt="Experience Icon" class="fh-icon" src="icons/general/fh-xp-bw-icon.png" title="Experience Icon"/> dials.</li>
+<li>Gain gold from loot cards.</li>
+</ul>

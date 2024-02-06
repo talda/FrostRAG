@@ -1,0 +1,5 @@
+<h3 id="stickers-added">Stickers added:</h3><ul>
+<li><a href="#sticker_4">Sticker 4</a></li>
+<li><a href="#sticker_10">Sticker 10</a></li>
+<li><a href="#sticker_15">Sticker 15</a></li>
+</ul><p>I’ve made a separate document that only lists the parts of the Rule Book that are marked as <a href="/frosthaven-rule-book/new-to-frosthaven.html">new in Frosthaven.</a></p><p>All text taken from the original Rule Book (as uploaded to <a href="https://github.com/any2cards/worldhaven">https://github.com/any2cards/worldhaven</a>). Icons taken from <a href="https://github.com/any2cards/worldhaven">https://github.com/any2cards/worldhaven</a>. All mistakes are mine. <a href="https://github.com/pikdonker/frosthaven-rule-book/pulls">PR’s</a> welcome, <strong>as long as they do not contain spoilers.</strong></p><p>© 2022 Cephalofair Games, LLC. All Rights Reserved.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_2">2</a></strong></p><hr/>

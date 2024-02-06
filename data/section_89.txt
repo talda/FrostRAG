@@ -1,0 +1,28 @@
+<h3 id="other-monster-abilities">Other Monster Abilities</h3><ul>
+<li>
+<p><strong>Active Bonuses:</strong> Active bonuses from a stat card are active at all times, even if the monster is stunned. Active bonuses from an ability card are only active once the monster has taken its turn, but they remain active until the end of the round, even if the monster is later stunned. Multiple active bonuses, from either type of card, stack with one another as a single effect.</p>
+</li>
+<li>
+<p><strong>Heal Abilities:</strong> The monster heals itself or an ally within the specified range. It always targets the monster within range that has the greatest difference between its current and maximum hit point values.</p>
+</li>
+<li>
+<p><strong>Loot Abilities:</strong> Monsters do not perform end-of-turn looting, unlike characters, but some monsters have loot abilities. In such cases, the monster loots all loot tokens within the specified range, removing them from the map. These loot tokens are not dropped by the monster when it dies. Monsters are unable to loot treasure tiles.</p>
+</li>
+<li>
+<p><strong>Negative Targeted Abilities:</strong> The monster uses the focus rules to find the targets for these abilities as if they were attack abilities, but this does not affect how it moves.</p>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Positive Conditions:</strong> The monster applies the condition to itself or an ally within the specified range. It always targets the monster at the closest range that does not already have the condition. If there is a tie for closest range, it targets the monster that acts earliest in the initiative order.</p>
+</blockquote>
+</li>
+<li>
+<p><strong>Summon Abilities:</strong> Some monsters can summon other monsters onto the map. Monster summons behave just like other monsters, acting according to the monster ability cards of their set. <br/>
+A monster summon must be placed in an empty hex adjacent to its summoner and as close to an enemy as possible. If there is no adjacent hex available, or no standee of the corresponding monster type, the figure is not summoned. Monster summons never take a turn during the round in which they are summoned. When a summoner is killed, its monster summons remain on the map.</p>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> If a monster summon does not have a monster ability card drawn for its set this round, draw one to determine an initiative value solely for the purpose of determining the focus of other figures’ abilities.</p>
+</blockquote>
+</li>
+</ul>

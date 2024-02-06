@@ -1,0 +1,7 @@
+<h3 id="monsters">Monsters</h3><ul>
+<li>A monster ability card is drawn each round for each set of monsters on the map. All monsters of a single set will use the same ability card.</li>
+<li>A monster only performs the abilities listed on its ability card for the round.</li>
+<li>A monster does not apply any active bonuses from its ability card until its turn.</li>
+<li>If a monster cannot find a focus, it will not move.</li>
+<li>If a monster will not be performing an attack on its turn, or has disarm, it finds a focus as if for a single-target melee attack.</li>
+</ul>

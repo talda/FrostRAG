@@ -1,0 +1,4 @@
+<h3 id="if-scenario-lost-choose-one">If Scenario Lost, Choose One:</h3><ul>
+<li>Return to Frosthaven for an Outpost Phase. Gain resources from loot cards.</li>
+<li>Replay the scenario immediately. Do not gain resources from loot cards.</li>
+</ul>

@@ -1,0 +1,6 @@
+<h2 id="2-find-focus">2. Find Focus</h2><p>The monster finds an attack hex and focuses on an enemy with the following priority list:</p><ol>
+<li>A hex with a movement path that triggers fewer negative hexes.</li>
+<li>A hex with a movement path that requires fewer movement points.</li>
+<li>An enemy closer by range.</li>
+<li>An enemy earlier in the initiative order, following the normal rules for breaking tiesfor initiative (see <a href="#page_19">p.19</a>).</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_75">75</a></strong></p><hr/>

@@ -1,0 +1,3 @@
+<h3 id="named-monsters">Named Monsters</h3><p>Named monsters are a special class of monster. For some scenarios, the goal is to kill a unique variant of a monster type, which is given a name in the scenario rules.</p><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Place named monster standees in red bases to identify them.</p>
+</blockquote><p>Named monsters are not considered normal or elite, so they are not affected by abilities that target those ranks. Named monsters act before elites of the same type.</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_45">45</a></strong></p><hr/>

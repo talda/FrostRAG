@@ -1,0 +1,100 @@
+<h3 id="playing-a-scenario-p18">Playing a Scenario <a href="#page_18">p.18</a></h3><ol>
+<li>Card Selection <a href="#page_18">p.18</a></li>
+<li>Ordering of Initiative <a href="#page_19">p.19</a></li>
+<li>Character and Monster Turns <a href="#page_20">p.20</a>
+<ol>
+<li>Actions and Abilities Overview <a href="#page_20">p.20</a></li>
+<li>Important Ability Concepts <a href="#page_21">p.21</a>
+<ol>
+<li>Line-of-Sight <a href="#page_21">p.21</a></li>
+<li>Target <a href="#page_21">p.21</a></li>
+<li>Allies, Enemies, and Self <a href="#page_21">p.21</a></li>
+<li>Range <a href="#page_21">p.21</a></li>
+<li>Area of Effect <a href="#page_22">p.22</a></li>
+<li>Added Effects <a href="#page_22">p.22</a></li>
+<li>Conditional Triggers <a href="#page_22">p.22</a></li>
+<li>Elements <a href="#page_23">p.23</a></li>
+</ol>
+</li>
+<li>Abilities <a href="#page_24">p.24</a>
+<ol>
+<li>Move <a href="#page_24">p.24</a>
+<ol>
+<li>Jump <a href="#page_24">p.24</a></li>
+<li>Flying <a href="#page_24">p.24</a></li>
+</ol>
+</li>
+<li>Teleport <a href="#page_24">p.24</a></li>
+<li>Attack <a href="#page_25">p.25</a>
+<ol>
+<li>Attack Modification Order <a href="#page_25">p.25</a></li>
+<li>Attack Modifier Cards <a href="#page_25">p.25</a></li>
+<li>Attack Effects <a href="#page_26">p.26</a></li>
+<li>Advantage and Disadvantage <a href="#page_27">p.27</a></li>
+<li>Pierce <a href="#page_27">p.27</a></li>
+</ol>
+</li>
+<li>Conditions <a href="#page_28">p.28</a>
+<ol>
+<li>Positive Conditions <a href="#page_28">p.28</a></li>
+<li>Negative Conditions <a href="#page_29">p.29</a></li>
+</ol>
+</li>
+<li>Heal <a href="#page_29">p.29</a></li>
+<li>Active Bonuses <a href="#page_30">p.30</a>
+<ol>
+<li>Shield <a href="#page_31">p.31</a></li>
+<li>Retaliate <a href="#page_31">p.31</a></li>
+<li>Summon <a href="#page_31">p.31</a></li>
+</ol>
+</li>
+<li>Forced Movement <a href="#page_32">p.32</a></li>
+<li>Suffer Damage <a href="#page_32">p.32</a></li>
+<li>Loot <a href="#page_32">p.32</a></li>
+<li>Recover <a href="#page_33">p.33</a></li>
+<li>Commanding Figures <a href="#page_33">p.33</a></li>
+<li>Manipulating Tiles <a href="#page_33">p.33</a></li>
+</ol>
+</li>
+<li>Character Turns <a href="#page_34">p.34</a>
+<ol>
+<li>Character Ability Cards <a href="#page_34">p.34</a></li>
+<li>Items <a href="#page_35">p.35</a>
+<ol>
+<li>Item Usage <a href="#page_36">p.36</a></li>
+</ol>
+</li>
+<li>Mandatory Triggers <a href="#page_37">p.37</a></li>
+<li>Experience <a href="#page_37">p.37</a></li>
+<li>End-of-Turn Looting <a href="#page_37">p.37</a></li>
+<li>Resting <a href="#page_38">p.38</a></li>
+<li>Lost Actions <a href="#page_38">p.38</a></li>
+<li>Character Damage <a href="#page_38">p.38</a></li>
+<li>Exhaustion <a href="#page_38">p.38</a></li>
+</ol>
+</li>
+<li>Monster Turns <a href="#page_39">p.39</a>
+<ol>
+<li>Monster Stat Cards <a href="#page_39">p.39</a></li>
+<li>Monster Ability Cards <a href="#page_40">p.40</a></li>
+<li>Monster Acting Order <a href="#page_40">p.40</a></li>
+<li>Focus <a href="#page_41">p.41</a></li>
+<li>Monster Movement <a href="#page_42">p.42</a></li>
+<li>Monster Attacks <a href="#page_42">p.42</a></li>
+<li>Other Monster Abilities <a href="#page_43">p.43</a></li>
+<li>Monsters and Elements <a href="#page_43">p.43</a></li>
+<li>Revealing and Spawning Monsters <a href="#page_44">p.44</a></li>
+<li>Named Monsters <a href="#page_44">p.44</a></li>
+<li>Bosses <a href="#page_45">p.45</a></li>
+<li>Monster Damage and Death <a href="#page_45">p.45</a>
+<ol>
+<li>Kill Credit <a href="#page_45">p.45</a></li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>End of Round <a href="#page_46">p.46</a></li>
+<li>Common Scenario Rules <a href="#page_46">p.46</a></li>
+</ol>

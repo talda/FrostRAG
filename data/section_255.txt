@@ -1,0 +1,77 @@
+<h2 id="scenario-level-p16">Scenario Level (<a href="#page_16">p.16</a>)</h2><div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Scenario Level</th>
+<th style="text-align: center">0</th>
+<th style="text-align: center">1</th>
+<th style="text-align: center">2</th>
+<th style="text-align: center">3</th>
+<th style="text-align: center">4</th>
+<th style="text-align: center">5</th>
+<th style="text-align: center">6</th>
+<th style="text-align: center">7</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center">Monster Level</td>
+<td style="text-align: center">0</td>
+<td style="text-align: center">1</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">7</td>
+</tr>
+<tr>
+<td style="text-align: center">Gold Conversion</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+</tr>
+<tr>
+<td style="text-align: center">Trap Damage</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">5</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">7</td>
+<td style="text-align: center">8</td>
+<td style="text-align: center">9</td>
+</tr>
+<tr>
+<td style="text-align: center">Hazardous Terrain</td>
+<td style="text-align: center">1</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">4</td>
+</tr>
+<tr>
+<td style="text-align: center">Bonus Experience</td>
+<td style="text-align: center">4</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">8</td>
+<td style="text-align: center">10</td>
+<td style="text-align: center">12</td>
+<td style="text-align: center">14</td>
+<td style="text-align: center">16</td>
+<td style="text-align: center">18</td>
+</tr>
+</tbody>
+</table>
+</div><ul>
+<li>Recommended Scenario Level:
+  Average Character Level ÷ 2 (rounded up).</li>
+</ul>

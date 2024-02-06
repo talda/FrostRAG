@@ -1,0 +1,32 @@
+<h1 id="beginning-a-scenario">Beginning a Scenario</h1><p>Whenever a scenario is played, the party will prepare for the scenario by performing the following steps in order:</p><ol>
+<li>Select which scenario to play, open the scenario book to the corresponding scenario entry, and keep the section book nearby. The party can only play a scenario if it has been unlocked and if they meet its requirements. This does include scenarios that have been completed previously.</li>
+<li>Resolve a road event if necessary (see <a href="#page_12">p.12</a>).</li>
+<li>Set up all map tiles for the scenario as depicted in the map layout for the scenario entry.</li>
+<li>Retrieve the materials (ability deck, stat card, standees, and initiative tracker) for all monsters shown in the scenario key. Shuffle the ability decks and insert the stat cards in stat sleeves so that only the relevant stats are shown.</li>
+<li>Retrieve all overlay tiles shown in the scenario key.</li>
+<li>Set up the first room of the scenario as depicted in the main map for the scenario entry.</li>
+<li>Retrieve and shuffle all necessary attack modifier decks (character, monster, and ally decks) and retrieve all additional attack modifier cards (<img alt="Bless icon" class="fh-icon" src="icons/conditions/fh-bless-color-icon.png" title="Bless icon"/>, <img alt="Curse Icon" class="fh-icon" src="icons/conditions/fh-curse-color-icon.png" title="Curse Icon"/>, and <img alt="Star Icon" class="fh-icon" src="icons/general/fh-star-icon.png" title="Star Icon"/> cards).</li>
+<li>Read the scenario goals, introduction, and special rules in the scenario entry.</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Deal three battle goals to each character. Decide which one to keep for each character and discard the others (see <a href="#page_17">p.17</a>).</p>
+</blockquote>
+</li>
+<li>Sticker 1</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Place the token tray nearby.</p>
+</blockquote>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Build the loot deck as depicted by the loot table in the scenario entry (see <a href="#page_16">p.16</a>).</p>
+</blockquote>
+</li>
+<li>Sticker 2</li>
+<li>Sticker 3</li>
+<li>Decide which items to bring for each character from their pool and apply any negative effects and start-of-scenario effects associated with those items (see <a href="#page_35">p.35</a>).</li>
+<li>Decide which ability cards to bring for each character from their pool, selecting a number of cards equal to their hand size, which is shown below the portrait on their character mat. Each character’s selected cards will start in their hand.</li>
+<li>Set each character’s red hit point dial to their maximum hit point value, which is shown below their current level in the chart at the bottom of their character mat. Set each character’s blue experience dial to zero.</li>
+<li>Apply any road event effects and scenario effects.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_9">9</a></strong></p><hr/><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_10">10</a></strong></p><hr/>

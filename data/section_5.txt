@@ -1,0 +1,5 @@
+<h2 id="getting-started-p3">Getting Started <a href="#page_3">p.3</a></h2><ol>
+<li>Starting Character Classes <a href="#page_3">p.3</a></li>
+<li>Creating a Character <a href="#page_4">p.4</a></li>
+<li>Learning the Rules <a href="#page_6">p.6</a></li>
+</ol>

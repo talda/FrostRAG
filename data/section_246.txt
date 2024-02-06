@@ -1,0 +1,7 @@
+<h2 id="outpost-phase-p59-1">Outpost Phase (<a href="#page_59">p.59</a>)</h2><ol>
+<li>Passage of Time</li>
+<li>Outpost Event</li>
+<li>Building Operations</li>
+<li>Downtime</li>
+<li>Construction</li>
+</ol>

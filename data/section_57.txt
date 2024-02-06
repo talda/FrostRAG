@@ -1,0 +1,3 @@
+<h3 id="jump">Jump</h3><p><img alt="Jump Icon" src="icons/general/fh-jump-bw-icon.png" title="Jump Icon" width="42"/>  “<strong>Jump</strong>” is an added effect of a move ability. Jumping allows a figure to ignore all enemies, obstacles, objectives, traps, and hazardous terrain, except for in the last hex.</p><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Difficult terrain and icy terrain are ignored completely when jumping.</p>
+</blockquote><p>A figure cannot jump through walls.</p>

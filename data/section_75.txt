@@ -1,0 +1,13 @@
+<h3 id="mandatory-triggers">Mandatory Triggers</h3><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> If any part of an action is performed, certain abilities and effects of that action cannot be skipped. In such cases, the ability or effect is highlighted in a box with an “<strong>!</strong>” in front of it. These include:</p>
+</blockquote><ol type="A">
+<li>
+<blockquote>
+<p><strong>Negative Abilities:</strong> The indicated ability creates a negative effect for the character or their allies.</p>
+</blockquote>
+</li>
+<li><strong>Elemental Infusions:</strong> The indicated elements must be infused at the end of the turn.</li>
+<li><strong>Experience:</strong> The character must gain the indicated amount of experience.</li>
+<li><strong>Lost Icons:</strong> The card must be lost.</li>
+<li><strong>Active Icons:</strong> The card must be placed in the character’s active area.</li>
+</ol>

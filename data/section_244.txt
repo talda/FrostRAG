@@ -1,0 +1,17 @@
+<h2 id="beginning-a-scenario-p8-1">Beginning A Scenario (<a href="#page_8">p.8</a>)</h2><ul>
+<li>Select a scenario.</li>
+<li>Resolve a road event if necessary.</li>
+<li>Set up the map tiles for the scenario.</li>
+<li>Retrieve all monsters for the scenario and shuffle their ability decks.</li>
+<li>Retrieve all overlay tiles for the scenario.</li>
+<li>Set up the first room of the scenario.</li>
+<li>Shuffle all attack modifier decks.</li>
+<li>Read the scenario entry.</li>
+<li>Deal and select battle goals.</li>
+<li>Place the token tray nearby.</li>
+<li>Build the loot deck.</li>
+<li>Select which items to bring.</li>
+<li>Select which ability cards to bring.</li>
+<li>Set <img alt="Heal Icon" class="fh-icon" src="icons/general/fh-heal-bw-icon.png" title="Heal Icon"/> dials to maximum and <img alt="Experience Icon" class="fh-icon" src="icons/general/fh-xp-bw-icon.png" title="Experience Icon"/> dials to zero.</li>
+<li>Apply any event and scenario effects.</li>
+</ul>

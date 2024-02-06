@@ -1,0 +1,6 @@
+<h3 id="attacks-and-damage">Attacks and Damage</h3><ul>
+<li>A separate attack modifier card is drawn for each target of an attack ability.</li>
+<li>A shield bonus only reduces damage from attacks, not from other sources, but the bonus applies to all incoming attacks while active.</li>
+<li>Even if an attack deals no damage (e.g., when a <img alt="Miss Icon" class="fh-icon" src="icons/attack-modifiers/fh-miss-icon.png" title="Miss Icon"/> card is drawn), all added effects of the attack are still applied.</li>
+<li>A character can negate all damage from one source by losing one card from their hand or two cards from their discard pile.</li>
+</ul>

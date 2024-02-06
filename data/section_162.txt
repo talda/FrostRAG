@@ -1,0 +1,4 @@
+<h3 id="summons">Summons</h3><ul>
+<li>Summons must be placed in empty hexes adjacent to the summoner. If there is no adjacent hex available, the figure is not summoned.</li>
+<li>Summons are not directly controlled by their summoner. Most summons instead obey automated monster rules.</li>
+</ul>

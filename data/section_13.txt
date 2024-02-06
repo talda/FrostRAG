@@ -1,0 +1,11 @@
+<h2 id="game-variants-p69">Game Variants <a href="#page_69">p.69</a></h2><ol>
+<li>Casual Mode <a href="#page_69">p.69</a></li>
+<li>Crossover Classes <a href="#page_69">p.69</a></li>
+<li>Spoiler Variant <a href="#page_69">p.69</a></li>
+<li>Reduced Randomness <a href="#page_69">p.69</a></li>
+<li>Solo Mode <a href="#page_69">p.69</a></li>
+<li>Open Information <a href="#page_69">p.69</a></li>
+<li>Permanent Death <a href="#page_70">p.70</a></li>
+<li>Character Respeccing <a href="#page_70">p.70</a></li>
+<li>Random Dungeons <a href="#page_70">p.70</a></li>
+</ol>

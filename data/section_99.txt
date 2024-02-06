@@ -1,0 +1,9 @@
+<h2 id="completed-scenario">Completed Scenario</h2><p>If the scenario was completed, the party performs the following steps:</p><ol>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Looted Resources:</strong> Each character gains any resources from their loot cards. Resources are tallied on their character sheet.</p>
+</blockquote>
+</li>
+<li><strong>Battle Goals:</strong> Each character gains any checkmarks from achieving their battle goal. Checkmarks are tracked on their character sheet. For every set of three checkmarks, the character gains a perk mark (see <a href="#page_63">p.63</a>).</li>
+<li><strong>Masteries:</strong> Each character gains one perk mark for any new mastery they achieved during the scenario. Even if they became exhausted during the scenario, they can still achieve a mastery if its requirements were met at the time they became exhausted. Each mastery can only be achieved once per character.</li>
+</ol>

@@ -1,0 +1,52 @@
+<h1 id="creating-a-character">Creating a Character</h1><p>Let’s take a closer look at the components of a character. Once you have decided which character class you would like to play, find the small tuck box and large tuck box for that class and open them up.</p><p>Inside the small tuck box, you will find a plastic miniature, which is used to represent your character in every scenario. (Note: The Geminate has two small tuck boxes because they have two separate forms.)</p><p>Inside the large tuck box, you will find several things:</p><ol type="A">
+<li><strong>Character Sheets</strong>: This sheet is where you will track all persistent information about your character from scenario to scenario. Write a name for your character in the Name field and mark that you are level 1. Initial characters start with 30 gold, so write “30” in the Gold field. There are multiple sheets in each pad because the same class can be played multiple times over the course of a single campaign. However, there can only be one character of each class at a given time, so you only need one sheet for now. (For more on character sheets, see <a href="#page_53">p.53</a>)</li>
+<li><strong>Character Mat</strong>: This mat stays in front of you during a scenario to help you track important rules and various aspects of your character. On the mat, you will find an illustration of your character, plus their hand size, traits, and maximum hit point value at different levels. The back side features a thematic description of your character.</li>
+<li><strong>Character Standee</strong>: This standee is an alternative to your plastic miniature. You can use either the standee or the miniature to represent your character, based on your preference.</li>
+<li><strong>Summon Standees</strong>: If your character has abilities that can summon allies into a scenario, you have summon standees for these allies. These allies do not have miniatures, so you must use the standees to represent them.</li>
+<li><strong>Character Tokens</strong>: These tokens are used to track various abilities belonging to your character.</li>
+<li><strong>Initiative Order Token</strong>: This token is used to mark when your turn will occur within any given round of a scenario.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_5">5</a></strong></p><hr/><ol start="7" type="A">
+<li><strong>Ability Cards</strong>: These cards are what make your character unique. They represent the dynamic actions you can perform during a scenario. For now, the most important part of these cards is their level, which is indicated in the upper left corner. If you are unfamiliar with the character, it is recommended that you only play with the level 1 cards for your first game. There are a number of these equal to your hand size. If you are more experienced, you may consider also using the level X cards, which are typically more complicated and situational. You can only bring into a scenario a number of ability cards equal to your hand size, so adding level X cards to your hand means removing an equal number of level 1 cards from your hand. Don’t worry, you can change your selections for each scenario.(For more on ability cards, see <a href="#page_34">p.34</a>)</li>
+<li><strong>Advanced Attack Modifier Cards and Perk Reminder Cards</strong>: These cards, marked with your class icon, are only needed as your character grows in power, so you won’t be using them for now. (For more on attack modifier cards, see <a href="#page_25">p.25</a>)</li>
+</ol><p>There are a few more things your character will need before they are ready:</p><ol type="A">
+<li><strong>Standard Attack Modifier Deck</strong>: There are six of these 20-card decks in the insert, labeled individually. There is one deck for each character (<img alt="Player 1 Icon" class="fh-icon" src="icons/general/fh-player-1-icon.png" title="Player 1 Icon"/>, <img alt="Player 2 Icon" class="fh-icon" src="icons/general/fh-player-2-icon.png" title="Player 2 Icon"/>, <img alt="Player 3 Icon" class="fh-icon" src="icons/general/fh-player-3-icon.png" title="Player 3 Icon"/>, <img alt="Player 4 Icon" class="fh-icon" src="icons/general/fh-player-4-icon.png" title="Player 4 Icon"/>), one deck for scenario allies (<img alt="Ally Icon" class="fh-icon" src="icons/general/fh-ally-icon.png" title="Ally Icon"/>), and one deck for the monsters (<img alt="Monster Icon" class="fh-icon" src="icons/general/fh-monster-icon.png" title="Monster Icon"/>). Each deck contains six <img alt="0 Icon" class="fh-icon" src="icons/attack-modifiers/fh-plus-0-icon.png" title="0 Icon"/>, five <img alt="-1 Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-1-color-icon.png" title="-1 Icon"/>, five <img alt="+1 Icon" class="fh-icon" src="icons/attack-modifiers/fh-plus-1-color-icon.png" title="+1 Icon"/>, one <img alt="-2 Icon" class="fh-icon" src="icons/attack-modifiers/fh-minus-2-color-icon.png" title="-2 Icon"/>, one <img alt="+2 Icon" class="fh-icon" src="icons/attack-modifiers/fh-plus-2-color-icon.png" title="+2 Icon"/>, one <img alt="Miss Icon" class="fh-icon" src="icons/attack-modifiers/fh-miss-icon.png" title="Miss Icon"/>, and one <img alt="2X Icon" class="fh-icon" src="icons/attack-modifiers/fh-2x-icon.png" title="2X Icon"/></li>
+<li><strong>Personal Quest</strong>: Draw two cards from the personal quest deck. Keep one and shuffle the other back into the deck. This card represents your character’s reason for coming to Frosthaven. Once you complete this personal quest, you will retire your character and choose a new character, unlocking new campaign elements in the process. Personal quests can be secret or public, as the party decides.</li>
+<li><strong>Character Dial</strong>: This dial is used to track your character’s hit points and experience during a scenario.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_6">6</a></strong></p><hr/><ol start="4" type="A">
+<li><strong>Items</strong>: You have 30 starting gold to spend on items. Items provide extra bonuses or abilities for your character. You can purchase any of the items in the available purchasable supply (items 120–128). If you own Gloomhaven, you can also purchase any of the following items from Gloomhaven: items 10, 25, 72, 105, 109, and 116. When you are done purchasing items with your starting gold, any unspent remainder is lost.(For more on items, see <a href="#page_35">p.35</a>) If you are not sure what to purchase, here are some suggested purchases for each starting class.</li>
+</ol><div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Class Name</th>
+<th>Suggested Purchase</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Banner Spear</td>
+<td>Winged Shoes 124, Heater Shield 128</td>
+</tr>
+<tr>
+<td>Drifter</td>
+<td>Amulet of Life 120, Winged Shoes 124</td>
+</tr>
+<tr>
+<td>Boneshaper</td>
+<td>Warden’s Robes 122</td>
+</tr>
+<tr>
+<td>Deathwalker</td>
+<td>Boots of Speed 125</td>
+</tr>
+<tr>
+<td>Blinkblade</td>
+<td>Leather Armor 123, Poison Dagger 127</td>
+</tr>
+<tr>
+<td>Geminate</td>
+<td>Amulet of Life 120, Leather Armor 123</td>
+</tr>
+</tbody>
+</table>
+</div>

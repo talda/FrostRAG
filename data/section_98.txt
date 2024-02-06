@@ -1,0 +1,14 @@
+<h2 id="lost-scenario">Lost Scenario</h2><p>If the scenario was lost, the party chooses between the following options:</p><ol type="A">
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Return to Frosthaven:</strong> Characters gain the resources from their loot cards, and all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase occurs (see <a href="#page_59">p.59</a>).</p>
+</blockquote>
+<p>The party can then attempt any available scenario, including the scenario they just lost, and they resolve a road event if necessary.</p>
+</li>
+<li>
+<blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> <strong>Replay the Scenario:</strong> Characters do not gain the resources from their loot cards, but all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase does not occur.</p>
+</blockquote>
+<p>The party must then attempt the scenario again, but they do not resolve a road event.</p>
+</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_48">48</a></strong></p><hr/>

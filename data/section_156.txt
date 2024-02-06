@@ -1,0 +1,8 @@
+<h2 id="3-perform-monster-abilities">3. Perform Monster Abilities</h2><p>The monster performs all of its abilities from top to bottom (move, attack, and other abilities). For move abilities, observe the following rules:</p><ol type="A">
+<li>The monster must end its movement with a shorter path to its attack hex than it had before or else it will not move.</li>
+<li>The monster chooses a movement path that triggers the fewest negative hexes.</li>
+<li>The monster moves to an attack hex from which it can attack its focus. If it can target multiple enemies, it instead moves to a hex from which it can attack its focus and the most other enemies.</li>
+<li>The monster moves to a hex from which it can attack the most possible targets (including its focus) with the fewest possible disadvantaged attacks.</li>
+<li>If the monster could move to multiple hexes that maximize the previous priorities, it moves to the hex that requires the fewest movement points.</li>
+<li>In cases where monster movement is still ambiguous, the party decides.</li>
+</ol><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_76">76</a></strong></p><hr/>

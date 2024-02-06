@@ -1,0 +1,17 @@
+<h2 id="item-supplies">Item Supplies</h2><p>Items that are not in a character’s pool are split into two groups: the available supply and the unavailable supply. These two groups are kept separate in the game box with a divider card and are split further into subgroups of purchasable items and craftable items, depending on whether they have a gold cost or a crafting cost.</p><p>Items can be added to the available supply in the following ways:</p><ul>
+<li>
+<p><strong>Upgrading Buildings:</strong> When the Craftsman or certain other buildings are upgraded, move the listed items from the unavailable supply to the corresponding available supply (either purchasable items or craftable items, depending on the building).</p>
+</li>
+<li>
+<p><strong>Crafting and Selling:</strong> When a character spends an item to pay a crafting cost (see <a href="#page_65">p.65</a>) or sells an item for gold (see <a href="#page_67">p.67</a>), return the item to the corresponding available supply.</p>
+</li>
+<li>
+<p><strong>Retiring Characters:</strong> When a character retires (see <a href="#page_64">p.64</a>), return all of their items to the corresponding available supply.</p>
+</li>
+<li>
+<p><strong>Gaining Blueprints:</strong> When the party gains an item blueprint, move all copies of that item from the unavailable supply to the available craftable supply.</p>
+</li>
+<li>
+<p><strong>Brewing Potions:</strong> When the party brews a new potion (see <a href="#page_66">p.66</a>), move all remaining copies of that item from the unavailable supply to the available craftable supply.</p>
+</li>
+</ul><p>Access to certain items is limited, even once added to the available supply. Craftable items in the available supply can be gained by interacting with the Craftsman during the Downtime step, but purchasable items in the available supply can only be gained under specific conditions (e.g., creating a new character, reading certain sections, etc.).</p><p>Items are only returned to the unavailable supply when a game effect specifically instructs the party to do so.</p><h4 id="gloomhaven-items">Gloomhaven Items</h4><p>If you own <em>Gloomhaven</em>, certain items from that game can cross over into <em>Frosthaven</em> as options in the available purchasable supply, but only if those items are already available in <em>Gloomhaven</em>.</p><p>At the start of the <em>Frosthaven</em> campaign, <strong>only items 10, 25, 72, 105, 109, and 116 are available</strong>, but other items will become available as buildings are constructed. <em>Gloomhaven</em> solo items, however, can only be used by the corresponding class and should not be added to the available purchasable supply.</p><p>Some items from <em>Gloomhaven</em> can be used to summon additional allies. Use the summon tokens from <em>Gloomhaven</em> to track these additional summons. For the purposes of ability card effects, these additional summons are not considered to be owned by the character who summoned them (though they still act before the summoning character and use their attack modifier deck).</p><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_59">59</a></strong></p><hr/>

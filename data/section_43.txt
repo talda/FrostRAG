@@ -1,0 +1,8 @@
+<h2 id="battle-goals">Battle Goals</h2><p>Battle goals provide an additional challenge in a scenario for characters to complete.</p><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> At the start of every scenario, each character receives three battle goal cards in secret and chooses one to keep, discarding the others face down.
+Characters should keep their battle goals secret from one another until the scenario is over.</p>
+</blockquote><p>If the scenario is completed and the character meets the criteria of the chosen card, they will gain the number of checkmarks specified at the bottom of that card. For every set of three checkmarks, a character will gain a perk mark (see <a href="#page_63">p.63</a>), up to a maximum of six extra perk marks for 18 checkmarks. If the scenario is lost, the character receives nothing from their battle goal, regardless of whether the goal was achieved.</p><p>A battle goal card has the following:</p><ol type="A">
+<li>Thematic title.</li>
+<li>Details for how the goal can be achieved.</li>
+<li>Number of checkmarks gained after achieving the goal while also completing the scenario.</li>
+</ol>

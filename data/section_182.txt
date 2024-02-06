@@ -1,0 +1,4 @@
+<h2 id="n">N</h2><p>Named monster <strong><em><a href="#page_44">44</a></em></strong>, <a href="#page_46">46</a><br/>
+Negate (damage) <a href="#page_25">25</a>, <strong><em><a href="#page_38">38</a></em></strong>, <a href="#page_76">76</a><br/>
+Negative hex <strong><em><a href="#page_41">41</a></em></strong>, <a href="#page_45">45</a>, <a href="#page_74">74</a>–<a href="#page_75">75</a><br/>
+Normal (monster) <a href="#page_11">11</a>, <a href="#page_19">19</a>, <strong><em><a href="#page_39">39</a></em></strong>, <a href="#page_40">40</a><br/></p>

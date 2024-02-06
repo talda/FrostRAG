@@ -1,0 +1,14 @@
+<h2 id="unlocking-new-classes">Unlocking New Classes</h2><p>New classes are unlocked through campaign progression. There are 11 new classes that can be unlocked. Each new class has two corresponding sealed tuck boxes, labeled with a class icon. When a class is unlocked, you are free to open its tuck boxes and inspect the contents, including the higher-level ability cards. That class is now available when a player creates a new character (see <a href="#page_65">p.65</a>).</p><table>
+<tr>
+<th colspan="4">Locked Class Icons</th>
+</tr>
+<tr>
+<td><img alt="" src="icons/characters/fh-hive-bw-icon.png" title="" width="32"/></td><td><img alt="" src="icons/characters/fh-pyroclast-bw-icon.png" title="" width="32"/></td><td><img alt="" src="icons/characters/fh-metal-mosaic-bw-icon.png" title="" width="32"/></td><td><img alt="" src="icons/characters/fh-deepwraith-bw-icon.png" title="" width="32"/></td>
+</tr>
+<tr>
+<td><img alt="" src="icons/characters/fh-shattersong-bw-icon.png" title="" width="32"/></td><td><img alt="" src="icons/characters/fh-snowdancer-bw-icon.png" title="" width="32"/></td><td><img alt="" src="icons/characters/fh-trapper-bw-icon.png" title="" width="32"/></td><td><img alt="" src="icons/characters/fh-frozen-fist-bw-icon.png" title="" width="32"/></td>
+</tr>
+<tr>
+<td><img alt="" src="icons/characters/fh-infuser-bw-icon.png" title="" width="32"/></td><td><img alt="" src="icons/characters/fh-crashing-tide-bw-icon.png" title="" width="32"/></td><td><img alt="" src="icons/characters/fh-pain-conduit-bw-icon.png" title="" width="32"/></td><td></td>
+</tr>
+</table><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_58">58</a></strong></p><hr/>

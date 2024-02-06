@@ -1,0 +1,12 @@
+<h3 id="manipulating-tiles">Manipulating Tiles</h3><blockquote>
+<p><img alt="Frosthaven Identifier" class="fh-icon new-to-fh-icon" src="icons/general/fh-frosthaven-identifier-color-icon.png" title="Frosthaven Identifier"/> Manipulating tiles is any ability that allows a figure to alter the layout of overlay tiles on the map. There are six ways to manipulate tiles:</p>
+<ul>
+<li><strong>Create:</strong> Allows a figure to place an overlay tile.</li>
+<li><strong>Destroy:</strong> Allows a figure to remove an overlay tile.</li>
+<li><strong>Relocate:</strong> Allows a figure to remove an overlay tile and place it elsewhere.</li>
+<li><strong>Move:</strong> Allows a figure to move an overlay tile up to the specified number of hexes, much like a figure would move. Overlay tiles can only be moved through featureless hexes, including occupied hexes.</li>
+<li><strong>Replace:</strong> Allows a figure to destroy an overlay tile in order to create a different overlay tile in the same hex.</li>
+<li><strong>Spring:</strong> Allows a figure to destroy a trap and apply the effects of the trap to themselves, unless otherwise stated.</li>
+</ul>
+<p>No hex can have more than one overlay tile in it (except corridors and open doors). Traps and obstacles cannot be placed in or moved into occupied hexes. If hazardous terrain is placed in an occupied hex, its effects are not applied to the figure in that hex. When manipulating obstacles, <strong>figures cannot cut off one area of the map from another,</strong> leaving an area that cannot be entered without going through an obstacle. Figures cannot manipulate any overlay tile that is covering a border hex of a map tile.</p>
+</blockquote>

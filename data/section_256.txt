@@ -1,0 +1,6 @@
+<h2 class="footer-heading">Frosthaven Rule Book</h2><div class="footer-col-wrapper">
+<div class="footer-col footer-col-2"></div>
+<div class="footer-col footer-col-3">
+<p>This is a ligthweight, searchable, version of the Frosthaven Rule Book. © 2022 Cephalofair Games, LLC. All Rights Reserved</p>
+</div>
+</div>

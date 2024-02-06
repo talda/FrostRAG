@@ -1,0 +1,1 @@
+<h3 id="medium-complexity">Medium Complexity</h3><p>Summoner of the undead who sacrifices their health to create and heal allies.</p>

@@ -1,0 +1,35 @@
+<h2 id="card-selection">Card Selection</h2><p>After start-of-round effects are applied, each character secretly selects two ability cards from their hand to play face down in front of themselves. Of the two cards, one should be selected as the initiative card. The initiative value at the center of that card will determine their position in the initiative order (see <a href="#page_19">p.19</a>).</p><p>Alternatively, if a character has at least two cards in their discard pile, they can instead declare a long rest at this time (see <a href="#page_38">p.38</a>). They will then perform their long rest on initiative 99 as their entire turn for the round and will not play any cards.</p><p>Characters should not show each other the cards in their hand or give specific information about any <strong>numeric value or title</strong> on these cards. They are, however, allowed to discuss strategy and make general statements about their plans for the round.</p><div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Communication Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>✅ “I’m attacking this Algox Archer near the end of the round.”</td>
+</tr>
+<tr>
+<td>✅ “I’m planning to move here and heal you pretty early, hopefully before the monsters attack.”</td>
+</tr>
+<tr>
+<td>✅ “Can you infuse earth on your turn? I will try to go after you.”</td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td>❌ “You’ll need lower than 17 to go before me.”</td>
+</tr>
+<tr>
+<td>❌ “I’m going in the first quarter of the round.”</td>
+</tr>
+<tr>
+<td>❌ “I should be dealing 4 damage to the Algox Guard.”</td>
+</tr>
+<tr>
+<td>❌ “I need you there for Unbreakable Wall.”</td>
+</tr>
+</tbody>
+</table>
+</div><hr/><p align="right"><strong><a href="#page_1">🔝</a>   <a name="page_19">19</a></strong></p><hr/>

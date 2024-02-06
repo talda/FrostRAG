@@ -1,0 +1,14 @@
+<h1 id="outpost-phase">Outpost Phase</h1><p>After each Scenario Phase, the party must return to Frosthaven and perform an Outpost Phase except in the following situations:</p><ul>
+<li>
+<p>If the scenario was lost, the party may replay the scenario immediately (see <a href="#page_47">p.47</a>).</p>
+</li>
+<li>
+<p>If the scenario has any linked scenarios available, the party may play one of the linked scenarios immediately. Some scenarios are force-linked, in which case the party must play the indicated linked scenario immediately (see <a href="#page_48">p.48</a>).</p>
+</li>
+</ul><p>The Outpost Phase involves spending time in Frosthaven to resolve events, acquire new items and abilities, and interact with buildings. Each Outpost Phase consists of five distinct steps:</p><ol>
+<li><strong>Passage of Time</strong></li>
+<li><strong>Outpost Event</strong></li>
+<li><strong>Building Operations</strong></li>
+<li><strong>Downtime</strong></li>
+<li><strong>Construction</strong></li>
+</ol>

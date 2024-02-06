@@ -1,0 +1,6 @@
+<h1 id="playing-a-scenario">Playing a Scenario</h1><p>Once a scenario is set up, it can then be played. Each scenario is broken up into a series of <strong>rounds</strong>, and each round consists of the following steps:</p><ol>
+<li>Card Selection</li>
+<li>Ordering of Initiative</li>
+<li>Character and Monster Turns</li>
+<li>End of Round</li>
+</ol><p>Before any of these steps occur, apply any start-of-round effects from the scenario rules, such as spawning monsters. These effects can be applied in any order, though all spawning should happen at the same time (see <a href="#page_44">p.44</a>).</p>

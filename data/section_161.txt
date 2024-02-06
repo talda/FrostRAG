@@ -1,0 +1,5 @@
+<h3 id="characters">Characters</h3><ul>
+<li>Characters initially use 20-card starting decks of attack modifier cards, labeled <img alt="Player 1 Icon" class="fh-icon" src="icons/general/fh-player-1-icon.png" title="Player 1 Icon"/>, <img alt="Player 2 Icon" class="fh-icon" src="icons/general/fh-player-2-icon.png" title="Player 2 Icon"/>, <img alt="Player 3 Icon" class="fh-icon" src="icons/general/fh-player-3-icon.png" title="Player 3 Icon"/>, <img alt="Player 4 Icon" class="fh-icon" src="icons/general/fh-player-4-icon.png" title="Player 4 Icon"/>. Advanced attack modifier cards are only added by gaining perks.</li>
+<li>A character cannot perform two top actions or two bottom actions. For the basic actions, “<img alt="Attack Icon" class="fh-icon" src="icons/general/fh-attack-bw-icon.png" title="Attack Icon"/> <strong>2</strong>” is always a top action, and “<img alt="Move Icon" class="fh-icon" src="icons/general/fh-move-bw-icon.png" title="Move Icon"/> <strong>2</strong>” is always a bottom action.</li>
+<li>Exhaustion does not reduce the number of characters in the scenario, for variables like monster hit points or scenario effects.</li>
+</ul>

@@ -1,0 +1,6 @@
+<h2 id="attack-modification-order-p25">Attack Modification Order (<a href="#page_25">p.25</a>)</h2><ol>
+<li>Apply all attack bonuses and penalties.</li>
+<li>Draw and apply an attack modifier card.</li>
+<li>Apply the target’s shield bonus.</li>
+<li>Apply the effects of <img alt="Ward Icon" class="fh-icon" src="icons/conditions/fh-ward-color-icon.png" title="Ward Icon"/> and <img alt="Brittle Icon" class="fh-icon" src="icons/conditions/fh-brittle-color-icon.png" title="Brittle Icon"/></li>
+</ol>

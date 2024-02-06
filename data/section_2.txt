@@ -1,0 +1,1 @@
+<h1 id="frosthaven-rule-book">Frosthaven Rule Book</h1><p>This is a ligthweight, searchable, version of the Frosthaven Rule Book, inspired by <a href="https://github.com/m-ender/gloomhaven-rules">https://github.com/m-ender/gloomhaven-rules</a>.</p><p><strong>Since I do not want to spoil myself this will not contain any of the stickers until we unlock them.</strong></p>
